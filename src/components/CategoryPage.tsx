@@ -48,10 +48,10 @@ export default function CategoryPage({ catKey, showHero = true, showOnThisPage =
 
   const onThisPageItems = [
     hasStat && { id: 'hero', label: navLabel },
-    hasFeature && { id: 'feature', label: featureTitle || 'Data Overview' },
     hasIntro && { id: 'intro', label: 'Introduction' },
+    hasFeature && { id: 'feature', label: featureTitle || 'Data Overview' },
     children && { id: 'custom', label: 'Details' },
-    hasCards && { id: 'cards', label: 'Overview' },
+    hasCards && { id: 'cards', label: t.has(`category_cards_${catKey}_nav`) ? t(`category_cards_${catKey}_nav`) : 'Overview' },
     hasMechanics && { id: 'mechanics', label: 'Core Mechanics' },
     hasAdvantages && { id: 'advantages', label: 'Advantages' },
     hasWeaknesses && { id: 'weaknesses', label: 'Challenges' },
@@ -100,19 +100,19 @@ export default function CategoryPage({ catKey, showHero = true, showOnThisPage =
 
       <div className="glow-line mb-10" />
 
+      {hasIntro && (
+        <section id="intro" className="mb-10">
+          <h2 className="text-2xl font-bold mb-4 font-[var(--font-heading)]">Introduction</h2>
+          <p className="text-[var(--color-text-secondary)] leading-relaxed">{t(`category_intro_${catKey}`)}</p>
+        </section>
+      )}
+
       {hasFeature && (
         <section id="feature" className="mb-10">
           <h2 className="text-2xl font-bold mb-4 font-[var(--font-heading)]">{featureTitle}</h2>
           <div className="feature-table-wrap">
             <div className="feature-table" dangerouslySetInnerHTML={{ __html: featureHtml }} />
           </div>
-        </section>
-      )}
-
-      {hasIntro && (
-        <section id="intro" className="mb-10">
-          <h2 className="text-2xl font-bold mb-4 font-[var(--font-heading)]">Introduction</h2>
-          <p className="text-[var(--color-text-secondary)] leading-relaxed">{t(`category_intro_${catKey}`)}</p>
         </section>
       )}
 
@@ -124,7 +124,7 @@ export default function CategoryPage({ catKey, showHero = true, showOnThisPage =
 
       {hasCards && cardCount > 0 && (
         <section id="cards" className="mb-10">
-          <h2 className="text-2xl font-bold mb-6 font-[var(--font-heading)]">Overview</h2>
+          <h2 className="text-2xl font-bold mb-6 font-[var(--font-heading)]">{t.has(`category_cards_${catKey}_nav`) ? t(`category_cards_${catKey}_nav`) : 'Overview'}</h2>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {Array.from({ length: cardCount }, (_, i) => {
               const name = t(`category_cards_${catKey}_${i}_name`);
