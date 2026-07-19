@@ -47,7 +47,6 @@ export default function CategoryPage({ catKey, showHero = true, showOnThisPage =
   const remaining = articles.slice(3);
 
   const onThisPageItems = [
-    hasStat && { id: 'hero', label: navLabel },
     hasIntro && { id: 'intro', label: 'Introduction' },
     hasFeature && { id: 'feature', label: featureTitle || 'Data Overview' },
     children && { id: 'custom', label: 'Details' },
