@@ -1,0 +1,145 @@
+export const metadata = {
+  id: 'pc-performance-guide',
+  title: 'DragonSword: Awakening PC-Leistungsleitfaden — FPS optimieren und Ruckler reduzieren',
+  description: 'Umfassender Leitfaden zur PC-Leistungsoptimierung für DragonSword: Awakening. Beheben Sie niedrige FPS, reduzieren Sie UE5-Ruckler, optimieren Sie die Grafikeinstellungen und verbessern Sie die Bildraten auf jeder Hardwarekonfiguration.',
+  category: 'system-requirements',
+  difficulty: 'intermediate',
+  slug: 'pc-performance-guide',
+  date: '2025-07-19',
+  image: '/images/system-requirements/pc-performance-guide.webp',
+  video: "PetI2TFvfw4",
+  keywords: [
+    'DragonSword Awakening PC-Leistung',
+    'DragonSword Awakening FPS-Problembehebung',
+    'DragonSword Awakening Einstellungen optimieren',
+    'DragonSword Awakening Ruckler beheben',
+    'DragonSword Awakening UE5-Leistung',
+    'DragonSword Awakening niedrige FPS',
+    'DragonSword Awakening Grafikeinstellungen',
+    'DragonSword Awakening Bildrate'
+  ]
+}
+
+DragonSword: Awakening läuft auf der Unreal Engine 5, und wie alle UE5-Open-World-Spiele kann es die PC-Hardware stark beanspruchen. Selbst Systeme, die die empfohlenen Spezifikationen erfüllen, können Bildrateneinbrüche, Ruckler bei Gebietsübergängen und inkonsistente Leistung erfahren. Dies ist nicht unbedingt ein Zeichen dafür, dass Ihre Hardware versagt — das Streaming-System der UE5, die globale Lumen-Beleuchtung und die Nanite-Geometrie verursachen einen Leistungs-Overhead, der spezifische Optimierungsstrategien erfordert. Dieser Leitfaden bietet einen umfassenden Ansatz zur Leistungsverbesserung in DragonSword: Awakening und behandelt In-Game-Einstellungen, Windows-Optimierungen, Treiberkonfigurationen und hardwarespezifische Tipps.
+
+Für die grundlegenden Systemanforderungen lesen Sie unseren [Leitfaden zu den Systemanforderungen](/de/system-requirements/system-requirements/). Dieser Leitfaden konzentriert sich darauf, was zu tun ist, nachdem Sie bestätigt haben, dass Ihre Hardware diese Anforderungen erfüllt oder übertrifft, die Leistung aber immer noch unbefriedigend ist.
+
+## UE5-Leistungsengpässe verstehen
+
+Bevor Sie Einstellungen anpassen, ist es hilfreich zu verstehen, was Leistungsprobleme in UE5-Spielen verursacht. Die drei Hauptengpässe sind:
+
+1.  **GPU-limitierte Szenarien**: Die GPU kann Bilder nicht schnell genug rendern. Dies ist der häufigste Engpass und wird durch eine GPU-Auslastung nahe 100 % bei niedrigerer CPU-Auslastung identifiziert. Die Lösung besteht darin, GPU-intensive Einstellungen wie Lumen, Schattenqualität und Auflösung zu reduzieren.
+2.  **CPU-limitierte Szenarien**: Die CPU kann Spiellogik und Drawcalls nicht schnell genug verarbeiten. Dies tritt häufig bei der Fortbewegung in der offenen Welt in UE5 auf und wird durch eine CPU-Auslastung nahe 100 % bei niedrigerer GPU-Auslastung identifiziert. Die Lösung besteht darin, CPU-intensive Einstellungen wie Sichtweite und Menschendichte zu reduzieren.
+3.  **Speicher-limitierte Szenarien**: Das System hat nicht genügend RAM oder VRAM, um alle benötigten Assets zu halten, was zu Rucklern führt, wenn Assets geladen und entladen werden. Dies wird durch plötzliche Frameeinbrüche bei Gebietsübergängen identifiziert, nicht durch konstant niedrige Bildraten. Die Lösung besteht darin, den Arbeitsspeicher zu erhöhen, die Texturqualität zu reduzieren oder sicherzustellen, dass Sie von einer SSD ausführen.
+
+Zu erkennen, welcher Engpass auf Ihr System zutrifft, ist der erste Schritt zu einer effektiven Optimierung. Verwenden Sie das integrierte Leistungs-Overlay (zugänglich über das Steam-Overlay oder durch Hinzufügen von `-perfstats` zu den Startoptionen), um GPU-Auslastung, CPU-Auslastung und Frametime-Diagramme während des Spielens zu überwachen.
+
+## Optimierung der In-Game-Grafikeinstellungen
+
+Die wirkungsvollsten Leistungsverbesserungen ergeben sich aus der Anpassung der In-Game-Einstellungen. Die folgenden Empfehlungen sind nach der Größe ihrer Auswirkung geordnet.
+
+### Stufe 1: Einstellungen mit der höchsten Auswirkung
+
+Diese Einstellungen haben den größten Einfluss auf die Bildraten. Passen Sie sie zuerst an, wenn Sie signifikante Leistungssteigerungen benötigen.
+
+**Lumen Global Illumination Qualität**: Auf "Mittel" für ein gutes Gleichgewicht zwischen visueller Qualität und Leistung setzen. Lumen auf "Hoch" kann die Bildraten im Vergleich zu "Mittel" um 15-25 % reduzieren. Der visuelle Unterschied zwischen Mittel und Hoch ist subtil — hauptsächlich in der Genauigkeit der indirekten Beleuchtung in komplexen Szenen. Wenn Sie GPU-limitiert sind, bietet die Reduzierung von Lumen auf "Niedrig" (was Raytracing-GI deaktiviert) eine zusätzliche Verbesserung von 15-20 %, macht die Beleuchtung aber spürbar weniger realistisch.
+
+**Auflösungsskalierung**: Wenn Sie DLSS oder FSR nicht verwenden, reduzieren Sie die interne Auflösungsskalierung von 100 % auf 85-90 %. Dadurch wird das Spiel mit einer niedrigeren Auflösung gerendert und hochskaliert, was eine Steigerung der Bildrate um 10-20 % bei minimalem Verlust der visuellen Qualität ermöglicht. Der integrierte Regler für die Auflösungsskalierung befindet sich in den Anzeigeeinstellungen. Kombinieren Sie dies mit DLSS oder FSR für noch bessere Ergebnisse — siehe unseren [DLSS/FSR-Leitfaden](/de/system-requirements/dlss-fsr-guide/) für Details.
+
+**Schattenqualität**: Von "Episch" auf "Hoch" reduzieren für eine Verbesserung der Bildrate um 10-15 %. Schatten auf "Hoch" sehen immer noch gut aus und sind während schneller Kämpfe selten wahrnehmbar. Eine weitere Reduzierung auf "Mittel" bietet eine zusätzliche Verbesserung von 5-10 %, führt aber zu sichtbarem Schatten-Pop-in während der Bewegung.
+
+### Stufe 2: Einstellungen mit mittlerer Auswirkung
+
+Diese Einstellungen bieten jeweils eine Verbesserung von 5-10 % und sollten angepasst werden, wenn die Änderungen der Stufe 1 nicht ausreichen.
+
+**Sichtweite**: Von "Episch" auf "Hoch" reduzieren für eine Verbesserung von 5-10 % in Open-World-Gebieten. In Dungeons hat diese Einstellung minimale Auswirkungen, da die Sichtweite natürlich durch Wände und Korridore begrenzt ist. Wenn Sie hauptsächlich Ruckler bei der Fortbewegung in der offenen Welt erleben, ist diese Einstellung besonders effektiv.
+
+**Effektqualität**: Von "Episch" auf "Hoch" reduzieren für eine Verbesserung von 5-8 %. Dies beeinflusst die Qualität und Dichte von Partikeleffekten während des Kampfes. Auf "Hoch" sehen Effekte immer noch gut aus und verursachen weniger wahrscheinlich Frameeinbrüche bei intensiven Multi-Helden-Tag-Combo-Sequenzen.
+
+**Post-Processing-Qualität**: Von "Episch" auf "Hoch" reduzieren für eine Verbesserung von 3-7 %. Dies beeinflusst Bloom, Tiefenschärfe und Farbkorrektur. Der visuelle Unterschied ist während des Spiels minimal, obwohl Zwischensequenzen etwas weniger ausgefeilt aussehen können.
+
+### Stufe 3: Einstellungen mit geringer Auswirkung
+
+Diese Einstellungen haben minimale Auswirkungen auf die Leistung und sollten im Allgemeinen auf ihren Standardwerten belassen werden, es sei denn, Sie benötigen jedes einzelne Bild.
+
+**Texturqualität**: Nur reduzieren, wenn Sie VRAM-limitiert sind (weniger als 8 GB VRAM). Bei 8 GB oder mehr hat die Texturqualität vernachlässigbare Auswirkungen auf die Bildraten. Das Reduzieren von Texturen kann zu sichtbaren Unschärfen auf nahen Oberflächen führen.
+
+**Anti-Aliasing**: Das TAA-Anti-Aliasing der UE5 hat minimale Leistungskosten. Das Deaktivieren führt zu Kantenflimmern und Bildzittern ohne nennenswerte Bildratengewinne. Lassen Sie dies aktiviert.
+
+**Bewegungsunschärfe**: Persönliche Präferenzeinstellung mit vernachlässigbarer Leistungsauswirkung. Deaktivieren Sie sie, wenn Sie scharfe Bilder bei Kamerabewegungen bevorzugen, erwarten Sie aber keine Verbesserung der Bildrate.
+
+## Windows-Optimierung für UE5-Spiele
+
+Mehrere Windows-Einstellungen können die Leistung von UE5-Spielen über die In-Game-Einstellungen hinaus beeinflussen.
+
+### Energiesparplan
+
+Stellen Sie Ihren Windows-Energiesparplan auf "Höchstleistung" anstatt auf "Ausbalanciert". Der ausbalancierte Plan erlaubt es Windows, Ihre CPU und GPU in Momenten geringer Nachfrage herunterzutakten, was zu inkonsistenten Frame-Zeiten führt, wenn die Nachfrage während Kämpfen oder Gebietsübergängen plötzlich ansteigt. Höchstleistung hält die Taktraten erhöht und sorgt für konsistentere Bildraten.
+
+Um den Energiesparplan zu ändern, gehen Sie zu Einstellungen > System > Strom & Akku > Energiemodus und wählen Sie "Beste Leistung". Auf Desktop-PCs hat dies keine nennenswerten Nachteile. Auf Laptops erhöht dies den Stromverbrauch und die Wärmeentwicklung, verwenden Sie es daher nur im Netzbetrieb.
+
+### Spielmodus und Hardware-beschleunigte GPU-Planung
+
+Aktivieren Sie den Windows-Spielmodus (Einstellungen > Gaming > Spielmodus) und die Hardware-beschleunigte GPU-Planung (Einstellungen > Anzeige > Grafik > Standardgrafikoptionen ändern). Beide Funktionen priorisieren die Spieleleistung gegenüber Hintergrundaufgaben und können die Konsistenz der Bildrate um 2-5 % verbessern.
+
+### Hintergrundanwendungen
+
+Schließen Sie unnötige Hintergrundanwendungen, bevor Sie DragonSword: Awakening spielen. UE5-Spiele reagieren empfindlich auf Speicherdruck und CPU-Konkurrenz. Browser-Tabs mit Videoinhalten, Streaming-Software und ressourcenintensive Dienstprogramme konkurrieren alle um Systemressourcen. Selbst auf Systemen mit 16 GB RAM kann das Schließen von Chrome-Tabs speicherbezogene Ruckler beim Asset-Streaming reduzieren.
+
+## Treiberoptimierung
+
+Ihre GPU-Treiber auf dem neuesten Stand zu halten, ist für die UE5-Leistung unerlässlich. NVIDIA und AMD veröffentlichen regelmäßig Treiber-Updates, die die Leistung für neu veröffentlichte Spiele optimieren.
+
+### NVIDIA-Treibereinstellungen
+
+Aktualisieren Sie auf den neuesten Game-Ready-Treiber über GeForce Experience oder die NVIDIA-Website. Legen Sie in der NVIDIA-Systemsteuerung die folgenden Optionen für DragonSword: Awakening fest:
+
+-   **Energieverwaltungsmodus**: Maximale Leistung bevorzugen
+-   **Texturfilterung - Qualität**: Hohe Leistung
+-   **Threaded-Optimierung**: Ein
+-   **Vertikale Synchronisation**: Aus (verwenden Sie stattdessen In-Game-VSync für geringere Eingabeverzögerung)
+
+### AMD-Treibereinstellungen
+
+Aktualisieren Sie auf den neuesten AMD Software: Adrenalin Edition Treiber. In der AMD-Systemsteuerung:
+
+-   **GPU-Workload**: Grafik
+-   **Oberflächenformatoptimierung**: Aktiviert
+-   **Texturfilterqualität**: Leistung
+-   **Anisotrope Filterung**: Anwendungsgesteuert
+
+## Hardwarespezifische Leistungstipps
+
+### NVIDIA RTX 3060 (Empfohlene Spezifikation)
+
+Die RTX 3060 ist die empfohlene GPU und kann mit optimierten Einstellungen 60 FPS bei 1080p erreichen. Aktivieren Sie DLSS im "Qualität"-Modus für das beste Gleichgewicht zwischen visueller Qualität und Leistung. DLSS Qualität bei 1080p bietet eine Verbesserung der Bildrate um 25-35 % mit minimalen visuellen Artefakten. Vermeiden Sie DLSS "Ultra-Performance" bei 1080p, da die interne Auflösung zu niedrig wird und sichtbare Unschärfe verursacht.
+
+### AMD RX 6600 XT
+
+Die RX 6600 XT ist das AMD-Äquivalent der empfohlenen Spezifikation. Aktivieren Sie FSR 2 im "Qualität"-Modus für ähnliche Leistungssteigerungen wie DLSS. FSR 2 funktioniert auf allen GPUs, nicht nur auf AMD, daher ist dies die beste Option für Spieler mit älteren NVIDIA-Karten, die DLSS nicht unterstützen. Für mehr zu FSR-Einstellungen lesen Sie unseren [DLSS- und FSR-Leitfaden](/de/system-requirements/dlss-fsr-guide/).
+
+### Systeme mit 8 GB RAM
+
+Wenn Sie nicht sofort auf 16 GB aufrüsten können, reduzieren Sie die Texturqualität auf "Mittel" und schließen Sie alle Hintergrundanwendungen. Erwägen Sie die Verwendung eines USB-Flash-Laufwerks mit Windows ReadyBoost, um zusätzlichen Auslagerungsspeicher bereitzustellen — obwohl dies nicht so effektiv ist wie echter RAM, kann es Ruckler reduzieren, indem es schnelleren Zugriff als eine HDD bietet. Das effektivste Upgrade für 8-GB-Systeme ist einfach das Hinzufügen von mehr RAM — ein 16-GB-DDR4-Kit kostet relativ wenig und bietet eine dramatische Verbesserung.
+
+## FAQ
+
+### Warum ruckelt DragonSword Awakening in der offenen Welt?
+
+Ruckeln in der offenen Welt in UE5-Spielen wird durch Asset-Streaming verursacht — die Engine lädt Texturen, Geometrie und andere Assets on-the-fly, während Sie sich durch die Welt bewegen. Wenn Ihr Speichergerät langsam ist (HDD) oder Ihr RAM nicht ausreicht (8 GB), kann das Streaming-System Assets nicht schnell genug laden, was zu sichtbaren Rucklern führt. Die Lösungen sind: Verwenden Sie eine SSD, erhöhen Sie den RAM auf 16 GB und reduzieren Sie die Einstellungen für Sichtweite und Texturqualität. Für mehr zu diesem Thema lesen Sie unseren [Leitfaden zu den Systemanforderungen](/de/system-requirements/system-requirements/).
+
+### Wie zeige ich FPS in DragonSword Awakening an?
+
+Verwenden Sie den FPS-Zähler des Steam-Overlays (Steam > Einstellungen > Im Spiel > FPS-Zähler im Spiel) oder fügen Sie `-perfstats` zu den Startoptionen des Spiels hinzu, um ein detaillierteres Leistungs-Overlay zu erhalten. Das Steam-Overlay bietet eine einfache FPS-Zahl, während die Leistungsstatistiken Frametime-Diagramme, GPU-/CPU-Auslastung und andere Diagnoseinformationen anzeigen.
+
+### Kann ich DragonSword Awakening mit 1440p oder 4K spielen?
+
+Für 1440p benötigen Sie mindestens eine RTX 3060 Ti oder RX 6700 XT für 60 FPS mit mittelhohen Einstellungen und aktiviertem DLSS/FSR. Für 4K benötigen Sie eine RTX 4070 oder RX 7800 XT für 60 FPS mit DLSS/FSR und einigen reduzierten Einstellungen. Ohne DLSS/FSR ist die 4K-Leistung für GPUs der aktuellen Generation sehr anspruchsvoll. Für mehr zu Upscaling-Technologien lesen Sie unseren [DLSS/FSR-Leitfaden](/de/system-requirements/dlss-fsr-guide/).
+
+### Gibt es eine Bildratenbegrenzung in DragonSword Awakening?
+
+Das Spiel erzwingt keine harte Bildratenbegrenzung, aber das Frame-Pacing der UE5 kann die maximale Bildrate in einigen Szenarien begrenzen. Wenn Sie die Bildrate entfesseln möchten, deaktivieren Sie In-Game-VSync und setzen Sie die maximale Bildrate in den Anzeigeeinstellungen auf "Unbegrenzt". Beachten Sie, dass sehr hohe Bildraten (über 120 FPS) in einigen UE5-Spielen Physikprobleme verursachen können, obwohl dies speziell für DragonSword: Awakening nicht weit verbreitet gemeldet wurde.
+
+### Unterstützt das Spiel DLSS 3 Frame Generation?
+
+Zum Zeitpunkt der Veröffentlichung unterstützt DragonSword: Awakening DLSS Super Resolution (Upscaling), hat aber DLSS 3 Frame Generation nicht offiziell bestätigt. Diese Funktion, exklusiv für RTX-40-Serien-GPUs, interpoliert zusätzliche Bilder für deutlich höhere FPS. Hound13 könnte die Unterstützung in einem zukünftigen Patch hinzufügen. Überprüfen Sie unseren [Update-Leitfaden](/de/updates/patch-notes-history/) für die neuesten Patch-Informationen.
