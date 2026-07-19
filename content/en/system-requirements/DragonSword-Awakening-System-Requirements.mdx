@@ -88,13 +88,17 @@ UE5 games offer a wide range of graphics settings that dramatically affect perfo
 ### High-Impact Settings
 
 - **Lumen Global Illumination**: UE5's dynamic global illumination system is the single most demanding graphics setting. Turning Lumen from "High" to "Medium" can improve frame rates by 15-25% with minimal visual quality loss. Turning it to "Low" disables ray-traced GI entirely and provides an additional 15-20% improvement but makes lighting significantly less realistic.
+
 - **Virtual Shadow Maps**: UE5's shadow system is the second most demanding setting. Reducing shadow quality from "Epic" to "High" improves performance by 10-15%. This is a good setting to reduce if you want higher frame rates without sacrificing the visual quality of lighting.
+
 - **View Distance**: Controls how far into the distance detailed geometry is rendered. Reducing view distance from "Epic" to "High" improves performance by 5-10% in open-world areas. In dungeons, this setting has minimal impact.
 
 ### Low-Impact Settings
 
 - **Texture Quality**: Has minimal impact on frame rates if you have sufficient VRAM (8 GB+). Only reduce textures if you are experiencing VRAM-related stuttering.
+
 - **Post-Processing Quality**: Moderate impact (5-10% difference between Low and Epic). Reducing this can help if you are borderline on performance.
+
 - **Motion Blur**: Personal preference setting with negligible performance impact. Disable it if you prefer sharper visuals during camera movement.
 
 For detailed performance optimization strategies, see our [PC performance guide](/en/system-requirements/pc-performance-guide/).
