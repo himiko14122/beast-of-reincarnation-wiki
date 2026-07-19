@@ -307,14 +307,14 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         </div>
         <p className="text-[var(--color-text-secondary)] mb-6 leading-relaxed">{t('home_module_heroes_desc')}</p>
         <div className="rounded-2xl bg-white/[0.02] border border-white/[0.08] overflow-hidden backdrop-blur-sm">
-          <div className="grid grid-cols-[2rem_1fr_4rem_1fr_1fr] sm:grid-cols-[2.5rem_1fr_5rem_1fr_1fr] gap-4 text-xs font-semibold text-[var(--color-text-muted)] uppercase tracking-wider border-b border-[var(--color-border)] px-4 py-3">
+          <div className="grid grid-cols-[2rem_1fr_1fr_1fr_1fr] sm:grid-cols-[2.5rem_1fr_1fr_1fr_1fr] gap-4 text-xs font-semibold text-[var(--color-text-muted)] uppercase tracking-wider border-b border-[var(--color-border)] px-4 py-3">
             <span></span><span>Hero</span><span>Tier</span><span>Ailment</span><span>Faction</span>
           </div>
           {heroes.map((hero, idx) => {
             const tc = tierColor(hero.tier);
             const Icon = HERO_ICONS[hero.id] || Shield;
             return (
-              <Link key={hero.id} href="/heroes" className="grid grid-cols-[2rem_1fr_4rem_1fr_1fr] sm:grid-cols-[2.5rem_1fr_5rem_1fr_1fr] items-center gap-4 px-4 py-3 border-b border-white/[0.04] last:border-b-0 hover:bg-[var(--color-accent)]/5 transition-colors group">
+              <Link key={hero.id} href="/heroes" className="grid grid-cols-[2rem_1fr_1fr_1fr_1fr] sm:grid-cols-[2.5rem_1fr_1fr_1fr_1fr] items-center gap-4 px-4 py-3 border-b border-white/[0.04] last:border-b-0 hover:bg-[var(--color-accent)]/5 transition-colors group">
                 <span className="text-xs font-mono text-[var(--color-text-muted)]">{idx + 1}</span>
                 <span className="flex items-center gap-2">
                   <Icon className="w-4 h-4 text-[var(--color-accent)] shrink-0" />
