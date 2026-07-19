@@ -21,6 +21,11 @@ This guide dissects the mechanics of Shock and Airborne, identifies which heroes
 
 Shock is a debilitating electrical stun that locks enemies in a convulsing animation for a base duration of 2.5 seconds. During this window, afflicted targets cannot act, take 15% increased damage from all sources, and any incoming Airborne or Knockdown effects have their thresholds reduced by 30%. This reduction is multiplicative, meaning a boss with high ailment resistance becomes significantly more vulnerable to launch and knockback.
 
+| Ailment | Application Type | Base Duration | Primary Effect | Secondary Effect |
+|---------|-----------------|---------------|----------------|-----------------|
+| Shock | Binary gauge-fill | 2.5 seconds | Immobilizes enemy; +15% damage taken | -30% Airborne/Knockdown thresholds on target |
+| Airborne | Gauge-fill with decay | 2 seconds (extendable) | Launches enemy; enables aerial combos | +10% Bleed damage on airborne targets |
+
 ### Shock Application Mechanics
 
 Unlike Bleed, which stacks intensity, Shock operates on a binary system: an enemy is either Shocked or not. However, the "Shock Gauge" fills based on the hero's Shock Potency stat and the enemy's Shock Resistance. Heroes like Lute and Renia excel at building this gauge rapidly. Once the gauge exceeds the resistance threshold, the enemy becomes Shocked, and the gauge resets. Repeated Shocks on the same target within 10 seconds incur diminishing returns, reducing the duration by 20% each time, down to a minimum of 0.5 seconds.
@@ -38,6 +43,17 @@ Several heroes in DragonSword: Awakening can reliably inflict Shock, each with u
 - **Kalien**: While primarily a bleed-focused hero, Kalien's secondary skill tree includes "Voltaic Edge," which converts 20% of his physical damage to lightning and adds minor Shock buildup. It's not his primary role, but skilled players can leverage this for hybrid ailment builds.
 
 - **Eileen**: The enigmatic rogue's "Shock Trap" Familiar skill deploys a mine that detonates on contact, applying significant Shock buildup. Combined with her high mobility, Eileen can set up shocking ambushes in the Continent of Orbis.
+
+| Hero | Shock Method | Skill | Airborne Method | Key Strength |
+|------|-------------|-------|----------------|-------------|
+| Lute | Volt Slash (Signal Skill) | High Shock Potency; guaranteed on perfect dodge | — | Consistent Shock source via Static Field Familiar |
+| Renia | Arcing Storm (basic/Signal) | Fastest gauge builder | — | Thunderous Entry instantly Shocks all in radius |
+| Dana | — | — | Cyclone Uppercut / Rising Tempest | Most reliable launcher; aerial combo finisher adds launch value |
+| Alex | — | — | Dragon Uppercut / Meteor Strike | Juggling powerhouse; high stun on aerial attacks |
+| Charlotte | — | — | Shadow Leap / Aerial Rave | Can suspend single target for 10+ seconds |
+| Johnny | Blast Mine → Aerial Barrage | — | Launches vertically from below | Can juggle multiple enemies |
+| Kalien | Voltaic Edge (secondary tree) | 20% physical → lightning; minor buildup | — | Hybrid Bleed/Shock niche |
+| Eileen | Shock Trap (Familiar skill) | Mine-based application | — | Ambush setup with high mobility |
 
 ## Airborne Mechanics and Juggle Potential
 
@@ -76,6 +92,13 @@ Consider this devastating tag combo:
 4. **Finish with Lute**: Tag back to Lute. With enemies Shocked and Airborne, Lute's "Volt Slash" deals massive damage, benefiting from both the Shock damage amplification and the aerial damage bonus.
 
 According to community reports, this exact sequence can defeat Valiant Hatchling bosses in under 30 seconds with optimized gear.
+
+| Step | Hero | Action | Ailment Applied | Damage Bonus |
+|------|------|--------|----------------|-------------|
+| 1 | Renia | Thunderous Entry (Switching Signal) | Shock (all enemies in area) | +15% damage amplification |
+| 2 | Alex | Meteor Strike (Switching Signal) | Airborne (reduced threshold from Shock) | Launch bonus on Shocked targets |
+| 3 | Dana | Rising Tempest | Airborne extension | Additional launch value; sustained juggle |
+| 4 | Lute | Volt Slash | Shock + aerial hit | Combined Shock amp + aerial damage bonus |
 
 ## Interactions with Other Status Ailments
 

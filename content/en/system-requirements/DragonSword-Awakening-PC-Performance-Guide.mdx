@@ -40,6 +40,18 @@ Identifying which bottleneck applies to your system is the first step toward eff
 
 The most impactful performance improvements come from adjusting in-game settings. The following recommendations are organized by the magnitude of their impact.
 
+| Setting | Recommended Value | Performance Gain | Visual Impact | Bottleneck Addressed |
+|---|---|---|---|---|
+| Lumen GI Quality | Medium | 15-25% vs High | Subtle (indirect lighting accuracy) | GPU-bound |
+| Resolution Scale | 85-90% | 10-20% | Minimal with upscaling | GPU-bound |
+| Shadow Quality | High (from Epic) | 10-15% | Minor (pop-in at Medium) | GPU-bound |
+| View Distance | High (from Epic) | 5-10% | Distant detail reduction | CPU-bound |
+| Effects Quality | High (from Epic) | 5-8% | Slightly fewer particles | GPU-bound |
+| Post-Processing | High (from Epic) | 3-7% | Minimal (cutscene polish) | GPU-bound |
+| Texture Quality | Keep at Epic (8 GB+ VRAM) | Negligible | Blurring if reduced | VRAM-limited only |
+| Anti-Aliasing | Keep TAA enabled | Negligible if disabled | Jaggies/shimmer if off | Not a bottleneck |
+| Motion Blur | Personal preference | Negligible | Sharpness during movement | Not a bottleneck |
+
 ### Tier 1: Highest Impact Settings
 
 These settings have the largest effect on frame rates. Adjust them first if you need significant performance gains.
@@ -73,6 +85,14 @@ These settings have minimal performance impact and should generally be left at t
 ## Windows Optimization for UE5 Games
 
 Several Windows settings can affect UE5 game performance beyond what in-game settings control.
+
+| Optimization | Setting | How to Apply | Expected Gain | Notes |
+|---|---|---|---|---|
+| Power Plan | High Performance | Settings > System > Power & Battery > Power Mode > Best Performance | Frame rate consistency | Laptops: use only when plugged in |
+| Game Mode | Enabled | Settings > Gaming > Game Mode | 2-5% consistency | Prioritizes game over background tasks |
+| Hardware-Accelerated GPU Scheduling | Enabled | Settings > Display > Graphics > Change default graphics settings | 2-5% consistency | Reduces CPU overhead for GPU scheduling |
+| Background Apps | Close all | Close Chrome, streaming, heavy utilities before playing | Reduces memory stuttering | Even on 16 GB RAM, browsers compete for resources |
+| SSD Storage | Use SSD for game install | Install on NVMe/SATA SSD | Eliminates asset-streaming stutter | HDD causes severe open-world stuttering |
 
 ### Power Plan
 
@@ -121,6 +141,14 @@ Update to the latest AMD Software: Adrenalin Edition driver. In the AMD control 
 ### NVIDIA RTX 3060 (Recommended Spec)
 
 The RTX 3060 is the recommended GPU and can achieve 60 FPS at 1080p with optimized settings. Enable DLSS at "Quality" mode for the best balance of visual quality and performance. DLSS Quality at 1080p provides a 25-35% frame rate improvement with minimal visual artifacts. Avoid DLSS "Ultra Performance" at 1080p, as the internal resolution becomes too low and introduces visible blurring.
+
+| Hardware | Target Resolution | Upscaling | Key Settings | Expected FPS | Priority Tip |
+|---|---|---|---|---|---|
+| NVIDIA RTX 3060 | 1080p | DLSS Quality | Lumen Medium, Shadows High | 60 FPS | Avoid DLSS Ultra Performance at 1080p |
+| AMD RX 6600 XT | 1080p | FSR 2 Quality | Lumen Medium, Shadows High | 60 FPS | FSR 2 works on all GPUs, not just AMD |
+| 8 GB RAM System | 1080p | DLSS/FSR Quality | Textures Medium, close background apps | 40-50 FPS (stuttery) | Upgrade to 16 GB RAM for dramatic improvement |
+| RTX 3060 Ti / RX 6700 XT | 1440p | DLSS/FSR Quality | Medium-High settings | 60 FPS | Reduce Lumen to Medium for stable frames |
+| RTX 4070 / RX 7800 XT | 4K | DLSS/FSR Quality | Some settings reduced | 60 FPS | Without upscaling, 4K is very challenging |
 
 ### AMD RX 6600 XT
 

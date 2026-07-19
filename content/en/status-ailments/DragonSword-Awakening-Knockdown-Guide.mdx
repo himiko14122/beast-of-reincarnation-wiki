@@ -30,7 +30,24 @@ In DragonSword: Awakening, Knockdown is a hard crowd-control state that forces a
 
 The ailment builds up through an invisible gauge, referred to in the community as the "Stagger Gauge" or "Knockdown Threshold." Every enemy in the game has a hidden numerical value for this gauge. Skills labeled with the Knockdown tag or those with high "Impact" stats apply varying amounts of "Stagger Damage" to this gauge. When the gauge fills, the enemy enters the Knockdown state. The duration of the Knockdown is fixed per enemy type but can be extended or shortened by specific hero passives, such as those found in the Hero Request skill trees for certain characters.
 
+| Trigger | Stagger Gauge Contribution | Hero Example | Notes |
+|---------|---------------------------|-------------|-------|
+| Charged Heavy Attack | High (varies by hero) | Johnny, Lute, Othello | Most reliable for standard mobs |
+| Signal Skill (Knockdown-tagged) | Very High | Lute's "Ground Splitter" (~40% of standard gauge) | Fills gauge on skill use |
+| Multi-hit combos | Moderate per hit, high cumulative | Lute's "Shadow Flurry" | Rapid small contributions add up |
+| Switching Signal | Moderate + bonus effects | Johnny's impact on swap | Often triggers with ailment synergy |
+| Familiar attacks | Minor | Valiant Hatchling charge | Bonus contribution, not primary |
+| Ground-pound AoE | Very High | Johnny's "Seismic Wave" | Multiple hits, each applying gauge |
+
 Critically, the Knockdown state is not just a visual spectacle. While an enemy is knocked down, all incoming damage from any source (Signal Skills, Switching Signal combos, or Familiar attacks) receives a damage multiplier bonus, estimated at 15% to 30% based on community damage-parsing reports. This makes the Knockdown window the prime moment to unleash your team's most powerful single-hit abilities or coordinated tag combos. The key to mastery lies not just in triggering the Knockdown, but in timing it to align with your team's cooldown windows, ensuring maximum burst damage during the vulnerability period. For specific hero-based combo chains that leverage Knockdown, check our [Knockdown Combo Chains](/en/tag-combos/knockdown-combo-chains/) guide.
+
+| Follow-Up Strategy | Hero | Damage Bonus | Why It Works |
+|-------------------|------|--------------|-------------|
+| Executioner's Shot | Johnny | 50% increased damage to knocked-down targets | Dedicated punish skill for Knockdown |
+| Arcane Barrage | Castella | Guaranteed hits + 30% crit chance (Static Target) | All missiles connect on stationary target |
+| Titan's Wrath | Kalsion | Slow overhead slam; massive single-hit | Highest single-hit damage during vulnerability |
+| Time Loop extension | Roxy | Adds 1.5 seconds to Knockdown | Extends burst window for team |
+| Binding Vines + slow | Dana | Extends effective window via action speed reduction | Hybrid support approach |
 
 ### The Stagger Gauge and Hidden Thresholds
 
@@ -77,6 +94,15 @@ For enemies weak to Shock, a devastating setup involves Aria or another Shock-in
 Bosses in the Rift System and high-level Hero Requests have pronounced Knockdown resistance. The first Knockdown is always the easiest to achieve. After the boss recovers, they gain a visible buff called "Indomitable," which increases their Stagger Gauge threshold by an estimated 30-50% and grants them a brief period of Knockdown immunity during certain attack animations.
 
 The key to managing boss Knockdown is to recognize these immune phases. For example, the Organa Order boss, Theresia, is completely immune to Knockdown while her barrier is active. You must first deplete her barrier with elemental damage (preferably from a Familiar like the Valiant Hatchling) before your Stagger Damage will register. Similarly, the Abyssal Direwolf is immune to Knockdown during its howling phase and its enrage sequence. Attacking during these phases wastes your cooldowns and builds no gauge. The optimal strategy is to save your major Stagger skills for immediately after a boss finishes a large attack animation, when their resistance is lowest.
+
+| Enemy Type | Estimated Stagger Threshold | Knockdown Duration | Post-Knockdown Resistance | Special Behavior |
+|-----------|---------------------------|--------------------|--------------------------|-----------------|
+| Standard mobs (Red Fox Mercenaries) | ~100 points | ~3.2 seconds | Minor increase | Single charged heavy often sufficient |
+| Elite enemies | ~250–500 points | ~3 seconds | Significant increase | Requires 2–3 dedicated skills |
+| Organa Order boss (Theresia) | Very high | Short | "Indomitable" buff (+30-50% threshold) | Immune while barrier is active |
+| Abyssal Direwolf | Very high | Short | Immune during howl + enrage | Immune during specific phases |
+| Valiant Hatchling | High | Moderate | Scaling resistance | Fast mobility requires sticking |
+| Hundred Soul boss | Extreme | Very short | Rapid diminishing returns | 2.5s → 1.8s → 1.2s → 0.5s → immune |
 
 Once a boss is knocked down, the entire party gains the damage bonus. This is the moment for your main DPS, perhaps Castella or Kalien, to use their most powerful, long-cast-time abilities that would otherwise be interrupted. The coordination of Knockdown windows with party-wide damage cooldowns is what separates a good clear time from a world-record pace.
 

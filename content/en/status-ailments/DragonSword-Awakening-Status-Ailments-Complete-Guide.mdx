@@ -28,6 +28,14 @@ Each Status Ailment is tied to specific damage types and hero abilities, buildin
 
 This guide consolidates every critical mechanic, threshold value, and hero synergy across all five Status Ailments. Whether you're building a team around Johnny's knockdown pressure or maximizing Aria's freeze combos, you'll find the exact numbers and strategies needed to optimize your ailment application.
 
+| Ailment | Effect | Primary Heroes | Key Interaction |
+|---------|--------|----------------|-----------------|
+| Knockdown | Grounds enemy, ~3.2s immobile | Johnny, Lute, Kalien | Cannot coexist with Airborne |
+| Shock | Interrupts action queue, 2s skill lockout | Dana, Roxy | Chain multiplier up to 5x at +0.3s each |
+| Freeze | Complete immobilization, +50% first-hit damage | Aria, Theresia | Shatter mechanic on break |
+| Airborne | Launches enemy, enables aerial combos | Renia, Eileen | Cannot coexist with Knockdown |
+| Bleed | Sustained DoT, 50% healing reduction | Alex, Liza, Jerome | Stacks independently of all ailments |
+
 ## Knockdown: The Foundation of Ground Control
 
 Knockdown stands as the most universally accessible Status Ailment in DragonSword: Awakening. When the Knockdown gauge reaches its threshold on an enemy, the target is forcibly grounded, interrupting any ongoing attack and rendering them vulnerable for approximately 3.2 seconds (estimated based on community testing against standard-sized enemies). During this window, the enemy cannot block, dodge, or activate defensive abilities, making it the premier setup tool for burst damage rotations.
@@ -122,11 +130,34 @@ The most powerful interactions come from chaining these Switching Signals. A com
 
 Status Ailments follow strict interaction rules that govern how they can be combined. Knockdown and Airborne cannot coexist—applying Airborne to a Knocked Down enemy will launch them, while applying Knockdown to an Airborne enemy will ground them. Shock and Freeze can coexist, with Freeze taking priority for the incapacitation effect. Bleed stacks independently of all other ailments and can be applied simultaneously with any other effect.
 
+| | Knockdown | Shock | Freeze | Airborne | Bleed |
+|---|---|---|---|---|---|
+| **Knockdown** | Diminishing returns | Can coexist | Cannot coexist (Freeze priority) | Mutual exclusion — one overwrites the other | Can coexist |
+| **Shock** | Can coexist | Chain stacking up to 5x | Can coexist (Freeze priority) | Can coexist | Can coexist |
+| **Freeze** | Cannot coexist (Freeze priority) | Can coexist (Freeze priority) | Shatter on first hit | Can chain: Freeze → Airborne on Shatter | Can coexist |
+| **Airborne** | Mutual exclusion — one overwrites the other | Can coexist | Can chain: Freeze → Airborne on Shatter | Height scales with excess buildup | Can coexist |
+| **Bleed** | Can coexist | Can coexist | Can coexist | Can coexist | Additive stacking, no cap |
+
 The most devastating combination is Freeze into Airborne. When a Frozen enemy is launched, they take the Shatter damage from the first hit, followed by Airborne buildup. This allows for extended aerial combos with the bonus damage from Shatter, creating the highest damage windows in the game. Coordinated teams can chain this into Knockdown upon landing, then Shock to prevent retaliation, creating a cycle of permanent enemy incapacitation.
 
 ## Hero-Specific Ailment Builds
 
 Certain heroes have kits that dramatically alter how ailments function. Building around these heroes requires different gearing priorities and team compositions, but the payoff can be extraordinary.
+
+| Hero | Best Ailment | Application Method | Synergy Partner |
+|------|-------------|-------------------|-----------------|
+| Johnny | Knockdown | Iron Fist combo finisher (500 pts), Ground Splitter Signal Skill | Castella (extends KD by 1.5s) |
+| Lute | Knockdown | Charged heavy (350 pts), Ground Splitter Signal Skill (40% gauge fill) | Johnny (Heavy Handed +25% party KD) |
+| Dana | Shock | Thunderclap (400 pts), Switching Signal doubles next Shock | Roxy (maintains Shock chains) |
+| Roxy | Shock | Storm Waltz (3x150 pts), Conductive passive (+1s chain) | Dana (initial burst + Switching Signal) |
+| Aria | Freeze | Glacial Prison (800 pts), Permafrost passive adds Bleed | Alex (Bleed extension loop) |
+| Theresia | Freeze | Frost Armor passive (50 pts/hit), Absolute Zero Signal Skill | Aria (burst Freeze into sustained) |
+| Renia | Airborne | Cyclone Kick (600 pts), follows enemy into air | Eileen (Aerial Superiority +30% dmg) |
+| Eileen | Airborne | Sky Splitter Signal Skill (+2s extension), Aerial Superiority passive | Renia (launch into sustained air) |
+| Alex | Bleed | Bloodletter (400 pts, refreshes stacks), Hemorrhage passive (+25% dmg) | Liza (AoE Bleed spread) |
+| Liza | Bleed | Crimson Dance (300 pts AoE) | Alex (infinite stack refresh) |
+| Othello | Freeze (AoE) | Thermal Shock (300% dmg to Frozen, spreads Freeze) | Aria (setup Freeze for Shatter) |
+| Jerome | Bleed (area) | Barbed Wire trap (200 pts), Gaping Wounds passive (+3s duration) | Alex (stack sustain) |
 
 ### Johnny: The Knockdown King
 

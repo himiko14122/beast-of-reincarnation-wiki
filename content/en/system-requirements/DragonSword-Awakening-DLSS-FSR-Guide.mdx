@@ -53,11 +53,39 @@ FSR 2 has the same quality modes as DLSS with the same internal resolution ratio
 
 If you have an RTX GPU, use DLSS. The neural network-based approach produces slightly better image quality than FSR 2 at the same internal resolution, particularly in motion. If you have a non-RTX NVIDIA GPU or an AMD GPU, use FSR 2. Both technologies provide similar performance gains at equivalent quality modes, so the choice is largely determined by GPU compatibility.
 
+### DLSS vs FSR Feature Comparison
+
+| Feature | NVIDIA DLSS | AMD FSR 2 |
+|---------|------------|-----------|
+| Technology | Neural network (AI-trained) | Temporal algorithm (non-AI) |
+| GPU Requirement | RTX 2060 and newer (RTX only) | Virtually all modern GPUs (AMD, NVIDIA, Intel) |
+| Image Quality at Same Internal Res | Slightly better (fine detail, motion) | Very good, slightly below DLSS |
+| Performance Gain at Same Mode | Same as FSR 2 | Same as DLSS |
+| Quality Modes | Quality, Balanced, Performance, Ultra Performance | Quality, Balanced, Performance, Ultra Performance |
+| Internal Resolution Ratios | Identical to FSR 2 | Identical to DLSS |
+| Frame Generation | DLSS 3 (RTX 40-series only) | FSR 3 (separate feature) |
+| Sharpening | Built-in (automatic) | RCAS adjustable slider |
+| Best For | RTX GPU owners | Non-RTX GPU owners, AMD GPU owners |
+
 For the baseline hardware recommendations, see our [system requirements guide](/en/system-requirements/system-requirements/).
 
 ## Best DLSS Settings for DragonSword: Awakening
 
 The optimal DLSS mode depends on your display resolution and target frame rate. The following recommendations are based on testing of DragonSword: Awakening on common GPU configurations.
+
+### Recommended DLSS/FSR Settings by GPU and Resolution
+
+| GPU | Resolution | Recommended Mode | Internal Res | Expected FPS (High Settings) | Visual Quality Assessment |
+|-----|-----------|-----------------|-------------|------------------------------|--------------------------|
+| RTX 3060 | 1080p | DLSS Quality | ~720p | 60-70 FPS | Very close to native; minimal softness |
+| RTX 3060 Ti | 1080p | DLSS Quality | ~720p | 65-75 FPS | Excellent; nearly indistinguishable from native |
+| RTX 3070 | 1440p | DLSS Quality | ~960p | 65-80 FPS | Excellent; internal res above 1080p |
+| RTX 4070 | 1440p | DLSS Balanced | ~835p | 100+ FPS | Great for high-refresh; minimal quality loss at 1440p |
+| RTX 4070 Ti | 4K | DLSS Quality | ~1440p | 70-85 FPS | Beautiful; 1440p base is rich in detail |
+| RTX 4080 | 4K | DLSS Balanced | ~1080p | 100+ FPS | Excellent; 1080p base still very detailed at 4K |
+| GTX 1660 | 1080p | FSR 2 Quality | ~720p | 35-50 FPS | Acceptable; moderate softness vs native |
+| RX 6600 XT | 1080p | FSR 2 Quality | ~720p | 50-60 FPS | Good quality; comfortable gameplay |
+| RX 5600 XT | 1080p | FSR 2 Balanced | ~626p | 40-50 FPS | More blur; acceptable on low-end hardware |
 
 ### 1080p (RTX 3060 / RTX 3060 Ti)
 

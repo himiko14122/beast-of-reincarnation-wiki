@@ -22,6 +22,21 @@ export const metadata = {
 
 The journey from Steam Next Fest demo to the full release of DragonSword: Awakening represents one of the most responsive community-driven development cycles in recent action RPG history. Hound13 absorbed player feedback from the demo period and transformed virtually every system, from the controversial Quick Time Event button prompts to the core combat feel and visual presentation. This guide catalogs every significant change between the demo and the $29.99 buy-to-play launch version, with detailed breakdowns of what improved, why it matters, and how these changes affect your experience on the Continent of Orbis.
 
+### Pre-Launch vs Launch Comparison
+
+| Feature | Demo Version | Launch Version |
+|---------|-------------|----------------|
+| Playable heroes | 3 (Lute, Aria, Johnny) | 19 full roster |
+| QTE system | Binary pass/fail; short windows; generic icons | Tiered success (Perfect/Success/Partial); 200ms wider windows; hero-specific styling |
+| Rift System | 10 floors | 50 floors with hero-specific challenges |
+| Switching Signal | Flat damage bonus regardless of hero pair | Elemental pairing bonuses (e.g., Dana + Roxy = Inferno Cyclone) |
+| Switching Signal timing | Wider window | Tightened by 50ms; rewards deliberate play |
+| Hero Request system | Absent | Daily/weekly missions with Nameless Soul currency and exclusive cosmetics |
+| Lighting | Baked lighting with limited dynamic range | Lumen global illumination throughout |
+| Geometry | Visible LOD transitions in open fields | Nanite virtualized geometry; full detail at any distance |
+| Save system | Checkpoint only | Manual save at any Nameless Soul checkpoint + auto-save |
+| Performance | Micro-stutter during Switching Signal; memory leak | Stable 60 FPS target (RTX 3060, 1440p DLSS); memory leak fixed |
+
 ## The QTE System Overhaul: From Frustration to Flow
 
 No single system received more criticism during the demo period than the Quick Time Event implementation. In the original demo build, QTE prompts appeared during boss encounters and major story moments with punishingly short reaction windows. The button inputs felt disconnected from the action on screen, often interrupting the flow of combat rather than enhancing it.
@@ -108,6 +123,21 @@ The user interface received a comprehensive redesign based on community feedback
 
 Beyond the major systems, dozens of smaller changes improve the moment-to-moment experience.
 
+### Changes by Category
+
+| Category | Demo Issue | Launch Change | Player Benefit |
+|----------|-----------|--------------|---------------|
+| QTE: Visual prompts | Generic button icons | Hero-specific elemental styling (amber for Lute, ice-blue for Aria) | Immersive visual feedback matching character identity |
+| QTE: Timing | Calibrated for low-latency Korean setups | Windows expanded ~200ms; Partial success tier added | Accessible across hardware; no forced restarts on near-misses |
+| QTE: Practice | None | "Reflex Training" from any Nameless Soul checkpoint | Practice boss-specific QTEs without resource cost |
+| Status Ailment: Freeze | Aria's Freeze too efficient (permanent lockdown) | Base buildup -15%; Frost Gauge synergy bonus (+30% when combo with other Ailments) | Encourages tag-team philosophy; prevents permanent crowd control |
+| Status Ailment: Airborne | Infinite juggle combos possible | Diminishing returns on consecutive Knockdown/Airborne states | Prevents trivializing encounters; rewards roster cycling |
+| Switching Signal: Elemental | No hero-specific interaction | Elemental pairing bonuses (e.g., Inferno Cyclone from Dana+Roxy) | Creates depth beyond simple damage optimization |
+| Save system | Checkpoint only | Manual save + auto-save before bosses and after story beats | No lost exploration progress |
+| Inventory | Confusing material upgrade system | Materials show target hero compatibility; queued crafting at Organa station | Streamlined progression; less guesswork |
+| UI: Status Ailments | Corner element | Prominent position above enemy health bars; colorblind modes with pattern overlays | Easier tracking of Frost Gauge, Bleed, Shock, etc. |
+| Training | Text-heavy tutorial interruptions | Contextual tutorials during pauses; optional video demos; damage meters and combo dummies | Learn at own pace; practice-oriented approach |
+
 ### Save System Revisions
 
 The demo's checkpoint-only save system frustrated players who lost progress during exploration. The launch version adds manual saving at any Nameless Soul checkpoint, along with auto-save triggers before boss encounters and after major story beats. The Chako fast-travel system was expanded with additional unlock points throughout each zone.
@@ -119,6 +149,19 @@ Equipment comparison tooltips now show detailed stat breakdowns including Status
 ### Combat Training and Tutorial Improvements
 
 The demo's tutorial was criticized for text-heavy explanations that interrupted gameplay. The launch version implements contextual tutorials that appear during combat pauses, with optional video demonstrations accessible from the menu. The training area near the starting zone now includes damage meters, Status Ailment buildup indicators, and combo practice dummies with configurable behaviors.
+
+### Player Impact Assessment
+
+| Change Area | Casual Player Impact | Competitive Player Impact | Returning Player Impact |
+|------------|---------------------|-------------------------|----------------------|
+| QTE Partial Success | Major positive: no more restart loops; smoother progression | Positive: Perfect tier rewards skilled play with damage bonuses | Easier re-entry; less frustration from demo habits |
+| Switching Signal Tightening | Neutral: 50ms tighter window may feel slightly less forgiving | Significant: rewards precise timing with 22% combo bonus | Must re-learn timing; higher skill ceiling |
+| Elemental Pairings | Positive: intuitive pairing bonuses encourage experimentation | Major: new combo depth; Inferno Cyclone, etc. open optimization | Must learn new synergy system absent from demo |
+| Frost Gauge Rebalance | Positive: Freeze less dominant; more varied combat | Moderate: combo-based buildup rewards skillful play | Adjust from demo's permanent-Freeze strategy |
+| 19 Hero Roster | Major positive: dramatically more team composition options | Significant: Rift System requires 6-8 hero roster depth | Must build wider roster rather than maining 3 |
+| Hero Request System | Positive: daily/weekly structure provides clear goals | Moderate: Trust Point passives provide measurable advantages | New progression system to learn |
+| Lumen/Nanite Graphics | Major positive: world feels more alive and immersive | Minor: visual fidelity does not affect combat | Significant visual upgrade from demo build |
+| Manual Save System | Major positive: no more lost exploration progress | Neutral: primarily a convenience feature | Resolves biggest demo frustration |
 
 ## FAQ
 

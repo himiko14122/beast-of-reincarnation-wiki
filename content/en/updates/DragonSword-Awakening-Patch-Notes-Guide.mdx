@@ -12,6 +12,22 @@ export const metadata = {
 
 DragonSword: Awakening launched on July 22, 2026, and Hound13 has maintained a steady cadence of updates since day one. Understanding the patch history is essential for both new and returning players. The meta has shifted dramatically with each major update, and heroes who once dominated the ranks have fallen while others rose to prominence. This comprehensive log covers every significant change, from launch-day hotfixes to the most recent balance patches, with detailed analysis of how each update affected gameplay on the Continent of Orbis.
 
+### Patch Version Overview
+
+| Version | Date | Type | Key Addition | Meta Impact |
+|---------|------|------|-------------|-------------|
+| 1.0.0 | July 22, 2026 | Launch | 19 heroes, full open world, Rift System, Hero Requests | Lute, Johnny, Castella dominate |
+| 1.0.1 | July 24, 2026 | Hotfix | Theresia terrain fix; Direwolf Freeze reduction | Minor; stability improved |
+| 1.0.2 | Aug 5, 2026 | Balance | Lute/Johnny nerfs; Castella healing -8%; Switching Signal QoL | Shift away from Signal Skill spam meta |
+| 1.1.0 | Aug 26, 2026 | Content | Frostveil Tundra; Kalsion (new hero); Rift expansion | Kalsion redefines Bleed meta |
+| 1.1.1 | Aug 28, 2026 | Emergency | Bleed stacking bug fix; Kalsion damage reduction | Kalsion burst damage brought in line |
+| 1.2.0 | Sep 15, 2026 | Balance | Othello rework; Shock global nerf (25% to 18%); Eileen/Tarte buffs | Shock compositions reduced; Airborne strategies emerge |
+| 1.3.0 | Oct 20, 2026 | Content + Event | Halloween event; Jerome (new hero, Airborne specialist) | Airborne-focused comps surge 40% |
+| 1.3.1 | Oct 28, 2026 | Balance | Airborne cap at 3 seconds; Jerome -8% damage | Infinite juggling prevented |
+| 1.4.0 | Nov 19, 2026 | Content | Frozen Citadel dungeon; Cerese (new hero, fire/anti-Freeze); Legendary Rifts | Cerese becomes mandatory for high-level clears |
+| 1.4.1 | Nov 22, 2026 | Hotfix | Glacius enrage timer extended; damage reduced 10% | Frozen Citadel more accessible |
+| 1.5.0 | Dec 17, 2026 | Balance + System | Switching Signal overhaul; Frost Gauge universal +10%; Liza/Roxy buffs; Familiar Evolution | Risk-reward rebalance; support meta diversifies |
+
 ## Launch Day: Version 1.0.0 (July 22, 2026)
 
 The initial release of DragonSword: Awakening introduced 19 playable heroes, the full open-world exploration across the Continent of Orbis, and the foundational combat system. At launch, the game shipped with the Rift System, Hero Request missions, and the core Status Ailment mechanics: Knockdown, Shock, Freeze, Airborne, and Bleed.
@@ -23,6 +39,17 @@ The launch meta immediately centered around high-damage Signal Skill chains. Lut
 ### Launch Day Known Issues
 
 Several bugs were present at launch. Theresia's airborne combo could occasionally clip through terrain, causing her to fall out of bounds. The Frost Gauge for Freeze buildup was inconsistent on certain enemy types, particularly the Red Fox Mercenaries elites. The Organa Order faction questline had a progression-blocking bug if players completed objectives out of the intended sequence. Hound13 acknowledged these issues within the first 24 hours and promised a hotfix.
+
+### Bug Fixes Across Patches
+
+| Bug | Patch Fixed | Description | Resolution |
+|-----|-----------|-------------|------------|
+| Theresia terrain clipping | 1.0.1 | Aerial heavy attack could clip through terrain, falling out of bounds | Adjusted collision detection on aerial heavy attack |
+| Valiant Hatchling double spawn | 1.0.1 | World boss could spawn twice simultaneously on certain server instances | Spawn timer corrected |
+| Organa Order questline block | 1.0.1 | Progression blocked if objectives completed out of sequence | Scripting fix allows any completion order |
+| Frost Gauge inconsistency | 1.0.1 | Freeze buildup rates varied by enemy type (especially Red Fox elites) | Abyssal Direwolf Frost Gauge reduced ~15% |
+| Kalsion Bleed stacking | 1.1.1 | Bleed could stack beyond intended cap with Dana's Familiar boost; one-shot world bosses | Hard cap of 5 Bleed stacks per enemy |
+| Glacius enrage timer | 1.4.1 | Enrage activated too quickly on higher difficulties | Timer extended by 45 seconds; enrage damage reduced 10% |
 
 ## Version 1.0.1 – The First Hotfix (July 24, 2026)
 
@@ -157,6 +184,19 @@ A quick patch addressed issues with the Frozen Citadel. Glacius had an unintende
 ## Version 1.5.0 – The Meta Shakeup (December 17, 2026)
 
 This patch was a deliberate attempt by Hound13 to shake up the established meta, which had consolidated around specific team compositions.
+
+### Key Balance Changes Across Patches
+
+| Change | Patch | Affected Heroes/Mechanic | Before | After | Meta Effect |
+|--------|-------|--------------------------|--------|-------|-------------|
+| Lute Signal Skill cooldown | 1.0.2 | Lute | 8 seconds | 11 seconds | Reduced Lute's overwhelming PvE/competitive presence |
+| Lute final hit multiplier | 1.0.2 | Lute | 340% | 290% | Reduced burst damage dominance |
+| Johnny Shock application | 1.0.2 | Johnny | 80% chance | 65% chance | Opened counterplay; reduced perma-Shock strategies |
+| Castella healing output | 1.0.2 | Castella | Base value | -8% across all abilities | Encouraged diverse support choices |
+| Shock damage bonus (global) | 1.2.0 | All Shock-based comps | 25% bonus | 18% bonus | Fundamentally altered team composition priorities |
+| Airborne duration cap | 1.3.1 | Jerome, Eileen | No cap | 3 seconds max | Prevented infinite juggling |
+| Switching Signal i-frames | 1.5.0 | All heroes | 0.5 seconds | 0.3 seconds | Higher risk-reward; rewards precise timing |
+| Switching Signal combo bonus | 1.5.0 | All heroes | 15% damage | 22% damage | Compensates for reduced i-frames |
 
 ### Fundamental Changes
 

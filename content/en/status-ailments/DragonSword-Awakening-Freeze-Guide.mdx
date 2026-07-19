@@ -19,11 +19,30 @@ The Frost Gauge is the hidden mechanic governing Freeze buildup. Every enemy in 
 
 Dana, the ice-wielding swordswoman from the Red Fox Mercenaries, is the undisputed queen of Freeze application. Her Signal Skill, "Glacial Cascade," applies a massive chunk of Frost buildup—estimated at 80 points per use—while her Switching Signal, "Frostbite Slash," can instantly trigger Freeze on enemies whose Frost Gauge is already above 70% capacity. This makes Dana a cornerstone for any Freeze-centric team composition. Pairing her with heroes like Lute for rapid Signal cooldown reduction or Theresia for area-of-effect Cryo amplification can turn entire encounters into frozen dioramas.
 
+| Freeze Application Method | Hero | Frost Buildup | Notes |
+|--------------------------|------|---------------|-------|
+| Glacial Cascade (Signal Skill) | Dana | 80 points per use | Highest single-application buildup |
+| Frostbite Slash (Switching Signal) | Dana | Instant trigger if gauge >70% | Bypasses remaining gauge fill |
+| Avalanche (Ultimate) | Dana | 200 points | Guarantees long Freeze via Frost Overflow |
+| Cryo Resonance | Theresia | Extends duration by 2 seconds | Also increases shatter damage by 25% |
+| Frost Enchant (Familiar Skill) | Roxy | Converts portion of physical to Cryo | Hybrid Bleed/Freeze build |
+| Rime Tipped (Familiar Passive) | Johnny | Minor Cryo on crossbow bolts | Prevents gauge decay between Dana cooldowns |
+| Chako's Frost Breath (Familiar) | Any | Continuous Cryo stream | Maintains gauge during hero swaps |
+
 ## The Frost Gauge: Deep Mechanics and Hidden Thresholds
 
 To truly master Freeze, you must understand the Frost Gauge’s behavior under different conditions. This gauge is not simply a linear meter; it decays over time, varies by enemy type, and interacts with other status ailments in unexpected ways. When you apply Cryo damage, the gauge fills proportionally to the skill’s hidden "Frost Potency" stat—a value not shown in-game but deducible through testing. Dana’s basic attacks, for instance, contribute roughly 5–10 points per hit, while her Charged Heavy attack can spike the gauge by 30 points. These numbers are estimated from community testing against Valiant Hatchling enemies in the early Rift System.
 
 Enemy resistance plays a massive role. Creatures native to icy biomes, such as the Frostbite Wraiths in the northern reaches, have inherently higher Frost thresholds and faster gauge decay. Conversely, fire-aligned foes like the Magma Hounds in the volcanic Rift zones take increased Frost buildup—often 1.5x the normal rate—but also break out of Freeze faster due to internal heat mechanics. This creates a risk-reward scenario: you can freeze them quickly, but your window for follow-up is shorter.
+
+| Enemy Type | Frost Threshold | Gauge Decay | Freeze Behavior | Recommended Strategy |
+|-----------|----------------|-------------|-----------------|---------------------|
+| Standard enemies | ~100 points | ~10 points/sec after 4s idle | Base 3-second Freeze | Dana's Glacial Cascade alone can trigger |
+| Elite enemies | ~200–300 points | ~10 points/sec after 4s idle | Standard duration | Requires 2–3 Cryo skills to fill |
+| Frostbite Wraiths (icy biomes) | Higher than standard | Faster decay | Resistant; harder to trigger | Sustained Cryo pressure from multiple heroes |
+| Magma Hounds (fire-aligned) | Lower than standard | Faster breakout | 1.5x Frost buildup rate, shorter Freeze | Quick application + immediate shatter for burst |
+| Boss enemies | 300–500 points | ~3 points/sec (slower decay) | Shorter duration, resistance after first Freeze | Time Freeze to interrupt boss ultimates |
+| Nameless Soul avatars | Very high | Moderate | Freeze interrupts ultimate if timed in 1.5s window | Use Theresia's Switching Signal for reaction Freeze |
 
 The Frost Gauge decay rate is another critical factor. On standard enemies, the gauge begins to deplete after 4 seconds of no Cryo damage, losing approximately 10 points per second. For bosses, this decay can be as slow as 3 points per second, but their higher thresholds mean you need sustained pressure to trigger Freeze. This is where hero synergy shines. Johnny’s rapid-fire crossbow attacks can weave in Cryo-infused bolts via the "Rime Tipped" Familiar passive, keeping the gauge from decaying while Dana’s skills are on cooldown. According to some player theories, the Frost Gauge might also be affected by the Nameless Soul’s resonance level, though this remains unconfirmed by Hound13.
 
@@ -48,6 +67,14 @@ For maximum shatter damage, you want to stack as many debuffs as possible before
 Freeze does not exist in a vacuum; its interactions with other status ailments define high-level play. The most notorious interaction is with Shock. If an enemy is Shocked (taking increased damage and having reduced resistance), applying Freeze will consume the Shock to create a "Superconduct" effect, dealing instant Cryo damage and reducing the enemy’s defense by 20% for 10 seconds. This is a staple combo in co-op Rift runs, often executed by pairing Dana with a Shock-focused hero like Logan or Jerome.
 
 Bleed and Freeze have a more subtle interaction. A Bleeding enemy that becomes Frozen will have their Bleed duration paused until the Freeze breaks, but the Bleed damage will accumulate and apply all at once when the ice shatters. This "Hemorrhage Burst" can chunk boss health bars if you stack multiple Bleed instances before freezing. Charlotte’s "Thousand Cuts" applies 5 stacks of Bleed quickly; follow with Dana’s Freeze, and the shatter will trigger all 5 stacks simultaneously for massive burst.
+
+| Combo Chain | Sequence | Effect | Damage Multiplier |
+|------------|----------|--------|------------------|
+| Superconduct | Shock → Freeze | Instant Cryo damage, -20% defense for 10 seconds | Burst + defense reduction |
+| Hemorrhage Burst | Bleed (5 stacks) → Freeze → Shatter | Bleed paused, then all stacks burst on shatter | 5x accumulated Bleed damage |
+| Freeze → Airborne | Freeze → Launch skill | Enemy frozen mid-air; extended aerial combos | Airborne bonus + Shatter on first hit |
+| Cryo Resonance Loop | Dana Freeze → Theresia extension → Kalien shatter | Extended Freeze + 25% shatter bonus | 150% base shatter damage |
+| Frostburn Cycle | Dana Freeze → Charlotte Bleed → Veronica fire reset | Shatter burst + resistance clearing | Sustained burst hybrid |
 
 Freeze also interacts with Airborne in a unique way: if a Frozen enemy is launched into the air (via Alex’s uppercut or a Familiar skill), they remain frozen in mid-air, allowing for extended aerial combos. This is particularly effective against large bosses that are normally immune to Airborne—Freeze overrides their immunity for the duration, opening up combo routes that shouldn’t exist.
 
