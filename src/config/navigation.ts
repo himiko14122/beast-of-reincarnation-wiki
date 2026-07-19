@@ -86,6 +86,7 @@ export const CATEGORY_AFFINITY: Record<string, string[]> = {
   heroes:             ['tier-list', 'builds', 'tag-combos'],
   'tier-list':        ['heroes', 'builds', 'tag-combos'],
   'tag-combos':       ['heroes', 'status-ailments', 'builds'],
+  guides:             ['heroes', 'tier-list', 'builds'],
   'status-ailments':  ['tag-combos', 'heroes'],
   builds:             ['heroes', 'tier-list', 'tag-combos'],
   exploration:        ['familiars', 'cooking-crafting', 'guides'],
