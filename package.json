@@ -1,5 +1,5 @@
 {
-  "name": "dragon-sword-awakening-wiki",
+  "name": "beast-of-reincarnation-wiki",
   "version": "1.0.0",
   "private": true,
   "packageManager": "pnpm@10.12.4",
@@ -33,5 +33,6 @@
     "postcss": "^8.5.15",
     "tailwindcss": "^4.3.1",
     "typescript": "^6.0.3"
-  }
+  },
+  "description": "Beast of Reincarnation Wiki - Complete Guide, Walkthrough & Tips"
 }

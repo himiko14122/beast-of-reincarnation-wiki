@@ -64,11 +64,11 @@ export const BANNER_SLOTS: Record<BannerType, BannerSlot> = {
   },
 };
 
-// DragonSword: Awakening native banner
+// Beast of Reincarnation native banner
 export const NATIVE_SLOT: NativeSlot = {
   type: 'native-banner',
-  containerId: 'container-be665e91585b7614e78b5ac674512405',
-  scriptUrl: '//pl30429091.effectivecpmnetwork.com/be665e91585b7614e78b5ac674512405/invoke.js',
+  containerId: 'container-4ac13cbce6285e9b190a5804bc35d4f8',
+  scriptUrl: '//pl30587471.effectivecpmnetwork.com/4ac13cbce6285e9b190a5804bc35d4f8/invoke.js',
 };
 
 export const AD_SLOTS: Record<BannerType, BannerSlot> & { 'native-banner': NativeSlot } = {
