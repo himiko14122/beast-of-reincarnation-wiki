@@ -68,7 +68,7 @@
         "beast-of-reincarnation-best-builds"
       ],
       "importPath": "Beast-Of-Reincarnation-Best-Builds",
-      "title": "Beast of Reincarnation ベストビルド：スキルツリーと装備ガイド"
+      "title": "Beast of Reincarnation 最強ビルド：スキルツリーと装備ガイド"
     },
     {
       "locale": "de",
@@ -108,7 +108,7 @@
         "beast-of-reincarnation-best-gear-setup"
       ],
       "importPath": "Beast-Of-Reincarnation-Best-Gear-Setup",
-      "title": "転生 beast 最強装備構成：武器＆防具ティアリスト"
+      "title": "転生獣 最強装備セットアップ：武器＆防具ティアリスト"
     },
     {
       "locale": "de",
@@ -138,7 +138,7 @@
         "beast-of-reincarnation-best-koo-build"
       ],
       "importPath": "Beast-Of-Reincarnation-Best-Koo-Build",
-      "title": "Beast of Reincarnation 최고의 쿠 빌드: 정령석 & 장비 가이드"
+      "title": "Beast of Reincarnation 최고의 쿠(Koo) 빌드: 정령석 & 장비 가이드"
     },
     {
       "locale": "ja",
@@ -148,7 +148,7 @@
         "beast-of-reincarnation-best-koo-build"
       ],
       "importPath": "Beast-Of-Reincarnation-Best-Koo-Build",
-      "title": "転生獣 最高Kooビルド: スピリットストーン＆装備ガイド"
+      "title": "Beast of Reincarnation ベストKooビルド：スピリットストーン＆装備ガイド"
     },
     {
       "locale": "de",
@@ -188,7 +188,7 @@
         "beast-of-reincarnation-chapter-guide"
       ],
       "importPath": "Beast-Of-Reincarnation-Chapter-Guide",
-      "title": "Beast of Reincarnation チャプターガイド：すべての隠された道を踏破する"
+      "title": "Beast of Reincarnation チャプターガイド：すべてのパスを完全攻略"
     },
     {
       "locale": "de",
@@ -218,7 +218,7 @@
         "beast-of-reincarnation-does-it-have-easy-mode"
       ],
       "importPath": "Beast-Of-Reincarnation-Does-It-Have-Easy-Mode",
-      "title": "게임 Beast of Reincarnation 이지 모드 존재 여부와 첫 번째 보스 가이드"
+      "title": "게임 Beast of Reincarnation 이지 모드 존재 여부와 첫 번째 보스 공략"
     },
     {
       "locale": "ja",
@@ -228,7 +228,7 @@
         "beast-of-reincarnation-does-it-have-easy-mode"
       ],
       "importPath": "Beast-Of-Reincarnation-Does-It-Have-Easy-Mode",
-      "title": "Beast of Reincarnationにイージーモードはある？最初のボス攻略ガイド"
+      "title": "ゲーム『Beast of Reincarnation』にはイージーモードがあるのか？初回ボス攻略ガイド"
     },
     {
       "locale": "de",
@@ -258,7 +258,7 @@
         "beast-of-reincarnation-game-freak-rpg"
       ],
       "importPath": "Beast-Of-Reincarnation-Game-Freak-Rpg",
-      "title": "Beast of Reincarnation Game Freak RPG 가이드 및 유사 게임"
+      "title": "Beast of Reincarnation Game Freak RPG 가이드 & 유사 게임"
     },
     {
       "locale": "ja",
@@ -308,7 +308,7 @@
         "beast-of-reincarnation-getting-started"
       ],
       "importPath": "Beast-Of-Reincarnation-Getting-Started",
-      "title": "the game Beast of Reincarnation Getting Started Guide for New Players"
+      "title": "ゲーム Beast of Reincarnation 初心者向け入門ガイド"
     },
     {
       "locale": "de",
@@ -338,7 +338,7 @@
         "beast-of-reincarnation-how-long-to-beat"
       ],
       "importPath": "Beast-Of-Reincarnation-How-Long-To-Beat",
-      "title": "환생의 짐승 클리어 시간: 전체 진행 가이드"
+      "title": "Beast of Reincarnation 클리어 시간: 완전한 진행 가이드"
     },
     {
       "locale": "ja",
@@ -348,7 +348,7 @@
         "beast-of-reincarnation-how-long-to-beat"
       ],
       "importPath": "Beast-Of-Reincarnation-How-Long-To-Beat",
-      "title": "Beast of Reincarnation クリアまでの時間：完全攻略ガイド"
+      "title": "Beast of Reincarnation クリア所要時間：完全攻略ガイド"
     },
     {
       "locale": "de",
@@ -378,7 +378,7 @@
         "beast-of-reincarnation-how-to-play"
       ],
       "importPath": "Beast-Of-Reincarnation-How-To-Play",
-      "title": "Beast of Reincarnation 플레이 방법: 초보자 생존 가이드"
+      "title": "Beast of Reincarnation 플레이 방법: 초보자를 위한 생존 가이드"
     },
     {
       "locale": "ja",
@@ -428,7 +428,7 @@
         "beast-of-reincarnation-hybrid-build"
       ],
       "importPath": "Beast-Of-Reincarnation-Hybrid-Build",
-      "title": "Beast of Reincarnation ハイブリッドビルド：Koo＆Emmaの極限育成ガイド"
+      "title": "Beast of Reincarnation ハイブリッドビルド：Koo&EmmaのMin-Maxガイド"
     },
     {
       "locale": "de",
@@ -508,7 +508,7 @@
         "beast-of-reincarnation-late-game-build"
       ],
       "importPath": "Beast-Of-Reincarnation-Late-Game-Build",
-      "title": "Beast of Reincarnation 終盤ビルドガイド"
+      "title": "Beast of Reincarnation 終盤ビルド完全ガイド"
     },
     {
       "locale": "de",
@@ -578,7 +578,7 @@
         "beast-of-reincarnation-ranged-build"
       ],
       "importPath": "Beast-Of-Reincarnation-Ranged-Build",
-      "title": "Beast of Reincarnation 원거리 빌드: 은신 vs 공격적 플레이 가이드"
+      "title": "Beast of Reincarnation 원거리 빌드: 잠입 vs 공격적 플레이 가이드"
     },
     {
       "locale": "ja",
@@ -668,7 +668,7 @@
         "beast-of-reincarnation-skill-tree-explained"
       ],
       "importPath": "Beast-Of-Reincarnation-Skill-Tree-Explained",
-      "title": "Beast of Reincarnation スキルツリー徹底解説：完全ビルドガイド"
+      "title": "Beast of Reincarnation スキルツリー解説：完全なビルドガイド"
     },
     {
       "locale": "de",
@@ -1218,8 +1218,8 @@
     ],
     "guides:ko:beast-of-reincarnation-beginner-guide": [
       {
-        "id": "핵심-환생-루프-이해하기",
-        "text": "핵심 환생 루프 이해하기"
+        "id": "핵심-환생-사이클-이해하기",
+        "text": "핵심 환생 사이클 이해하기"
       },
       {
         "id": "beast-of-reincarnation-공략-첫-세-사이클",
@@ -1234,8 +1234,8 @@
         "text": "중반기를 위한 캐릭터 빌드 최적화"
       },
       {
-        "id": "세계-탐험과-그-비밀-발견",
-        "text": "세계 탐험과 그 비밀 발견"
+        "id": "세계를-탐험하고-그-비밀을-발견하기",
+        "text": "세계를 탐험하고 그 비밀을 발견하기"
       },
       {
         "id": "자주-묻는-질문",
@@ -1266,12 +1266,12 @@
     ],
     "guides:ko:beast-of-reincarnation-does-it-have-easy-mode": [
       {
-        "id": "게임의-고유한-난이도-접근-방식-이해하기",
-        "text": "게임의 고유한 난이도 접근 방식 이해하기"
+        "id": "게임의-독특한-난이도-접근-방식-이해하기",
+        "text": "게임의 독특한 난이도 접근 방식 이해하기"
       },
       {
-        "id": "beast-of-reincarnation-첫-번째-보스-가이드-corrupted-samurai",
-        "text": "Beast of Reincarnation 첫 번째 보스 가이드: Corrupted Samurai"
+        "id": "beast-of-reincarnation-첫-번째-보스-공략-corrupted-samurai",
+        "text": "Beast of Reincarnation 첫 번째 보스 공략: Corrupted Samurai"
       },
       {
         "id": "보스-성공을-위한-초기-사이클-빌드-최적화",
@@ -1288,8 +1288,8 @@
     ],
     "guides:ko:beast-of-reincarnation-game-freak-rpg": [
       {
-        "id": "beast-of-reincarnation-game-freak-new-rpg-루프-분석",
-        "text": "Beast of Reincarnation Game Freak New RPG 루프 분석"
+        "id": "beast-of-reincarnation-game-freak-신규-rpg-루프-분석",
+        "text": "Beast of Reincarnation Game Freak 신규 RPG 루프 분석"
       },
       {
         "id": "beast-of-reincarnation-유사-게임-탐구",
@@ -1304,8 +1304,8 @@
         "text": "일반적인 문제를 위한 Beast of Reincarnation 문제 해결 가이드"
       },
       {
-        "id": "엔드게임과-미래의-사이클-마스터하기",
-        "text": "엔드게임과 미래의 사이클 마스터하기"
+        "id": "엔드게임과-미래-사이클-마스터하기",
+        "text": "엔드게임과 미래 사이클 마스터하기"
       },
       {
         "id": "자주-묻는-질문",
@@ -1326,8 +1326,8 @@
         "text": "Beast of Reincarnation 초반 가이드: 처음 세 사이클"
       },
       {
-        "id": "중반-전환을-위한-빌드-최적화",
-        "text": "중반 전환을 위한 빌드 최적화"
+        "id": "중반-게임-전환을-위한-빌드-최적화",
+        "text": "중반 게임 전환을 위한 빌드 최적화"
       },
       {
         "id": "beast-of-reincarnation-시작-방법-필수-팁",
@@ -1340,12 +1340,12 @@
     ],
     "guides:ko:beast-of-reincarnation-how-long-to-beat": [
       {
-        "id": "핵심-진행과-시간-추정-이해",
-        "text": "핵심 진행과 시간 추정 이해"
+        "id": "핵심-진행-및-시간-예상-이해",
+        "text": "핵심 진행 및 시간 예상 이해"
       },
       {
-        "id": "환생의-짐승-모든-엔딩-가이드",
-        "text": "환생의 짐승 모든 엔딩 가이드"
+        "id": "beast-of-reincarnation-모든-엔딩-가이드",
+        "text": "Beast of Reincarnation 모든 엔딩 가이드"
       },
       {
         "id": "진행-경로-최적화",
@@ -1362,8 +1362,8 @@
     ],
     "guides:ko:beast-of-reincarnation-how-to-play": [
       {
-        "id": "핵심-메커니즘으로서의-환생-루프-수용하기",
-        "text": "핵심 메커니즘으로서의 환생 루프 수용하기"
+        "id": "환생-루프를-핵심-메커니즘으로-받아들이기",
+        "text": "환생 루프를 핵심 메커니즘으로 받아들이기"
       },
       {
         "id": "beast-of-reincarnation-플레이-방법의-처음-세-사이클",
@@ -1374,8 +1374,8 @@
         "text": "전투 기본 및 적 패턴 마스터하기"
       },
       {
-        "id": "생존력을-위한-초기-빌드-최적화",
-        "text": "생존력을 위한 초기 빌드 최적화"
+        "id": "생존성을-위한-초기-빌드-최적화",
+        "text": "생존성을 위한 초기 빌드 최적화"
       },
       {
         "id": "자주-묻는-질문",
@@ -1514,12 +1514,12 @@
         "text": "궁극의 Emma 빌드 가이드"
       },
       {
-        "id": "모든-빌드를-위한-최상위-티어-장비-가이드",
-        "text": "모든 빌드를 위한 최상위 티어 장비 가이드"
+        "id": "모든-빌드를-위한-최상위-장비-가이드",
+        "text": "모든 빌드를 위한 최상위 장비 가이드"
       },
       {
-        "id": "고급-시너지-및-팀-조합",
-        "text": "고급 시너지 및 팀 조합"
+        "id": "고급-시너지-및-파티-조합",
+        "text": "고급 시너지 및 파티 조합"
       },
       {
         "id": "자주-묻는-질문",
@@ -1550,8 +1550,8 @@
     ],
     "builds:ko:beast-of-reincarnation-best-koo-build": [
       {
-        "id": "쿠의-핵심-메커니즘과-스탯-우선순위-이해하기",
-        "text": "쿠의 핵심 메커니즘과 스탯 우선순위 이해하기"
+        "id": "쿠koo의-핵심-메커니즘과-스탯-우선순위-이해하기",
+        "text": "쿠(Koo)의 핵심 메커니즘과 스탯 우선순위 이해하기"
       },
       {
         "id": "beast-of-reincarnation에서-쿠를-위한-최고의-정령석",
@@ -1628,16 +1628,16 @@
         "text": "핵심 원거리 메커니즘 이해하기"
       },
       {
-        "id": "은신-저격수-매복-데미지-극대화",
-        "text": "은신 저격수: 매복 데미지 극대화"
+        "id": "잠입-저격수-매복-데미지-극대화",
+        "text": "잠입 저격수: 매복 데미지 극대화"
       },
       {
-        "id": "공격적-건슬링거-지속-원거리-dps",
-        "text": "공격적 건슬링거: 지속 원거리 DPS"
+        "id": "공격적-건슬링어-지속-원거리-dps",
+        "text": "공격적 건슬링어: 지속 원거리 DPS"
       },
       {
-        "id": "beast-of-reincarnation-빌드-비교-은신-vs-공격적-vs-균형",
-        "text": "Beast of Reincarnation 빌드 비교: 은신 vs 공격적 vs 균형"
+        "id": "beast-of-reincarnation-빌드-비교-잠입-vs-공격적-vs-균형",
+        "text": "Beast of Reincarnation 빌드 비교: 잠입 vs 공격적 vs 균형"
       },
       {
         "id": "파라곤과-룬으로-빌드-최적화",
@@ -1676,20 +1676,20 @@
         "text": "コア転生ループを理解する"
       },
       {
-        "id": "beast-of-reincarnation-攻略最初の3サイクル",
-        "text": "Beast of Reincarnation 攻略：最初の3サイクル"
+        "id": "beast-of-reincarnation-walkthrough最初の3サイクル",
+        "text": "Beast of Reincarnation walkthrough：最初の3サイクル"
       },
       {
-        "id": "戦闘-mastery-への-beast-of-reincarnation-tipsとコツ",
-        "text": "戦闘 mastery への Beast of Reincarnation Tipsとコツ"
+        "id": "戦闘-mastery-のための-beast-of-reincarnation-ヒントとコツ",
+        "text": "戦闘 mastery のための Beast of Reincarnation ヒントとコツ"
       },
       {
-        "id": "中盤戦に向けたキャラクタービルドの最適化",
-        "text": "中盤戦に向けたキャラクタービルドの最適化"
+        "id": "中盤に向けたキャラクタービルドの最適化",
+        "text": "中盤に向けたキャラクタービルドの最適化"
       },
       {
-        "id": "ワールドの探索と秘密の発見",
-        "text": "ワールドの探索と秘密の発見"
+        "id": "世界の-navigation-とその秘密の発見",
+        "text": "世界の navigation とその秘密の発見"
       },
       {
         "id": "よくある質問",
@@ -1698,20 +1698,20 @@
     ],
     "guides:ja:beast-of-reincarnation-chapter-guide": [
       {
-        "id": "チャプター別ルート最適化のマスター",
-        "text": "チャプター別ルート最適化のマスター"
+        "id": "チャプター別ルート最適化をマスターする",
+        "text": "チャプター別ルート最適化をマスターする"
       },
       {
-        "id": "ゾーンアンロック順序の理解",
-        "text": "ゾーンアンロック順序の理解"
+        "id": "ゾーンアンロックシーケンスの理解",
+        "text": "ゾーンアンロックシーケンスの理解"
       },
       {
         "id": "全チャプター対応の上級探索テクニック",
         "text": "全チャプター対応の上級探索テクニック"
       },
       {
-        "id": "隠された秘密と見落とし可能なコンテンツ",
-        "text": "隠された秘密と見落とし可能なコンテンツ"
+        "id": "隠し要素と取り逃し可能なコンテンツ",
+        "text": "隠し要素と取り逃し可能なコンテンツ"
       },
       {
         "id": "よくある質問",
@@ -1720,20 +1720,20 @@
     ],
     "guides:ja:beast-of-reincarnation-does-it-have-easy-mode": [
       {
-        "id": "ゲームのユニークな難易度アプローチを理解する",
-        "text": "ゲームのユニークな難易度アプローチを理解する"
+        "id": "ゲーム独自の難易度アプローチを理解する",
+        "text": "ゲーム独自の難易度アプローチを理解する"
       },
       {
-        "id": "beast-of-reincarnation-最初のボス攻略堕落した侍",
-        "text": "Beast of Reincarnation 最初のボス攻略：堕落した侍"
+        "id": "beast-of-reincarnation-初回ボス攻略the-corrupted-samurai",
+        "text": "Beast of Reincarnation 初回ボス攻略:The Corrupted Samurai"
       },
       {
-        "id": "ボス成功のための初期サイクルビルドの最適化",
-        "text": "ボス成功のための初期サイクルビルドの最適化"
+        "id": "ボス成功のための初期サイクルビルド最適化",
+        "text": "ボス成功のための初期サイクルビルド最適化"
       },
       {
-        "id": "最初のボスのための高度な戦闘テクニック",
-        "text": "最初のボスのための高度な戦闘テクニック"
+        "id": "初回ボスのための上級戦闘テクニック",
+        "text": "初回ボスのための上級戦闘テクニック"
       },
       {
         "id": "よくある質問",
@@ -1768,24 +1768,24 @@
     ],
     "guides:ja:beast-of-reincarnation-getting-started": [
       {
-        "id": "コア転生ループの理解",
-        "text": "コア転生ループの理解"
+        "id": "核となる転生ループの理解",
+        "text": "核となる転生ループの理解"
       },
       {
-        "id": "beast-of-reincarnationの難易度モード解説",
-        "text": "Beast of Reincarnationの難易度モード解説"
+        "id": "beast-of-reincarnation-難易度モード解説",
+        "text": "Beast of Reincarnation 難易度モード解説"
       },
       {
-        "id": "beast-of-reincarnation早期攻略最初の3サイクル",
-        "text": "Beast of Reincarnation早期攻略:最初の3サイクル"
+        "id": "beast-of-reincarnation-早期ゲームガイド最初の3サイクル",
+        "text": "Beast of Reincarnation 早期ゲームガイド：最初の3サイクル"
       },
       {
-        "id": "中盤への移行のためのビルド最適化",
-        "text": "中盤への移行のためのビルド最適化"
+        "id": "中期ゲーム移行のためのビルド最適化",
+        "text": "中期ゲーム移行のためのビルド最適化"
       },
       {
-        "id": "beast-of-reincarnationの始め方必須のヒント",
-        "text": "Beast of Reincarnationの始め方:必須のヒント"
+        "id": "beast-of-reincarnation-始め方必須のヒント",
+        "text": "Beast of Reincarnation 始め方：必須のヒント"
       },
       {
         "id": "よくある質問",
@@ -1794,8 +1794,8 @@
     ],
     "guides:ja:beast-of-reincarnation-how-long-to-beat": [
       {
-        "id": "コア進行の理解と時間見積もり",
-        "text": "コア進行の理解と時間見積もり"
+        "id": "コア進行の理解と所要時間の見積もり",
+        "text": "コア進行の理解と所要時間の見積もり"
       },
       {
         "id": "beast-of-reincarnation-全エンディングガイド",
@@ -1806,8 +1806,8 @@
         "text": "進行パスの最適化"
       },
       {
-        "id": "終盤の時間の落とし穴をマスターする",
-        "text": "終盤の時間の落とし穴をマスターする"
+        "id": "終盤の時間消費要素の克服",
+        "text": "終盤の時間消費要素の克服"
       },
       {
         "id": "よくある質問",
@@ -1968,12 +1968,12 @@
         "text": "究極の Emma ビルドガイド"
       },
       {
-        "id": "全ビルドに対応する最強装備ガイド",
-        "text": "全ビルドに対応する最強装備ガイド"
+        "id": "全ビルド対応の高性能装備ガイド",
+        "text": "全ビルド対応の高性能装備ガイド"
       },
       {
-        "id": "上級シナジーとチーム構成",
-        "text": "上級シナジーとチーム構成"
+        "id": "高度なシナジーとチーム構成",
+        "text": "高度なシナジーとチーム構成"
       },
       {
         "id": "よくある質問",
@@ -1982,20 +1982,20 @@
     ],
     "builds:ja:beast-of-reincarnation-best-gear-setup": [
       {
-        "id": "転生-beast-最強装備構成の核となる原則",
-        "text": "転生 beast 最強装備構成の核となる原則"
+        "id": "転生獣-最強装備セットアップの中核原則",
+        "text": "転生獣 最強装備セットアップの中核原則"
       },
       {
-        "id": "転生-beast-武器ティアリスト決定版ランキング",
-        "text": "転生 beast 武器ティアリスト：決定版ランキング"
+        "id": "転生獣-武器ティアリスト決定版ランキング",
+        "text": "転生獣 武器ティアリスト：決定版ランキング"
       },
       {
-        "id": "転生-beast-最強防具シナジーと生存性",
-        "text": "転生 beast 最強防具：シナジーと生存性"
+        "id": "転生獣-最強防具シナジーと生存性",
+        "text": "転生獣 最強防具：シナジーと生存性"
       },
       {
-        "id": "転生-beast-最強-koo-スキルの最適化",
-        "text": "転生 beast 最強 Koo スキルの最適化"
+        "id": "転生獣-最強kooスキルの最適化",
+        "text": "転生獣 最強Kooスキルの最適化"
       },
       {
         "id": "よくある質問",
@@ -2004,20 +2004,20 @@
     ],
     "builds:ja:beast-of-reincarnation-best-koo-build": [
       {
-        "id": "kooのコアメカニズムとステータスの優先順位を理解する",
-        "text": "Kooのコアメカニズムとステータスの優先順位を理解する"
+        "id": "kooのコアメカニズムとステータス優先度の理解",
+        "text": "Kooのコアメカニズムとステータス優先度の理解"
       },
       {
-        "id": "転生獣でkooに最適なスピリットストーン",
-        "text": "転生獣でKooに最適なスピリットストーン"
+        "id": "beast-of-reincarnationにおけるkooのベストスピリットストーン",
+        "text": "Beast of ReincarnationにおけるKooのベストスピリットストーン"
       },
       {
         "id": "最適な装備と武器の選択",
         "text": "最適な装備と武器の選択"
       },
       {
-        "id": "高度な戦闘ローテーションとスキルアップグレード",
-        "text": "高度な戦闘ローテーションとスキルアップグレード"
+        "id": "上級戦闘ローテーションとスキルアップグレード",
+        "text": "上級戦闘ローテーションとスキルアップグレード"
       },
       {
         "id": "よくある質問",
@@ -2042,8 +2042,8 @@
         "text": "ハイブリッドキャラクター向けBeast of Reincarnation最適アップグレードガイド"
       },
       {
-        "id": "エンドゲームコンテンツ向け高度な極限育成戦略",
-        "text": "エンドゲームコンテンツ向け高度な極限育成戦略"
+        "id": "エンドゲームコンテンツ向け高度なmin-max戦略",
+        "text": "エンドゲームコンテンツ向け高度なMin-Max戦略"
       },
       {
         "id": "よくある質問",
@@ -2056,20 +2056,20 @@
         "text": "終盤のステータス優先度を理解する"
       },
       {
-        "id": "剣ビルド持続dpsの最大化",
-        "text": "剣ビルド:持続DPSの最大化"
+        "id": "剣ビルド-持続dpsの最大化",
+        "text": "剣ビルド: 持続DPSの最大化"
       },
       {
-        "id": "ボス火力ビルド高hpターゲットの撃破",
-        "text": "ボス火力ビルド:高HPターゲットの撃破"
+        "id": "ボス火力ビルド-高hpターゲットを溶かす",
+        "text": "ボス火力ビルド: 高HPターゲットを溶かす"
       },
       {
-        "id": "pvpビルドアリーナの支配",
-        "text": "PvPビルド:アリーナの支配"
+        "id": "pvpビルド-アリーナを支配する",
+        "text": "PvPビルド: アリーナを支配する"
       },
       {
-        "id": "高度なシナジーエンドゲームコンテンツのためのビルド要素の結合",
-        "text": "高度なシナジー:エンドゲームコンテンツのためのビルド要素の結合"
+        "id": "高度なシナジー-エンドゲームコンテンツのためのビルド要素の組み合わせ",
+        "text": "高度なシナジー: エンドゲームコンテンツのためのビルド要素の組み合わせ"
       },
       {
         "id": "よくある質問",
@@ -2078,8 +2078,8 @@
     ],
     "builds:ja:beast-of-reincarnation-ranged-build": [
       {
-        "id": "遠距離戦闘の基本メカニズムを理解する",
-        "text": "遠距離戦闘の基本メカニズムを理解する"
+        "id": "遠距離のコアメカニクスを理解する",
+        "text": "遠距離のコアメカニクスを理解する"
       },
       {
         "id": "ステルススナイパー待ち伏せダメージの最大化",
@@ -2094,8 +2094,8 @@
         "text": "Beast of Reincarnation ビルド比較：ステルス vs アグレッシブ vs バランス"
       },
       {
-        "id": "paragonとruneでビルドを最適化する",
-        "text": "ParagonとRuneでビルドを最適化する"
+        "id": "パルゴンとルーンでビルドを最適化する",
+        "text": "パルゴンとルーンでビルドを最適化する"
       },
       {
         "id": "よくある質問",
@@ -2104,8 +2104,8 @@
     ],
     "builds:ja:beast-of-reincarnation-skill-tree-explained": [
       {
-        "id": "beast-of-reincarnation-のコアスキルツリーを理解する",
-        "text": "Beast of Reincarnation のコアスキルツリーを理解する"
+        "id": "beast-of-reincarnationのコアスキルツリーを理解する",
+        "text": "Beast of Reincarnationのコアスキルツリーを理解する"
       },
       {
         "id": "詳細なスキルパスとポイント配分",
@@ -2116,8 +2116,8 @@
         "text": "装備シナジーとスキルポイントの優先度"
       },
       {
-        "id": "高度なパス最適化とリスペック",
-        "text": "高度なパス最適化とリスペック"
+        "id": "アドバンスパス最適化とリスペック",
+        "text": "アドバンスパス最適化とリスペック"
       },
       {
         "id": "よくある質問",

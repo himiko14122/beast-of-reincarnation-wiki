@@ -1,25 +1,22 @@
 import fs from 'fs';
 import path from 'path';
 
-const SITE_URL = 'https://dragon-sword-awakening.wiki';
+const SITE_URL = 'https://www.beast-of-reincarnation.online';
 const LOCALES = ['en', 'ko', 'ja', 'de'];
 const routing_defaultLocale = 'en';
-const CONTENT_TYPES = ['heroes', 'tier-list', 'tag-combos', 'guides', 'builds', 'status-ailments', 'exploration', 'familiars', 'updates', 'cooking-crafting', 'story-lore', 'system-requirements', 'buying-guide'];
+const CONTENT_TYPES = ['guides', 'combat', 'bosses', 'builds', 'characters', 'world', 'items', 'news', 'platforms', 'story'];
 const NAV_PAGES = [
   { path: '/', priority: 1, changefreq: 'daily' },
-  { path: '/heroes', priority: 0.9, changefreq: 'weekly' },
-  { path: '/tier-list', priority: 0.9, changefreq: 'weekly' },
-  { path: '/tag-combos', priority: 0.9, changefreq: 'weekly' },
   { path: '/guides', priority: 0.9, changefreq: 'weekly' },
+  { path: '/combat', priority: 0.9, changefreq: 'weekly' },
+  { path: '/bosses', priority: 0.9, changefreq: 'weekly' },
   { path: '/builds', priority: 0.9, changefreq: 'weekly' },
-  { path: '/status-ailments', priority: 0.8, changefreq: 'weekly' },
-  { path: '/exploration', priority: 0.8, changefreq: 'weekly' },
-  { path: '/familiars', priority: 0.8, changefreq: 'weekly' },
-  { path: '/updates', priority: 0.8, changefreq: 'weekly' },
-  { path: '/cooking-crafting', priority: 0.8, changefreq: 'weekly' },
-  { path: '/story-lore', priority: 0.8, changefreq: 'weekly' },
-  { path: '/system-requirements', priority: 0.8, changefreq: 'weekly' },
-  { path: '/buying-guide', priority: 0.8, changefreq: 'weekly' },
+  { path: '/characters', priority: 0.8, changefreq: 'weekly' },
+  { path: '/world', priority: 0.8, changefreq: 'weekly' },
+  { path: '/items', priority: 0.8, changefreq: 'weekly' },
+  { path: '/news', priority: 0.8, changefreq: 'weekly' },
+  { path: '/platforms', priority: 0.7, changefreq: 'weekly' },
+  { path: '/story', priority: 0.7, changefreq: 'weekly' },
   { path: '/about', priority: 0.7, changefreq: 'monthly' },
   { path: '/sitemap', priority: 0.5, changefreq: 'monthly' },
   { path: '/privacy-policy', priority: 0.4, changefreq: 'yearly' },
@@ -28,13 +25,12 @@ const NAV_PAGES = [
 
 function localizedPath(locale, p) {
   // With localePrefix: 'always', all locales get prefix
-  // Exception: English root path "/" serves English homepage (via mirror-en-to-root.mjs)
+  // English root path "/" redirects to /en/ via _redirects
   // All URLs must end with trailing slash (trailingSlash: true)
-  if (locale === 'en') {
-    if (p === '/') return '/';
-    return `/en${p}/`;
+  if (p === '/') {
+    return locale === 'en' ? '/en/' : `/${locale}/`;
   }
-  return p === '/' ? `/${locale}/` : `/${locale}${p}/`;
+  return `/${locale}${p}/`;
 }
 
 function escapeXml(str) {
