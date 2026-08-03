@@ -303,7 +303,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             <div className="section-label">{t('home_module_heroes')}</div>
             <h2 className="text-2xl md:text-3xl font-bold font-[var(--font-heading)] gradient-text">{t('home_module_heroes_title')}</h2>
           </div>
-          <Link href="/heroes" className="text-sm font-semibold text-[var(--color-accent)] hover:underline flex items-center gap-1">{t('view_all')} <ArrowRight className="w-3 h-3" /></Link>
+          <Link href="/characters" className="text-sm font-semibold text-[var(--color-accent)] hover:underline flex items-center gap-1">{t('view_all')} <ArrowRight className="w-3 h-3" /></Link>
         </div>
         <p className="text-[var(--color-text-secondary)] mb-6 leading-relaxed">{t('home_module_heroes_desc')}</p>
         <div className="rounded-2xl bg-white/[0.02] border border-white/[0.08] overflow-hidden backdrop-blur-sm">
@@ -314,7 +314,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             const tc = tierColor(hero.tier);
             const Icon = HERO_ICONS[hero.id] || Shield;
             return (
-              <Link key={hero.id} href="/heroes" className="grid grid-cols-[2rem_1fr_1fr_1fr_1fr] sm:grid-cols-[2.5rem_1fr_1fr_1fr_1fr] items-center gap-4 px-4 py-3 border-b border-white/[0.04] last:border-b-0 hover:bg-[var(--color-accent)]/5 transition-colors group">
+              <Link key={hero.id} href="/characters" className="grid grid-cols-[2rem_1fr_1fr_1fr_1fr] sm:grid-cols-[2.5rem_1fr_1fr_1fr_1fr] items-center gap-4 px-4 py-3 border-b border-white/[0.04] last:border-b-0 hover:bg-[var(--color-accent)]/5 transition-colors group">
                 <span className="text-xs font-mono text-[var(--color-text-muted)]">{idx + 1}</span>
                 <span className="flex items-center gap-2">
                   <Icon className="w-4 h-4 text-[var(--color-accent)] shrink-0" />
@@ -337,7 +337,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               <div className="section-label">{t('home_module_statusAilments')}</div>
               <h2 className="text-2xl md:text-3xl font-bold font-[var(--font-heading)] gradient-text">{t('home_module_statusAilments_title')}</h2>
             </div>
-            <Link href="/status-ailments" className="text-sm font-semibold text-[var(--color-accent)] hover:underline flex items-center gap-1">{t('view_all')} <ArrowRight className="w-3 h-3" /></Link>
+            <Link href="/combat" className="text-sm font-semibold text-[var(--color-accent)] hover:underline flex items-center gap-1">{t('view_all')} <ArrowRight className="w-3 h-3" /></Link>
           </div>
           <p className="text-[var(--color-text-secondary)] mb-6 leading-relaxed">{t('home_module_statusAilments_desc')}</p>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-5">
@@ -345,7 +345,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               const tc = tierColor(ailment.tier);
               const AilIcon = AILMENT_ICONS[ailment.id] || Shield;
               return (
-                <Link key={ailment.id} href="/status-ailments" className="block rounded-2xl bg-white/[0.03] border border-white/[0.08] p-5 backdrop-blur-sm hover:border-[var(--color-accent)]/30 transition-all duration-300 group">
+                <Link key={ailment.id} href="/combat" className="block rounded-2xl bg-white/[0.03] border border-white/[0.08] p-5 backdrop-blur-sm hover:border-[var(--color-accent)]/30 transition-all duration-300 group">
                   <div className="flex items-center justify-between mb-3">
                     <span className="text-[10px] font-bold px-2 py-0.5 rounded-full" style={{ color: tc, background: `${tc}15` }}>{t('tierList_tierLabel')} {ailment.tier}</span>
                     <AilIcon className="w-4 h-4 text-[var(--color-accent)]" />
@@ -368,7 +368,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             <div className="section-label">{t('home_module_familiars')}</div>
             <h2 className="text-2xl md:text-3xl font-bold font-[var(--font-heading)] gradient-text">{t('home_module_familiars_title')}</h2>
           </div>
-          <Link href="/familiars" className="text-sm font-semibold text-[var(--color-accent)] hover:underline flex items-center gap-1">{t('view_all')} <ArrowRight className="w-3 h-3" /></Link>
+          <Link href="/characters" className="text-sm font-semibold text-[var(--color-accent)] hover:underline flex items-center gap-1">{t('view_all')} <ArrowRight className="w-3 h-3" /></Link>
         </div>
         <p className="text-[var(--color-text-secondary)] mb-6 leading-relaxed">{t('home_module_familiars_desc')}</p>
         <div className="rounded-2xl bg-white/[0.02] border border-white/[0.08] overflow-hidden backdrop-blur-sm">
@@ -381,7 +381,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               ? 'var(--color-accent)'
               : 'var(--color-tier-a)';
             return (
-              <Link key={familiar.id} href="/familiars" className="grid grid-cols-[2rem_1fr_1fr_1fr] sm:grid-cols-[2.5rem_1fr_1fr_1fr] items-center gap-4 px-4 py-3 border-b border-white/[0.04] last:border-b-0 hover:bg-[var(--color-accent)]/5 transition-colors group">
+              <Link key={familiar.id} href="/characters" className="grid grid-cols-[2rem_1fr_1fr_1fr] sm:grid-cols-[2.5rem_1fr_1fr_1fr] items-center gap-4 px-4 py-3 border-b border-white/[0.04] last:border-b-0 hover:bg-[var(--color-accent)]/5 transition-colors group">
                 <span className="text-xs font-mono text-[var(--color-text-muted)]">{idx + 1}</span>
                 <span className="font-semibold text-sm group-hover:text-[var(--color-accent)] transition-colors">{translate(t, familiar.nameKey) || familiar.id.replace(/-/g, ' ')}</span>
                 <span className="text-xs text-[var(--color-text-secondary)]">{translate(t, familiar.sourceKey)}</span>
@@ -400,7 +400,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               <div className="section-label">{t('home_module_tierList')}</div>
               <h2 className="text-2xl md:text-3xl font-bold font-[var(--font-heading)] gradient-text">{t('home_module_tierList_title')}</h2>
             </div>
-            <Link href="/tier-list" className="text-sm font-semibold text-[var(--color-accent)] hover:underline flex items-center gap-1">{t('view_all')} <ArrowRight className="w-3 h-3" /></Link>
+            <Link href="/builds" className="text-sm font-semibold text-[var(--color-accent)] hover:underline flex items-center gap-1">{t('view_all')} <ArrowRight className="w-3 h-3" /></Link>
           </div>
           <p className="text-[var(--color-text-secondary)] mb-6 leading-relaxed">{t('home_module_tierList_desc')}</p>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
@@ -408,7 +408,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               const tierHeroes = heroes.filter(h => h.tier === tier);
               const tc = tierColor(tier);
               return (
-                <Link key={tier} href="/tier-list" className="block rounded-2xl bg-white/[0.03] border border-white/[0.08] p-5 backdrop-blur-sm hover:border-[var(--color-accent)]/30 transition-all duration-300 group">
+                <Link key={tier} href="/builds" className="block rounded-2xl bg-white/[0.03] border border-white/[0.08] p-5 backdrop-blur-sm hover:border-[var(--color-accent)]/30 transition-all duration-300 group">
                   <div className="flex items-center justify-between mb-3">
                     <span className="text-[10px] font-bold px-2 py-0.5 rounded-full" style={{ color: tc, background: `${tc}15` }}>{t('tierList_tierLabel')} {tier}</span>
                     <span className="text-[10px] font-bold px-2 py-0.5 rounded-full bg-[var(--color-accent)]/10 text-[var(--color-accent)] border border-[var(--color-accent)]/20">{tierHeroes.length} heroes</span>
