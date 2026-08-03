@@ -170,7 +170,7 @@ function onRequestGet2(context) {
 }
 __name(onRequestGet2, "onRequestGet");
 
-// ../.wrangler/tmp/pages-s3iYiI/functionsRoutes-0.2970811190294651.mjs
+// ../.wrangler/tmp/pages-LmSGsu/functionsRoutes-0.019193763175045175.mjs
 var routes = [
   {
     routePath: "/api/indexnow",
