@@ -312,8 +312,21 @@ export default async function CatchAllPage({ params }: { params: Promise<{ local
               {content.metadata.description && <p className="text-[var(--color-text-secondary)] text-[0.9375rem] leading-relaxed">{content.metadata.description}</p>}
             </div>
 
+            {content.metadata.image && !content.metadata.video && (
+              <div className="relative w-full aspect-video overflow-hidden rounded-2xl mb-8 border border-[var(--color-border)]">
+                <Image src={content.metadata.image} alt={title} fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 75vw, 900px" className="object-cover" priority />
+                <div className="absolute inset-0 bg-gradient-to-t from-[var(--color-bg-primary)]/40 via-transparent to-transparent" />
+              </div>
+            )}
+
             {content.metadata.video && (
               <ArticleVideo videoId={content.metadata.video} title={title} />
+            )}
+
+            {content.metadata.image && content.metadata.video && (
+              <noscript>
+                <img src={content.metadata.image} alt={title} loading="lazy" />
+              </noscript>
             )}
 
             {adKey && (

@@ -1141,5 +1141,20 @@
   "faq_platforms": "What platforms is the game on?",
   "faq_platforms_answer": "Beast of Reincarnation is available on PS5, Xbox Series X|S, and PC (Steam). PC offers the best experience at 60+ FPS for precise tag combo timing. An SSD is required on PC due to Unreal Engine 5 streaming requirements.",
   "faq_yearSetting": "What year does the game take place in?",
-  "faq_yearSetting_answer": "The game is set in 2026 Japan, after the First Bloom event that unleashed the Blight across the country. The Blight converts biomass into crystalline structures, and players explore the ruins of civilization across corrupted regions."
+  "faq_yearSetting_answer": "The game is set in 2026 Japan, after the First Bloom event that unleashed the Blight across the country. The Blight converts biomass into crystalline structures, and players explore the ruins of civilization across corrupted regions.",
+  "page_bosses_description": "Boss encounters in Beast of Reincarnation — multi-phase fights with enrage mechanics, Blight absorption, and Reincarnation loop interactions. Learn every attack pattern and weakness.",
+  "page_characters_description": "All 19 playable characters in Beast of Reincarnation with unique Status Ailments, Familiar synergies, and branching skill trees. Find the best hero for your playstyle.",
+  "page_combat_description": "Master the tag combo system in Beast of Reincarnation — stack Status Ailments through mid-combo switches, trigger Signal Skills, and leverage the Reincarnation loop for strategic resets.",
+  "page_items_description": "Complete item guide for Beast of Reincarnation — Blight-derived crafting materials, equipment sets, Memory Fragments, and the purification system at the Research Enclave.",
+  "page_news_description": "Latest Beast of Reincarnation updates — character reveals, gameplay deep-dives, balance patches, and launch announcements. Stay ahead of every development.",
+  "page_platforms_description": "Beast of Reincarnation platform guide — PS5, Xbox Series X|S, and PC specs. Performance modes, DualSense haptics, and optimization tips for precise combat timing.",
+  "page_story_description": "The complete story of Beast of Reincarnation — Emma and Koo's journey through Blighted Japan, 5 distinct endings, Memory Fragments, and the Reincarnation loop's narrative impact.",
+  "page_world_description": "Explore Blighted Japan in Beast of Reincarnation — regions with escalating corruption, rare crafting nodes, lore fragments, and the Research Enclave hub for fast travel and purification.",
+  "nav_crafting": "Crafting",
+  "nav_economy": "Economy",
+  "nav_factions": "Factions",
+  "nav_mods": "Mods",
+  "nav_stealth": "Stealth",
+  "nav_walkthrough": "Walkthrough",
+  "nav_weapons": "Weapons"
 }
