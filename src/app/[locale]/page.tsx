@@ -193,7 +193,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="section-label">{t('home_start_label')}</div>
         <h2 className="text-2xl md:text-3xl font-bold mb-4 font-[var(--font-heading)] gradient-text">{t('home_start_title')}</h2>
-        <p className="text-[var(--color-text-secondary)] mb-10 max-w-2xl leading-relaxed text-[0.9375rem]">{t('home_start_subtitle')}</p>
+        <p className="text-[var(--color-text-secondary)] mb-10 max-w-4xl leading-relaxed text-[0.9375rem]">{t('home_start_subtitle')}</p>
         <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-6">
           {startHereSteps.map((step, idx) => (
             <Link key={idx} href={step.href} className="module-card group block relative overflow-hidden">
@@ -214,7 +214,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
           <div className="section-label">{t('home_modules_label')}</div>
           <h2 className="text-2xl md:text-3xl font-bold mb-4 font-[var(--font-heading)] gradient-text">{t('home_modules_title')}</h2>
-          <p className="text-[var(--color-text-secondary)] mb-10 max-w-2xl leading-relaxed text-[0.9375rem]">{t('home_modules_subtitle')}</p>
+          <p className="text-[var(--color-text-secondary)] mb-10 max-w-4xl leading-relaxed text-[0.9375rem]">{t('home_modules_subtitle')}</p>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
             {moduleCards.map((card) => {
               const Icon = card.icon;
@@ -251,7 +251,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="section-label">{t('home_about_label')}</div>
         <h2 className="text-2xl md:text-3xl font-bold mb-4 font-[var(--font-heading)] gradient-text">{t('home_about_title')}</h2>
-        <p className="text-[var(--color-text-secondary)] mb-8 max-w-3xl leading-relaxed text-[0.9375rem]">{t('home_about_p1')}</p>
+        <p className="text-[var(--color-text-secondary)] mb-8 max-w-4xl leading-relaxed text-[0.9375rem]">{t('home_about_p1')}</p>
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5 mb-10">
           {gameFeatures.map((feat, idx) => {
             const Icon = feat.icon;
