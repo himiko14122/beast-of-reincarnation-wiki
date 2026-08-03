@@ -98,7 +98,7 @@
         "beast-of-reincarnation-all-endings"
       ],
       "importPath": "Beast-Of-Reincarnation-All-Endings",
-      "title": "Beast of Reincarnation 모든 엔딩: 진 엔딩 가이드"
+      "title": "Beast of Reincarnation 모든 엔딩: 진짜 엔딩 가이드"
     },
     {
       "locale": "ja",
@@ -108,7 +108,7 @@
         "beast-of-reincarnation-all-endings"
       ],
       "importPath": "Beast-Of-Reincarnation-All-Endings",
-      "title": "Beast of Reincarnation すべてのエンディング: 真エンディングガイド"
+      "title": "転生の獣 全エンディング：トゥルーエンディングへの完全ガイド"
     },
     {
       "locale": "de",
@@ -178,7 +178,7 @@
         "beast-of-reincarnation-all-locations"
       ],
       "importPath": "Beast-Of-Reincarnation-All-Locations",
-      "title": "Beast of Reincarnation 모든 지역 가이드와 세계관 설명"
+      "title": "Beast of Reincarnation 모든 위치 가이드 및 세계관 로어"
     },
     {
       "locale": "ja",
@@ -188,7 +188,7 @@
         "beast-of-reincarnation-all-locations"
       ],
       "importPath": "Beast-Of-Reincarnation-All-Locations",
-      "title": "ビースト・オブ・リンカーネーション 全場所ガイドと世界の伝承"
+      "title": "Beast of Reincarnation 全ロケーションガイドと世界の伝承"
     },
     {
       "locale": "de",
@@ -228,7 +228,7 @@
         "beast-of-reincarnation-balance-patch"
       ],
       "importPath": "Beast-Of-Reincarnation-Balance-Patch",
-      "title": "Beast of Reincarnation バランスパッチノート:全変更点と修正"
+      "title": "ビースト・オブ・リンカーネーション バランスパッチノート：全変更点と修正"
     },
     {
       "locale": "de",
@@ -258,7 +258,7 @@
         "beast-of-reincarnation-beast-explained"
       ],
       "importPath": "Beast-Of-Reincarnation-Beast-Explained",
-      "title": "게임 Beast of Reincarnation 이야기 해설: 심오한 스토리 가이드"
+      "title": "게임 Beast of Reincarnation 심층 분석: 심오한 스토리 가이드"
     },
     {
       "locale": "ja",
@@ -268,7 +268,7 @@
         "beast-of-reincarnation-beast-explained"
       ],
       "importPath": "Beast-Of-Reincarnation-Beast-Explained",
-      "title": "ゲーム『Beast of Reincarnation』解説：深遠なストーリーガイド"
+      "title": "Beast of Reincarnation（獣の転生）解説：深淵なるストーリーガイド"
     },
     {
       "locale": "de",
@@ -508,7 +508,7 @@
         "beast-of-reincarnation-blight-mechanics"
       ],
       "importPath": "Beast-Of-Reincarnation-Blight-Mechanics",
-      "title": "ゲーム Beast of Reincarnation 呪いの瘴気メカニクス ワールドインパクトガイド"
+      "title": "Beast of Reincarnation 荒廃メカニックと世界への影響ガイド"
     },
     {
       "locale": "de",
@@ -858,7 +858,7 @@
         "beast-of-reincarnation-cross-platform"
       ],
       "importPath": "Beast-Of-Reincarnation-Cross-Platform",
-      "title": "Beast of Reincarnation 크로스 플랫폼 가이드 및 성능 수정"
+      "title": "Beast of Reincarnation 크로스 플랫폼 가이드 및 성능 문제 해결"
     },
     {
       "locale": "ja",
@@ -1298,7 +1298,7 @@
         "beast-of-reincarnation-final-boss-story"
       ],
       "importPath": "Beast-Of-Reincarnation-Final-Boss-Story",
-      "title": "게임 Beast of Reincarnation 최종 보스 이야기와 내러티브 주제 해설"
+      "title": "게임 Beast of Reincarnation 최종 보스 스토리와 서사 주제 해설"
     },
     {
       "locale": "ja",
@@ -1308,7 +1308,7 @@
         "beast-of-reincarnation-final-boss-story"
       ],
       "importPath": "Beast-Of-Reincarnation-Final-Boss-Story",
-      "title": "ゲーム『Beast of Reincarnation』の最終ボスストーリーと物語テーマ解説"
+      "title": "ゲーム『Beast of Reincarnation』の最終ボスストーリーと物語のテーマ解説"
     },
     {
       "locale": "de",
@@ -1388,7 +1388,7 @@
         "beast-of-reincarnation-fps-optimization"
       ],
       "importPath": "Beast-Of-Reincarnation-Fps-Optimization",
-      "title": "ゲーム Beast of Reincarnation FPS最適化 PCガイド"
+      "title": "ゲーム『Beast of Reincarnation』FPS最適化PCガイド"
     },
     {
       "locale": "de",
@@ -1418,7 +1418,7 @@
         "beast-of-reincarnation-game-changes"
       ],
       "importPath": "Beast-Of-Reincarnation-Game-Changes",
-      "title": "게임 Beast of Reincarnation 게임 변경 사항: 전체 업데이트 가이드"
+      "title": "게임 Beast of Reincarnation 게임 변경 사항: 완벽한 업데이트 가이드"
     },
     {
       "locale": "ja",
@@ -1428,7 +1428,7 @@
         "beast-of-reincarnation-game-changes"
       ],
       "importPath": "Beast-Of-Reincarnation-Game-Changes",
-      "title": "ゲーム「Beast of Reincarnation」のゲーム変更点：完全アップデートガイド"
+      "title": "ゲーム『Beast of Reincarnation』のゲーム変更点：完全アップデートガイド"
     },
     {
       "locale": "de",
@@ -1508,7 +1508,7 @@
         "beast-of-reincarnation-gear-tier-list"
       ],
       "importPath": "Beast-Of-Reincarnation-Gear-Tier-List",
-      "title": "ゲーム『Beast of Reincarnation』装備Tierリスト：最良の序盤武器＆消耗品"
+      "title": "ゲーム Beast of Reincarnation 装備ティアリスト：最良の序盤武器&消耗品"
     },
     {
       "locale": "de",
@@ -1578,7 +1578,7 @@
         "beast-of-reincarnation-healing-items"
       ],
       "importPath": "Beast-Of-Reincarnation-Healing-Items",
-      "title": "the game Beast of Reincarnation 회복 아이템 가이드 & 최고의 키 아이템"
+      "title": "게임 Beast of Reincarnation 치유 아이템 가이드 & 최고의 핵심 아이템"
     },
     {
       "locale": "ja",
@@ -1618,7 +1618,7 @@
         "beast-of-reincarnation-hidden-items-world"
       ],
       "importPath": "Beast-Of-Reincarnation-Hidden-Items-World",
-      "title": "게임 Beast of Reincarnation: 숨겨진 아이템 & 세계 비밀 가이드"
+      "title": "Beast of Reincarnation: 숨겨진 아이템 & 세계 비밀 가이드"
     },
     {
       "locale": "ja",
@@ -1628,7 +1628,7 @@
         "beast-of-reincarnation-hidden-items-world"
       ],
       "importPath": "Beast-Of-Reincarnation-Hidden-Items-World",
-      "title": "ゲーム Beast of Reincarnation: 隠されたアイテムと世界の秘密ガイド"
+      "title": "Beast of Reincarnation: 隠されたアイテムと世界の秘密ガイド"
     },
     {
       "locale": "de",
@@ -1818,7 +1818,7 @@
         "beast-of-reincarnation-japan-history-lore"
       ],
       "importPath": "Beast-Of-Reincarnation-Japan-History-Lore",
-      "title": "Beast of Reincarnation 일본 역사 세계관 완전 가이드"
+      "title": "Beast of Reincarnation 일본 역사 및 세계관 완전 가이드"
     },
     {
       "locale": "ja",
@@ -1828,7 +1828,7 @@
         "beast-of-reincarnation-japan-history-lore"
       ],
       "importPath": "Beast-Of-Reincarnation-Japan-History-Lore",
-      "title": "転生 beast 日本の歴史と伝承 完全ガイド"
+      "title": "Beast of Reincarnation(転生 beast) 日本史・伝承 完全ガイド"
     },
     {
       "locale": "de",
@@ -1908,7 +1908,7 @@
         "beast-of-reincarnation-koo-story-arc"
       ],
       "importPath": "Beast-Of-Reincarnation-Koo-Story-Arc",
-      "title": "ゲーム『Beast of Reincarnation』クーの物語アーク：霊的な絆"
+      "title": "ゲーム Beast of Reincarnation クーの物語：霊的な絆"
     },
     {
       "locale": "de",
@@ -1938,7 +1938,7 @@
         "beast-of-reincarnation-landmark-locations"
       ],
       "importPath": "Beast-Of-Reincarnation-Landmark-Locations",
-      "title": "극동의 환생의 야수 랜드마크 위치 가이드"
+      "title": "극동을 위한 Beast of Reincarnation 랜드마크 위치 가이드"
     },
     {
       "locale": "ja",
@@ -1948,7 +1948,7 @@
         "beast-of-reincarnation-landmark-locations"
       ],
       "importPath": "Beast-Of-Reincarnation-Landmark-Locations",
-      "title": "Beast of Reincarnation ランドマーク場所ガイド：極東編"
+      "title": "Beast of Reincarnation 極東のランドマーク場所ガイド"
     },
     {
       "locale": "de",
@@ -2018,7 +2018,7 @@
         "beast-of-reincarnation-latest-updates"
       ],
       "importPath": "Beast-Of-Reincarnation-Latest-Updates",
-      "title": "2026년 Beast of Reincarnation 최신 업데이트 및 커뮤니티 뉴스"
+      "title": "Beast of Reincarnation 최신 업데이트 및 2026 커뮤니티 소식"
     },
     {
       "locale": "ja",
@@ -2058,7 +2058,7 @@
         "beast-of-reincarnation-lore-deep-dive"
       ],
       "importPath": "Beast-Of-Reincarnation-Lore-Deep-Dive",
-      "title": "게임 Beast of Reincarnation 세계관 심층 분석: 완전한 이야기"
+      "title": "게임 환생의 짐승 세계관 심층 분석: 완전한 이야기"
     },
     {
       "locale": "ja",
@@ -2068,7 +2068,7 @@
         "beast-of-reincarnation-lore-deep-dive"
       ],
       "importPath": "Beast-Of-Reincarnation-Lore-Deep-Dive",
-      "title": "ゲーム『Beast of Reincarnation』ロア徹底解説：完全ストーリー"
+      "title": "ゲーム『Beast of Reincarnation』ロア徹底解説：物語の全貌"
     },
     {
       "locale": "de",
@@ -2148,7 +2148,7 @@
         "beast-of-reincarnation-pc-patch-notes"
       ],
       "importPath": "Beast-Of-Reincarnation-Pc-Patch-Notes",
-      "title": "Beast of Reincarnation PCパッチノートと全プラットフォームアップデート情報"
+      "title": "Beast of Reincarnation PCパッチノートと全プラットフォームアップデート"
     },
     {
       "locale": "de",
@@ -2228,7 +2228,7 @@
         "beast-of-reincarnation-ps5-performance"
       ],
       "importPath": "Beast-Of-Reincarnation-Ps5-Performance",
-      "title": "Beast of Reincarnation PS5パフォーマンスモード vs Xbox vs PC"
+      "title": "ゲーム Beast of Reincarnation PS5パフォーマンスモード vs Xbox vs PC"
     },
     {
       "locale": "de",
@@ -2348,7 +2348,7 @@
         "beast-of-reincarnation-roadmap"
       ],
       "importPath": "Beast-Of-Reincarnation-Roadmap",
-      "title": "Beast of Reincarnation ロードマップ：全アップデートと今後の計画"
+      "title": "ゲーム Beast of Reincarnation ロードマップ：すべてのアップデートと今後の計画"
     },
     {
       "locale": "de",
@@ -2458,7 +2458,7 @@
         "beast-of-reincarnation-steam-deck"
       ],
       "importPath": "Beast-Of-Reincarnation-Steam-Deck",
-      "title": "최적의 플레이를 위한 Beast of Reincarnation Steam Deck 가이드"
+      "title": "Beast of Reincarnation Steam Deck 최적 플레이 가이드"
     },
     {
       "locale": "ja",
@@ -2468,7 +2468,7 @@
         "beast-of-reincarnation-steam-deck"
       ],
       "importPath": "Beast-Of-Reincarnation-Steam-Deck",
-      "title": "最適なプレイのための Beast of Reincarnation Steam Deck ガイド"
+      "title": "最適プレイのためのBeast of Reincarnation Steam Deckガイド"
     },
     {
       "locale": "de",
@@ -2498,7 +2498,7 @@
         "beast-of-reincarnation-steam-guide"
       ],
       "importPath": "Beast-Of-Reincarnation-Steam-Guide",
-      "title": "게임 Beast of Reincarnation Steam 가이드: 최적화된 PC 설정"
+      "title": "게임 Beast of Reincarnation 스팀 가이드: 최적화된 PC 설정"
     },
     {
       "locale": "ja",
@@ -2508,7 +2508,7 @@
         "beast-of-reincarnation-steam-guide"
       ],
       "importPath": "Beast-Of-Reincarnation-Steam-Guide",
-      "title": "ゲーム Beast of Reincarnation Steamガイド:最適化されたPCセットアップ"
+      "title": "ゲーム Beast of Reincarnation Steamガイド: 最適化されたPCセットアップ"
     },
     {
       "locale": "de",
@@ -2538,7 +2538,7 @@
         "beast-of-reincarnation-steam-update"
       ],
       "importPath": "Beast-Of-Reincarnation-Steam-Update",
-      "title": "Beast of Reincarnation Steam 업데이트: 첫날 패치 및 콘솔 소식"
+      "title": "Beast of Reincarnation 스팀 업데이트: 데이원 패치 및 콘솔 소식"
     },
     {
       "locale": "ja",
@@ -2578,7 +2578,7 @@
         "beast-of-reincarnation-story-guide"
       ],
       "importPath": "Beast-Of-Reincarnation-Story-Guide",
-      "title": "환생의 야수 스토리 가이드: 전체 줄거리 & 세계관 완전 해설"
+      "title": "Beast of Reincarnation 스토리 가이드: 전체 플롯 및 로르 해설"
     },
     {
       "locale": "ja",
@@ -2658,7 +2658,7 @@
         "beast-of-reincarnation-system-requirements"
       ],
       "importPath": "Beast-Of-Reincarnation-System-Requirements",
-      "title": "Beast of Reincarnation PC 시스템 요구 사항 및 최적의 설정 가이드"
+      "title": "Beast of Reincarnation 시스템 요구 사항 PC 및 최적 설정 가이드"
     },
     {
       "locale": "ja",
@@ -2668,7 +2668,7 @@
         "beast-of-reincarnation-system-requirements"
       ],
       "importPath": "Beast-Of-Reincarnation-System-Requirements",
-      "title": "Beast of Reincarnation システム要件 PC および最高設定ガイド"
+      "title": "Beast of Reincarnation システム要件 PC およびおすすめ設定ガイド"
     },
     {
       "locale": "de",
@@ -2748,7 +2748,7 @@
         "beast-of-reincarnation-update-history"
       ],
       "importPath": "Beast-Of-Reincarnation-Update-History",
-      "title": "ゲーム『Beast of Reincarnation』のアップデート履歴とDLCニューストラッカー"
+      "title": "Beast of Reincarnation アップデート履歴とDLCニューストラッカー"
     },
     {
       "locale": "de",
@@ -2788,7 +2788,7 @@
         "beast-of-reincarnation-weapon-skills"
       ],
       "importPath": "Beast-Of-Reincarnation-Weapon-Skills",
-      "title": "Beast of Reincarnation 武器スキルガイド：最高 loot とドロップ"
+      "title": "転生獣 武器スキルガイド：最高 loot & ドロップ"
     },
     {
       "locale": "de",
@@ -2818,7 +2818,7 @@
         "beast-of-reincarnation-weapon-upgrade"
       ],
       "importPath": "Beast-Of-Reincarnation-Weapon-Upgrade",
-      "title": "게임 Beast of Reincarnation 무기 강화 가이드: 최대 스탯으로 단련하기"
+      "title": "Beast of Reincarnation 무기 강화 가이드: 최대 스탯으로 강화하기"
     },
     {
       "locale": "ja",
@@ -2828,7 +2828,7 @@
         "beast-of-reincarnation-weapon-upgrade"
       ],
       "importPath": "Beast-Of-Reincarnation-Weapon-Upgrade",
-      "title": "Beast of Reincarnation 武器強化ガイド：最大ステータスを鍛造しよう"
+      "title": "ゲーム Beast of Reincarnation 武器強化ガイド：最大ステータスを鍛造しよう"
     },
     {
       "locale": "de",
@@ -2858,7 +2858,7 @@
         "beast-of-reincarnation-weapons-guide"
       ],
       "importPath": "Beast-Of-Reincarnation-Weapons-Guide",
-      "title": "Beast of Reincarnation 무기 가이드: 최고의 장비 & 제작"
+      "title": "Beast of Reincarnation 무기 가이드: 최고의 장비와 제작"
     },
     {
       "locale": "ja",
@@ -2868,7 +2868,7 @@
         "beast-of-reincarnation-weapons-guide"
       ],
       "importPath": "Beast-Of-Reincarnation-Weapons-Guide",
-      "title": "ゲーム Beast of Reincarnation 武器ガイド：最強装備＆クラフト"
+      "title": "ゲーム Beast of Reincarnation 武器ガイド：最強装備とクラフト"
     },
     {
       "locale": "de",
@@ -2908,7 +2908,7 @@
         "beast-of-reincarnation-what-caused-blight"
       ],
       "importPath": "Beast-Of-Reincarnation-What-Caused-Blight",
-      "title": "Beast of Reincarnation  blightの原因とワールド地域ガイド"
+      "title": "Beast of Reincarnation 汚染の原因と世界地域ガイド"
     },
     {
       "locale": "de",
@@ -2938,7 +2938,7 @@
         "beast-of-reincarnation-world-guide"
       ],
       "importPath": "Beast-Of-Reincarnation-World-Guide",
-      "title": "이 게임 Beast of Reincarnation 세계 가이드: 균열의 일본"
+      "title": "게임 Beast of Reincarnation 월드 가이드: 균열의 일본"
     },
     {
       "locale": "ja",
@@ -2978,7 +2978,7 @@
         "beast-of-reincarnation-year-4026"
       ],
       "importPath": "Beast-Of-Reincarnation-Year-4026",
-      "title": "게임 Beast of Reincarnation Year 4026 설정 가이드"
+      "title": "게임 Beast of Reincarnation 4026년 설정 가이드"
     },
     {
       "locale": "ja",
@@ -2988,7 +2988,7 @@
         "beast-of-reincarnation-year-4026"
       ],
       "importPath": "Beast-Of-Reincarnation-Year-4026",
-      "title": "転生獣 4026年の設定ガイド"
+      "title": "ゲーム Beast of Reincarnation Year 4026 設定ガイド"
     },
     {
       "locale": "de",
@@ -5836,24 +5836,24 @@
     ],
     "items:ko:beast-of-reincarnation-healing-items": [
       {
-        "id": "최대-생존력을-위한-회복-아이템-슬롯-우선순위-지정",
-        "text": "최대 생존력을 위한 회복 아이템 슬롯 우선순위 지정"
+        "id": "생존력을-극대화하기-위한-치유-아이템-슬롯-우선순위-지정",
+        "text": "생존력을 극대화하기 위한 치유 아이템 슬롯 우선순위 지정"
       },
       {
-        "id": "진행을-위한-beast-of-reincarnation-키-아이템-가이드",
-        "text": "진행을 위한 Beast of Reincarnation 키 아이템 가이드"
+        "id": "진행을-위한-beast-of-reincarnation-핵심-아이템-가이드",
+        "text": "진행을 위한 Beast of Reincarnation 핵심 아이템 가이드"
       },
       {
-        "id": "beast-of-reincarnation-emma를-위한-최고의-장비-무녀의-무기고",
-        "text": "Beast of Reincarnation Emma를 위한 최고의 장비: 무녀의 무기고"
+        "id": "emma를-위한-beast-of-reincarnation-최고의-장비-무녀의-무기고",
+        "text": "Emma를 위한 Beast of Reincarnation 최고의 장비: 무녀의 무기고"
       },
       {
-        "id": "beast-of-reincarnation-최고의-koo-아이템-및-공격적인-빌드",
-        "text": "Beast of Reincarnation 최고의 Koo 아이템 및 공격적인 빌드"
+        "id": "beast-of-reincarnation-최고의-koo-아이템과-공격적인-빌드",
+        "text": "Beast of Reincarnation 최고의 Koo 아이템과 공격적인 빌드"
       },
       {
-        "id": "고급-시너지-엔드게임을-위한-회복-아이템과-키-아이템-결합",
-        "text": "고급 시너지: 엔드게임을 위한 회복 아이템과 키 아이템 결합"
+        "id": "고급-시너지-엔드게임을-위한-치유-아이템과-핵심-아이템-결합",
+        "text": "고급 시너지: 엔드게임을 위한 치유 아이템과 핵심 아이템 결합"
       },
       {
         "id": "자주-묻는-질문",
@@ -5862,20 +5862,20 @@
     ],
     "items:ko:beast-of-reincarnation-weapon-skills": [
       {
-        "id": "무기-레어도와-핵심-스탯-이해하기",
-        "text": "무기 레어도와 핵심 스탯 이해하기"
+        "id": "무기-희귀도와-핵심-스탯-이해하기",
+        "text": "무기 희귀도와 핵심 스탯 이해하기"
       },
       {
-        "id": "오픈-월드에서-beast-of-reincarnation-아이템-획득처",
-        "text": "오픈 월드에서 Beast of Reincarnation 아이템 획득처"
+        "id": "오픈-월드에서-beast-of-reincarnation-아이템을-찾는-곳",
+        "text": "오픈 월드에서 Beast of Reincarnation 아이템을 찾는 곳"
       },
       {
-        "id": "beast-of-reincarnation-보스-드롭-아이템과-고유-스킬",
-        "text": "Beast of Reincarnation 보스 드롭 아이템과 고유 스킬"
+        "id": "beast-of-reincarnation-보스-드롭-아이템과-그-고유한-스킬",
+        "text": "Beast of Reincarnation 보스 드롭 아이템과 그 고유한 스킬"
       },
       {
-        "id": "고급-루트-전략과-무기-레어도-가이드",
-        "text": "고급 루트 전략과 무기 레어도 가이드"
+        "id": "고급-루트-전략과-무기-희귀도-가이드",
+        "text": "고급 루트 전략과 무기 희귀도 가이드"
       },
       {
         "id": "자주-묻는-질문",
@@ -5896,8 +5896,8 @@
         "text": "무기 유형 원형 마스터하기"
       },
       {
-        "id": "파밍-루트와-강화-경로-결합",
-        "text": "파밍 루트와 강화 경로 결합"
+        "id": "강화-경로와-파밍-경로-결합",
+        "text": "강화 경로와 파밍 경로 결합"
       },
       {
         "id": "자주-묻는-질문",
@@ -5962,12 +5962,12 @@
         "text": "현재 시즌을 위한 종합적인 Beast of Reincarnation 게임 변경 사항 목록"
       },
       {
-        "id": "beast-of-reincarnation-시즌-패스-뉴스와-향후-로드맵",
-        "text": "Beast of Reincarnation 시즌 패스 뉴스와 향후 로드맵"
+        "id": "beast-of-reincarnation-시즌-패스-뉴스-및-향후-로드맵",
+        "text": "Beast of Reincarnation 시즌 패스 뉴스 및 향후 로드맵"
       },
       {
-        "id": "변경-사항을-플레이-전략에-통합하기",
-        "text": "변경 사항을 플레이 전략에 통합하기"
+        "id": "게임플레이-전략에-변화-통합하기",
+        "text": "게임플레이 전략에 변화 통합하기"
       },
       {
         "id": "자주-묻는-질문",
@@ -5976,8 +5976,8 @@
     ],
     "news:ko:beast-of-reincarnation-latest-updates": [
       {
-        "id": "시즌-콘텐츠-공개와-로드맵-진행-상황-분석",
-        "text": "시즌 콘텐츠 공개와 로드맵 진행 상황 분석"
+        "id": "시즌-콘텐츠-출시-및-로드맵-진행-상황-분석",
+        "text": "시즌 콘텐츠 출시 및 로드맵 진행 상황 분석"
       },
       {
         "id": "최신-beast-of-reincarnation-패치-노트-분석",
@@ -5988,8 +5988,8 @@
         "text": "Beast of Reincarnation AMA 세션의 커뮤니티 하이라이트"
       },
       {
-        "id": "예상-기능과-다음-사이클을-향한-길",
-        "text": "예상 기능과 다음 사이클을 향한 길"
+        "id": "예상-기능-및-다음-사이클을-향한-길",
+        "text": "예상 기능 및 다음 사이클을 향한 길"
       },
       {
         "id": "자주-묻는-질문",
@@ -6010,8 +6010,8 @@
         "text": "Beast of Reincarnation Xbox 업데이트 분석"
       },
       {
-        "id": "beast-of-reincarnation-확장판-소식-및-향후-로드맵",
-        "text": "Beast of Reincarnation 확장판 소식 및 향후 로드맵"
+        "id": "beast-of-reincarnation-확장팩-소식-및-향후-로드맵",
+        "text": "Beast of Reincarnation 확장팩 소식 및 향후 로드맵"
       },
       {
         "id": "업데이트-사이클-및-커뮤니티-리소스-마스터하기",
@@ -6046,12 +6046,12 @@
     ],
     "news:ko:beast-of-reincarnation-steam-update": [
       {
-        "id": "beast-of-reincarnation-첫날-패치-노트-분석",
-        "text": "Beast of Reincarnation 첫날 패치 노트 분석"
+        "id": "beast-of-reincarnation-데이원-패치-노트-분석",
+        "text": "Beast of Reincarnation 데이원 패치 노트 분석"
       },
       {
-        "id": "beast-of-reincarnation-콘솔-업데이트-현황-및-성능",
-        "text": "Beast of Reincarnation 콘솔 업데이트 현황 및 성능"
+        "id": "beast-of-reincarnation-콘솔-업데이트-상태-및-성능",
+        "text": "Beast of Reincarnation 콘솔 업데이트 상태 및 성능"
       },
       {
         "id": "beast-of-reincarnation-출시일-설정-최적화",
@@ -6090,24 +6090,24 @@
     ],
     "platforms:ko:beast-of-reincarnation-cross-platform": [
       {
-        "id": "beast-of-reincarnation-플랫폼-가용성-및-가격-분석",
-        "text": "Beast of Reincarnation 플랫폼 가용성 및 가격 분석"
+        "id": "beast-of-reincarnation-플랫폼-이용-가능성-및-가격-분석",
+        "text": "Beast of Reincarnation 플랫폼 이용 가능성 및 가격 분석"
       },
       {
-        "id": "pc-성능-문제-진단-및-수정",
-        "text": "PC 성능 문제 진단 및 수정"
+        "id": "pc-성능-문제-진단-및-해결",
+        "text": "PC 성능 문제 진단 및 해결"
       },
       {
-        "id": "플랫폼별-제어-및-입력-옵션-마스터하기",
-        "text": "플랫폼별 제어 및 입력 옵션 마스터하기"
+        "id": "플랫폼별-조작-및-입력-옵션-마스터하기",
+        "text": "플랫폼별 조작 및 입력 옵션 마스터하기"
       },
       {
         "id": "저사양-시스템을-위한-고급-그래픽-설정",
         "text": "저사양 시스템을 위한 고급 그래픽 설정"
       },
       {
-        "id": "기술적-관점에서-환생-루프-이해하기",
-        "text": "기술적 관점에서 환생 루프 이해하기"
+        "id": "기술적-렌즈로-본-환생-루프-이해하기",
+        "text": "기술적 렌즈로 본 환생 루프 이해하기"
       },
       {
         "id": "자주-묻는-질문",
@@ -6116,16 +6116,16 @@
     ],
     "platforms:ko:beast-of-reincarnation-fps-optimization": [
       {
-        "id": "반응형-전투를-위한-성능-우선순위-지정",
-        "text": "반응형 전투를 위한 성능 우선순위 지정"
+        "id": "반응적인-전투를-위한-성능-우선순위-지정",
+        "text": "반응적인 전투를 위한 성능 우선순위 지정"
       },
       {
         "id": "4k-및-고해상도-전략-마스터하기",
         "text": "4K 및 고해상도 전략 마스터하기"
       },
       {
-        "id": "울트라와이드-및-화면비-지원-활성화",
-        "text": "울트라와이드 및 화면비 지원 활성화"
+        "id": "울트라와이드-및-화면-비율-지원-활성화",
+        "text": "울트라와이드 및 화면 비율 지원 활성화"
       },
       {
         "id": "gpu-설정-및-백그라운드-프로세스-미세-조정",
@@ -6142,8 +6142,8 @@
         "text": "Beast of Reincarnation 시스템 요구 사항 이해하기"
       },
       {
-        "id": "프레임-레이트-문제-진단-및-수정",
-        "text": "프레임 레이트 문제 진단 및 수정"
+        "id": "프레임-레이트-문제-진단-및-해결",
+        "text": "프레임 레이트 문제 진단 및 해결"
       },
       {
         "id": "dlss-지원-활성화-및-구성",
@@ -6212,12 +6212,12 @@
     ],
     "platforms:ko:beast-of-reincarnation-steam-guide": [
       {
-        "id": "beast-of-reincarnation-steam-성능-및-설치-마스터하기",
-        "text": "Beast of Reincarnation Steam 성능 및 설치 마스터하기"
+        "id": "beast-of-reincarnation-스팀-성능-및-설치-마스터하기",
+        "text": "Beast of Reincarnation 스팀 성능 및 설치 마스터하기"
       },
       {
-        "id": "매끄러운-전투를-위한-그래픽-설정-최적화",
-        "text": "매끄러운 전투를 위한 그래픽 설정 최적화"
+        "id": "부드러운-전투를-위한-그래픽-설정-최적화",
+        "text": "부드러운 전투를 위한 그래픽 설정 최적화"
       },
       {
         "id": "pc를-위한-최고의-컨트롤러-및-키보드-설정",
@@ -6234,16 +6234,16 @@
     ],
     "platforms:ko:beast-of-reincarnation-system-requirements": [
       {
-        "id": "공식-beast-of-reincarnation-pc-시스템-요구-사항-분석",
-        "text": "공식 Beast of Reincarnation PC 시스템 요구 사항 분석"
+        "id": "공식-beast-of-reincarnation-시스템-요구-사항-pc-분석",
+        "text": "공식 Beast of Reincarnation 시스템 요구 사항 PC 분석"
       },
       {
-        "id": "플레이-가능한-프레임-속도를-위한-beast-of-reincarnation-최소-사양-분석",
-        "text": "플레이 가능한 프레임 속도를 위한 Beast of Reincarnation 최소 사양 분석"
+        "id": "플레이-가능한-프레임-레이트를-위한-beast-of-reincarnation-최소-사양-해독",
+        "text": "플레이 가능한 프레임 레이트를 위한 Beast of Reincarnation 최소 사양 해독"
       },
       {
-        "id": "높은-fps-비주얼을-위한-beast-of-reincarnation-최적-설정-가이드",
-        "text": "높은 FPS 비주얼을 위한 Beast of Reincarnation 최적 설정 가이드"
+        "id": "고-fps-시각-효과를-위한-beast-of-reincarnation-최적-설정-가이드",
+        "text": "고 FPS 시각 효과를 위한 Beast of Reincarnation 최적 설정 가이드"
       },
       {
         "id": "최대-가시성을-위한-디스플레이-및-업스케일링-조정",
@@ -6264,8 +6264,8 @@
         "text": "Beast of Reincarnation Emma 스토리 아크와 그녀의 운명"
       },
       {
-        "id": "beast-of-reincarnation-진-엔딩-가이드-마스터하기",
-        "text": "Beast of Reincarnation 진 엔딩 가이드 마스터하기"
+        "id": "beast-of-reincarnation-진짜-엔딩-가이드-마스터하기",
+        "text": "Beast of Reincarnation 진짜 엔딩 가이드 마스터하기"
       },
       {
         "id": "beast-of-reincarnation-비밀-엔딩과-얽힌-운명",
@@ -6278,20 +6278,20 @@
     ],
     "story:ko:beast-of-reincarnation-beast-explained": [
       {
-        "id": "beast-of-reincarnation의-서사적-순환-구조-해체",
-        "text": "Beast of Reincarnation의 서사적 순환 구조 해체"
+        "id": "beast-of-reincarnation의-서사-순환-구조-해체",
+        "text": "Beast of Reincarnation의 서사 순환 구조 해체"
       },
       {
-        "id": "beast-of-reincarnation-핵심-npc-서브플롯-분석",
-        "text": "Beast of Reincarnation 핵심 NPC 서브플롯 분석"
+        "id": "핵심-beast-of-reincarnation-npc-스토리라인-분석",
+        "text": "핵심 Beast of Reincarnation NPC 스토리라인 분석"
       },
       {
         "id": "beast-of-reincarnation-사이드-스토리-가이드-마스터하기",
         "text": "Beast of Reincarnation 사이드 스토리 가이드 마스터하기"
       },
       {
-        "id": "beast-of-reincarnation의-심오한-서사-디자인",
-        "text": "Beast of Reincarnation의 심오한 서사 디자인"
+        "id": "beast-of-reincarnation의-심오한-서사-설계",
+        "text": "Beast of Reincarnation의 심오한 서사 설계"
       },
       {
         "id": "자주-묻는-질문",
@@ -6300,20 +6300,20 @@
     ],
     "story:ko:beast-of-reincarnation-final-boss-story": [
       {
-        "id": "beast-of-reincarnation-내러티브의-주제적-토대",
-        "text": "Beast of Reincarnation 내러티브의 주제적 토대"
+        "id": "beast-of-reincarnation-서사의-주제적-기초",
+        "text": "Beast of Reincarnation 서사의 주제적 기초"
       },
       {
-        "id": "beast-of-reincarnation-엠마-운명-이야기의-분석",
-        "text": "Beast of Reincarnation 엠마 운명 이야기의 분석"
+        "id": "beast-of-reincarnation-엠마-운명-이야기-분석",
+        "text": "Beast of Reincarnation 엠마 운명 이야기 분석"
       },
       {
-        "id": "슬픔의-순환에서의-캐릭터-동기",
-        "text": "슬픔의 순환에서의 캐릭터 동기"
+        "id": "슬픔의-사이클-속-캐릭터-동기",
+        "text": "슬픔의 사이클 속 캐릭터 동기"
       },
       {
-        "id": "여러-플레이스루를-통한-일본-세계관의-진화",
-        "text": "여러 플레이스루를 통한 일본 세계관의 진화"
+        "id": "여러-플레이스루를-통한-일본-로어의-진화",
+        "text": "여러 플레이스루를 통한 일본 로어의 진화"
       },
       {
         "id": "자주-묻는-질문",
@@ -6326,20 +6326,20 @@
         "text": "역사 속 일본의 저주받은 기원"
       },
       {
-        "id": "비애의-순환-속-캐릭터의-동기",
-        "text": "비애의 순환 속 캐릭터의 동기"
+        "id": "비탄의-순환-속-캐릭터-동기",
+        "text": "비탄의 순환 속 캐릭터 동기"
       },
       {
-        "id": "여정의-끝-가이드-탐색",
-        "text": "여정의 끝 가이드 탐색"
+        "id": "여정-종료-가이드-탐색",
+        "text": "여정 종료 가이드 탐색"
       },
       {
-        "id": "스토리-vs-게임플레이-미묘한-이분법",
-        "text": "스토리 vs 게임플레이: 미묘한 이분법"
+        "id": "스토리-대-게임플레이-미묘한-이분법",
+        "text": "스토리 대 게임플레이: 미묘한 이분법"
       },
       {
-        "id": "다중-플레이를-통한-일본-세계관의-진화",
-        "text": "다중 플레이를 통한 일본 세계관의 진화"
+        "id": "여러-플레이스루를-통한-일본-세계관의-진화",
+        "text": "여러 플레이스루를 통한 일본 세계관의 진화"
       },
       {
         "id": "자주-묻는-질문",
@@ -6352,20 +6352,20 @@
         "text": "쿠의 기원을 위한 Beast of Reincarnation 타임라인 추적"
       },
       {
-        "id": "beast-of-reincarnation-황폐-이야기란-분해",
-        "text": "Beast of Reincarnation 황폐 이야기란 분해"
+        "id": "beast-of-reincarnation-blight-스토리란-무엇인가-분해하기",
+        "text": "Beast of Reincarnation Blight 스토리란 무엇인가 분해하기"
       },
       {
-        "id": "유대-뒤에-숨겨진-위험한-진실-이야기",
-        "text": "유대 뒤에 숨겨진 위험한 진실 이야기"
+        "id": "유대-뒤에-숨겨진-위험한-진실-스토리",
+        "text": "유대 뒤에 숨겨진 위험한 진실 스토리"
       },
       {
         "id": "beast-of-reincarnation-줄거리-요약에서-쿠의-서사적-역할",
         "text": "Beast of Reincarnation 줄거리 요약에서 쿠의 서사적 역할"
       },
       {
-        "id": "여정-종료의-서사적-분기-마스터하기",
-        "text": "여정 종료의 서사적 분기 마스터하기"
+        "id": "end-of-journey-서사-분기-마스터하기",
+        "text": "End-of-Journey 서사 분기 마스터하기"
       },
       {
         "id": "자주-묻는-질문",
@@ -6374,20 +6374,20 @@
     ],
     "story:ko:beast-of-reincarnation-lore-deep-dive": [
       {
-        "id": "파편화된-타임라인과-블라이트의-진짜-기원-해독하기",
-        "text": "파편화된 타임라인과 블라이트의 진짜 기원 해독하기"
+        "id": "파괴된-시간선과-황폐의-진정한-기원-해독하기",
+        "text": "파괴된 시간선과 황폐의 진정한 기원 해독하기"
       },
       {
-        "id": "엠마의-비극적-운명과-동료의-유대-풀어내기",
-        "text": "엠마의 비극적 운명과 동료의 유대 풀어내기"
+        "id": "엠마의-비극적-운명과-동료-유대-풀어보기",
+        "text": "엠마의 비극적 운명과 동료 유대 풀어보기"
       },
       {
-        "id": "beast-of-reincarnation-서사의-주제적-토대",
-        "text": "Beast of Reincarnation 서사의 주제적 토대"
+        "id": "환생의-짐승-서사의-주제적-기초",
+        "text": "환생의 짐승 서사의 주제적 기초"
       },
       {
-        "id": "다중-플레이스루를-통한-일본-세계관의-진화",
-        "text": "다중 플레이스루를 통한 일본 세계관의 진화"
+        "id": "다중-플레이를-통한-일본-세계관의-진화",
+        "text": "다중 플레이를 통한 일본 세계관의 진화"
       },
       {
         "id": "자주-묻는-질문",
@@ -6396,24 +6396,24 @@
     ],
     "story:ko:beast-of-reincarnation-story-guide": [
       {
-        "id": "게임-이전의-세계-게임-이전-세계관",
-        "text": "게임 이전의 세계: 게임 이전 세계관"
+        "id": "이전의-세계-게임-이전-로르",
+        "text": "이전의 세계: 게임 이전 로르"
       },
       {
         "id": "챕터-1-추방자와-야수",
         "text": "챕터 1: 추방자와 야수"
       },
       {
-        "id": "챕터-2-3-블라이트-황무지를-통과하여",
-        "text": "챕터 2-3: 블라이트 황무지를 통과하여"
+        "id": "챕터-2-3-블라이트-황야를-지나",
+        "text": "챕터 2-3: 블라이트 황야를 지나"
       },
       {
-        "id": "챕터-4-기원점",
-        "text": "챕터 4: 기원점"
+        "id": "챕터-4-기원-지점",
+        "text": "챕터 4: 기원 지점"
       },
       {
-        "id": "야수-설명-세계관-심층-분석",
-        "text": "야수 설명: 세계관 심층 분석"
+        "id": "야수-해설-로르-심층-분석",
+        "text": "야수 해설: 로르 심층 분석"
       },
       {
         "id": "자주-묻는-질문",
@@ -6422,16 +6422,16 @@
     ],
     "world:ko:beast-of-reincarnation-all-locations": [
       {
-        "id": "파편화된-세계와-핵심-지역-메커니즘-매핑하기",
-        "text": "파편화된 세계와 핵심 지역 메커니즘 매핑하기"
+        "id": "파괴된-세계-지도-작성-및-핵심-지역-메커니즘",
+        "text": "파괴된 세계 지도 작성 및 핵심 지역 메커니즘"
       },
       {
         "id": "블라이트의-기원과-환경적-영향",
         "text": "블라이트의 기원과 환경적 영향"
       },
       {
-        "id": "썩어가는-일본-배경의-비밀-지역과-숨겨진-위치",
-        "text": "썩어가는 일본 배경의 비밀 지역과 숨겨진 위치"
+        "id": "황폐화된-일본-배경의-비밀-지역-및-숨겨진-위치",
+        "text": "황폐화된 일본 배경의 비밀 지역 및 숨겨진 위치"
       },
       {
         "id": "환경-위험-요소를-위한-탐험-경로-최적화",
@@ -6444,24 +6444,24 @@
     ],
     "world:ko:beast-of-reincarnation-blight-mechanics": [
       {
-        "id": "역동적인-블라이트-순환과-환경-붕괴",
-        "text": "역동적인 블라이트 순환과 환경 붕괴"
+        "id": "동적-블라이트-순환과-환경-붕괴",
+        "text": "동적 블라이트 순환과 환경 붕괴"
       },
       {
-        "id": "숲-복원과-풍경-변화-마스터하기",
-        "text": "숲 복원과 풍경 변화 마스터하기"
+        "id": "숲-회복과-풍경-변화-마스터하기",
+        "text": "숲 회복과 풍경 변화 마스터하기"
       },
       {
-        "id": "유적-탐험을-위한-koo의-탐험-능력-해제",
-        "text": "유적 탐험을 위한 Koo의 탐험 능력 해제"
+        "id": "유적-탐험을-위한-koo의-능력-해제",
+        "text": "유적 탐험을 위한 Koo의 능력 해제"
       },
       {
-        "id": "풍경-변화를-사용한-경로-최적화",
-        "text": "풍경 변화를 사용한 경로 최적화"
+        "id": "풍경-변화를-이용한-경로-최적화",
+        "text": "풍경 변화를 이용한 경로 최적화"
       },
       {
-        "id": "블라이트에-감염된-유적과-엔드게임-비밀-마스터하기",
-        "text": "블라이트에 감염된 유적과 엔드게임 비밀 마스터하기"
+        "id": "블라이트에-오염된-유적과-엔드게임-비밀-마스터하기",
+        "text": "블라이트에 오염된 유적과 엔드게임 비밀 마스터하기"
       },
       {
         "id": "자주-묻는-질문",
@@ -6474,16 +6474,16 @@
         "text": "핵심 세계 이동 메커니즘 이해하기"
       },
       {
-        "id": "메인-스토리-진행에-숨겨진-아이템-매핑하기",
-        "text": "메인 스토리 진행에 숨겨진 아이템 매핑하기"
+        "id": "숨겨진-아이템을-메인-스토리-진행에-매핑하기",
+        "text": "숨겨진 아이템을 메인 스토리 진행에 매핑하기"
       },
       {
-        "id": "고급-빠른-이동-공략과-지름길",
-        "text": "고급 빠른 이동 공략과 지름길"
+        "id": "고급-빠른-이동-활용법과-지름길",
+        "text": "고급 빠른 이동 활용법과 지름길"
       },
       {
-        "id": "환경-세계관과-숨겨진-서사-심층-분석",
-        "text": "환경 세계관과 숨겨진 서사 심층 분석"
+        "id": "환경-세계관과-숨겨진-서사의-심층-분석",
+        "text": "환경 세계관과 숨겨진 서사의 심층 분석"
       },
       {
         "id": "자주-묻는-질문",
@@ -6492,20 +6492,20 @@
     ],
     "world:ko:beast-of-reincarnation-landmark-locations": [
       {
-        "id": "극동-시작-지역과-랜드마크-해독하기",
-        "text": "극동 시작 지역과 랜드마크 해독하기"
+        "id": "극동-시작-지역과-그-랜드마크-해독하기",
+        "text": "극동 시작 지역과 그 랜드마크 해독하기"
       },
       {
-        "id": "전체-월드-맵-크기와-지역-흐름-이해하기",
-        "text": "전체 월드 맵 크기와 지역 흐름 이해하기"
+        "id": "전체-월드맵-크기와-지역-흐름-이해하기",
+        "text": "전체 월드맵 크기와 지역 흐름 이해하기"
       },
       {
-        "id": "고급-랜드마크-탐색-및-숨겨진-경로",
-        "text": "고급 랜드마크 탐색 및 숨겨진 경로"
+        "id": "고급-랜드마크-탐색과-숨겨진-경로",
+        "text": "고급 랜드마크 탐색과 숨겨진 경로"
       },
       {
-        "id": "랜드마크-발견을-위한-필수-도구-및-아이템",
-        "text": "랜드마크 발견을 위한 필수 도구 및 아이템"
+        "id": "랜드마크-발견을-위한-필수-도구와-아이템",
+        "text": "랜드마크 발견을 위한 필수 도구와 아이템"
       },
       {
         "id": "자주-묻는-질문",
@@ -6540,24 +6540,24 @@
     ],
     "world:ko:beast-of-reincarnation-world-guide": [
       {
-        "id": "beast-of-reincarnation-아포칼립스-일본-세계관-해독하기",
-        "text": "Beast of Reincarnation 아포칼립스 일본 세계관 해독하기"
+        "id": "beast-of-reincarnation-아포칼립스-일본-세계관-해독",
+        "text": "Beast of Reincarnation 아포칼립스 일본 세계관 해독"
       },
       {
-        "id": "beast-of-reincarnation-지도-및-위치-마스터하기",
-        "text": "Beast of Reincarnation 지도 및 위치 마스터하기"
+        "id": "beast-of-reincarnation-맵과-위치-정복",
+        "text": "Beast of Reincarnation 맵과 위치 정복"
       },
       {
-        "id": "유적-탐사를-위한-쿠koo의-능력-잠금-해제",
-        "text": "유적 탐사를 위한 쿠(Koo)의 능력 잠금 해제"
+        "id": "쿠의-유적-탐험-능력-잠금해제",
+        "text": "쿠의 유적 탐험 능력 잠금해제"
       },
       {
-        "id": "경관-변화를-이용한-경로-최적화",
-        "text": "경관 변화를 이용한 경로 최적화"
+        "id": "경관-변화를-사용한-경로-최적화",
+        "text": "경관 변화를 사용한 경로 최적화"
       },
       {
-        "id": "블라이트에-잠긴-유적과-엔드게임-비밀-마스터하기",
-        "text": "블라이트에 잠긴 유적과 엔드게임 비밀 마스터하기"
+        "id": "재앙의-유적과-엔드게임-비밀-정복",
+        "text": "재앙의 유적과 엔드게임 비밀 정복"
       },
       {
         "id": "자주-묻는-질문",
@@ -6566,24 +6566,24 @@
     ],
     "world:ko:beast-of-reincarnation-year-4026": [
       {
-        "id": "beast-of-reincarnation-year-4026-설정-해독하기",
-        "text": "Beast of Reincarnation Year 4026 설정 해독하기"
+        "id": "beast-of-reincarnation-4026년-설정-해독",
+        "text": "Beast of Reincarnation 4026년 설정 해독"
       },
       {
         "id": "beast-of-reincarnation-저주받은-숲-가이드",
         "text": "Beast of Reincarnation 저주받은 숲 가이드"
       },
       {
-        "id": "beast-of-reincarnation-오픈-월드-가이드-균열된-땅의-비밀",
-        "text": "Beast of Reincarnation 오픈 월드 가이드: 균열된 땅의 비밀"
+        "id": "beast-of-reincarnation-오픈-월드-가이드-균열의-땅의-비밀",
+        "text": "Beast of Reincarnation 오픈 월드 가이드: 균열의 땅의 비밀"
       },
       {
         "id": "beast-of-reincarnation-탐험-가이드-마스터하기-고급-기술",
         "text": "Beast of Reincarnation 탐험 가이드 마스터하기: 고급 기술"
       },
       {
-        "id": "beast-of-reincarnation-쿠의-숨겨진-아이템-위치-찾기-궁극의-파밍-루트",
-        "text": "Beast of Reincarnation 쿠의 숨겨진 아이템 위치 찾기: 궁극의 파밍 루트"
+        "id": "beast-of-reincarnation-쿠-숨겨진-아이템-위치-파악-궁극의-farming-경로",
+        "text": "Beast of Reincarnation 쿠 숨겨진 아이템 위치 파악: 궁극의 farming 경로"
       },
       {
         "id": "자주-묻는-질문",
@@ -7604,12 +7604,12 @@
     ],
     "items:ja:beast-of-reincarnation-gear-tier-list": [
       {
-        "id": "装備の入手方法とレアリティの仕組み",
-        "text": "装備の入手方法とレアリティの仕組み"
+        "id": "装備入手とレアリティの仕組み",
+        "text": "装備入手とレアリティの仕組み"
       },
       {
-        "id": "beast-of-reincarnation-最良の序盤武器tierリスト",
-        "text": "Beast of Reincarnation 最良の序盤武器Tierリスト"
+        "id": "beast-of-reincarnation最良の序盤武器ティアリスト",
+        "text": "Beast of Reincarnation最良の序盤武器ティアリスト"
       },
       {
         "id": "ユニーク武器とその真の価値",
@@ -7620,8 +7620,8 @@
         "text": "Beast of Reincarnation消耗品アイテムガイド"
       },
       {
-        "id": "beast-of-reincarnationスピリットストーンアイテム解説",
-        "text": "Beast of Reincarnationスピリットストーンアイテム解説"
+        "id": "beast-of-reincarnation霊石アイテム解説",
+        "text": "Beast of Reincarnation霊石アイテム解説"
       },
       {
         "id": "よくある質問",
@@ -7656,20 +7656,20 @@
     ],
     "items:ja:beast-of-reincarnation-weapon-skills": [
       {
-        "id": "武器のレアリティとコアステータスを理解する",
-        "text": "武器のレアリティとコアステータスを理解する"
+        "id": "武器のレアリティとコアステータスの理解",
+        "text": "武器のレアリティとコアステータスの理解"
       },
       {
-        "id": "オープンワールドでアイテムを見つける方法",
-        "text": "オープンワールドでアイテムを見つける方法"
+        "id": "オープンワールドでの転生獣-アイテムの入手場所",
+        "text": "オープンワールドでの転生獣 アイテムの入手場所"
       },
       {
-        "id": "beast-of-reincarnation-ボスドロップアイテムとその固有スキル",
-        "text": "Beast of Reincarnation ボスドロップアイテムとその固有スキル"
+        "id": "転生獣-ボスドロップアイテムとそのユニークスキル",
+        "text": "転生獣 ボスドロップアイテムとそのユニークスキル"
       },
       {
-        "id": "上級-loot-戦略と武器レアリティガイド",
-        "text": "上級 loot 戦略と武器レアリティガイド"
+        "id": "高度な-loot-戦略と武器レアリティガイド",
+        "text": "高度な loot 戦略と武器レアリティガイド"
       },
       {
         "id": "よくある質問",
@@ -7678,20 +7678,20 @@
     ],
     "items:ja:beast-of-reincarnation-weapon-upgrade": [
       {
-        "id": "武器強化の中核メカニズム",
-        "text": "武器強化の中核メカニズム"
+        "id": "武器強化のコアメカニズム",
+        "text": "武器強化のコアメカニズム"
       },
       {
-        "id": "生存力を高める防具強化の最適化",
-        "text": "生存力を高める防具強化の最適化"
+        "id": "生存能力のためのアーマー強化の最適化",
+        "text": "生存能力のためのアーマー強化の最適化"
       },
       {
-        "id": "武器タイプごとの特性を極める",
-        "text": "武器タイプごとの特性を極める"
+        "id": "武器タイプアーキタイプのマスタリー",
+        "text": "武器タイプアーキタイプのマスタリー"
       },
       {
-        "id": "強化ルートと収集ルートの併用",
-        "text": "強化ルートと収集ルートの併用"
+        "id": "強化パスをfarming-ルートと組み合わせる",
+        "text": "強化パスをFarming ルートと組み合わせる"
       },
       {
         "id": "よくある質問",
@@ -7700,12 +7700,12 @@
     ],
     "items:ja:beast-of-reincarnation-weapons-guide": [
       {
-        "id": "beast-of-reincarnation-武器ティアシステムの解読",
-        "text": "Beast of Reincarnation 武器ティアシステムの解読"
+        "id": "beast-of-reincarnation-武器-tier-システムの解読",
+        "text": "Beast of Reincarnation 武器 tier システムの解読"
       },
       {
-        "id": "beast-of-reincarnation-アイテムとクラフトループのマスター",
-        "text": "Beast of Reincarnation アイテムとクラフトループのマスター"
+        "id": "beast-of-reincarnation-アイテムとクラフトループの習得",
+        "text": "Beast of Reincarnation アイテムとクラフトループの習得"
       },
       {
         "id": "emma-と-koo-のための-beast-of-reincarnation-最強武器",
@@ -7727,15 +7727,15 @@
     "news:ja:beast-of-reincarnation-balance-patch": [
       {
         "id": "初日パッチv101--発売日の修正",
-        "text": "初日パッチ(v1.0.1) — 発売日の修正"
+        "text": "初日パッチ（v1.0.1） — 発売日の修正"
       },
       {
-        "id": "v110バランスアップデート--最初の大規模パッチ",
-        "text": "v1.1.0バランスアップデート — 最初の大規模パッチ"
+        "id": "v110-バランスアップデート--最初の大規模パッチ",
+        "text": "v1.1.0 バランスアップデート — 最初の大規模パッチ"
       },
       {
-        "id": "v120--コミュニティニュースと今後のコンテンツ",
-        "text": "v1.2.0 — コミュニティニュースと今後のコンテンツ"
+        "id": "v120--コミュニティニュースと近日公開のコンテンツ",
+        "text": "v1.2.0 — コミュニティニュースと近日公開のコンテンツ"
       },
       {
         "id": "バグ修正パッチの履歴",
@@ -7749,15 +7749,15 @@
     "news:ja:beast-of-reincarnation-game-changes": [
       {
         "id": "最新のbeast-of-reincarnation開発者アップデートの分析",
-        "text": "最新の「Beast of Reincarnation」開発者アップデートの分析"
+        "text": "最新の『Beast of Reincarnation』開発者アップデートの分析"
       },
       {
-        "id": "今シーズン向け-包括的なbeast-of-reincarnationゲーム変更点リスト",
-        "text": "今シーズン向け 包括的な「Beast of Reincarnation」ゲーム変更点リスト"
+        "id": "今シーズンのbeast-of-reincarnationゲーム変更点の包括的リスト",
+        "text": "今シーズンの『Beast of Reincarnation』ゲーム変更点の包括的リスト"
       },
       {
         "id": "beast-of-reincarnationシーズンパスニュースと将来のロードマップ",
-        "text": "「Beast of Reincarnation」シーズンパスニュースと将来のロードマップ"
+        "text": "『Beast of Reincarnation』シーズンパスニュースと将来のロードマップ"
       },
       {
         "id": "変更点をゲームプレイ戦略に統合する",
@@ -7774,16 +7774,16 @@
         "text": "シーズンコンテンツドロップとロードマップの進捗を分析"
       },
       {
-        "id": "最新のbeast-of-reincarnationパッチノートの詳細",
-        "text": "最新のBeast of Reincarnationパッチノートの詳細"
+        "id": "最新beast-of-reincarnationパッチノートの詳細",
+        "text": "最新Beast of Reincarnationパッチノートの詳細"
       },
       {
         "id": "beast-of-reincarnation-amaセッションからのコミュニティハイライト",
         "text": "Beast of Reincarnation AMAセッションからのコミュニティハイライト"
       },
       {
-        "id": "期待される機能と次サイクルへの道筋",
-        "text": "期待される機能と次サイクルへの道筋"
+        "id": "期待される機能と次期サイクルへの道筋",
+        "text": "期待される機能と次期サイクルへの道筋"
       },
       {
         "id": "よくある質問",
@@ -7804,12 +7804,12 @@
         "text": "Beast of Reincarnation Xboxアップデートの分析"
       },
       {
-        "id": "beast-of-reincarnation拡張ニュースと今後のロードマップ",
-        "text": "Beast of Reincarnation拡張ニュースと今後のロードマップ"
+        "id": "beast-of-reincarnation拡張ニュースと将来のロードマップ",
+        "text": "Beast of Reincarnation拡張ニュースと将来のロードマップ"
       },
       {
-        "id": "アップデートサイクルとコミュニティリソースの習熟",
-        "text": "アップデートサイクルとコミュニティリソースの習熟"
+        "id": "アップデートサイクルの習得とコミュニティリソース",
+        "text": "アップデートサイクルの習得とコミュニティリソース"
       },
       {
         "id": "よくある質問",
@@ -7826,8 +7826,8 @@
         "text": "Beast of Reincarnation ホットフィックスパッチ分析"
       },
       {
-        "id": "beast-of-reincarnation-事前予約ボーナスの内訳",
-        "text": "Beast of Reincarnation 事前予約ボーナスの内訳"
+        "id": "beast-of-reincarnation-予約注文ボーナス内訳",
+        "text": "Beast of Reincarnation 予約注文ボーナス内訳"
       },
       {
         "id": "beast-of-reincarnation-今後のアップデートとロードマップ",
@@ -7840,20 +7840,20 @@
     ],
     "news:ja:beast-of-reincarnation-steam-update": [
       {
-        "id": "beast-of-reincarnation初日パッチノートを分析",
-        "text": "Beast of Reincarnation初日パッチノートを分析"
+        "id": "beast-of-reincarnation-初日パッチノートの分析",
+        "text": "Beast of Reincarnation 初日パッチノートの分析"
       },
       {
-        "id": "beast-of-reincarnationコンソールアップデートの状況とパフォーマンス",
-        "text": "Beast of Reincarnationコンソールアップデートの状況とパフォーマンス"
+        "id": "beast-of-reincarnation-コンソールアップデートの状況とパフォーマンス",
+        "text": "Beast of Reincarnation コンソールアップデートの状況とパフォーマンス"
       },
       {
-        "id": "beast-of-reincarnationローンチデーセットアップの最適化",
-        "text": "Beast of Reincarnationローンチデーセットアップの最適化"
+        "id": "beast-of-reincarnation-ローンチデー設定の最適化",
+        "text": "Beast of Reincarnation ローンチデー設定の最適化"
       },
       {
-        "id": "ローンチ後のコンテンツロードマップに向けての準備",
-        "text": "ローンチ後のコンテンツロードマップに向けての準備"
+        "id": "ローンチ後のコンテンツロードマップの準備",
+        "text": "ローンチ後のコンテンツロードマップの準備"
       },
       {
         "id": "よくある質問",
@@ -7862,20 +7862,20 @@
     ],
     "news:ja:beast-of-reincarnation-update-history": [
       {
-        "id": "公式beast-of-reincarnationアップデート履歴タイムラインの追跡",
-        "text": "公式Beast of Reincarnationアップデート履歴タイムラインの追跡"
+        "id": "公式のbeast-of-reincarnationアップデート履歴タイムラインの追跡",
+        "text": "公式のBeast of Reincarnationアップデート履歴タイムラインの追跡"
       },
       {
-        "id": "beast-of-reincarnation-game-freakニュースと開発ロードマップの分析",
-        "text": "Beast of Reincarnation Game Freakニュースと開発ロードマップの分析"
+        "id": "beast-of-reincarnation-ゲームフリークニュースと開発ロードマップの分析",
+        "text": "Beast of Reincarnation ゲームフリークニュースと開発ロードマップの分析"
       },
       {
         "id": "beast-of-reincarnation新コンテンツアップデートがメタをどう再形成するか",
         "text": "Beast of Reincarnation新コンテンツアップデートがメタをどう再形成するか"
       },
       {
-        "id": "競争優位のためのbeast-of-reincarnationソーシャルメディア更新の活用",
-        "text": "競争優位のためのBeast of Reincarnationソーシャルメディア更新の活用"
+        "id": "競争優位のためにbeast-of-reincarnationソーシャルメディア更新を活用する",
+        "text": "競争優位のためにBeast of Reincarnationソーシャルメディア更新を活用する"
       },
       {
         "id": "よくある質問",
@@ -7884,24 +7884,24 @@
     ],
     "platforms:ja:beast-of-reincarnation-cross-platform": [
       {
-        "id": "beast-of-reincarnation-のプラットフォーム対応状況と価格分析",
-        "text": "Beast of Reincarnation のプラットフォーム対応状況と価格分析"
+        "id": "beast-of-reincarnationのプラットフォーム提供状況と価格分析",
+        "text": "Beast of Reincarnationのプラットフォーム提供状況と価格分析"
       },
       {
         "id": "pcパフォーマンス問題の診断と修正",
         "text": "PCパフォーマンス問題の診断と修正"
       },
       {
-        "id": "プラットフォーム固有の操作と入力オプションをマスター",
-        "text": "プラットフォーム固有の操作と入力オプションをマスター"
+        "id": "プラットフォーム固有の操作と入力オプションをマスターする",
+        "text": "プラットフォーム固有の操作と入力オプションをマスターする"
       },
       {
-        "id": "低スペックシステム向けの高度なグラフィックス設定",
-        "text": "低スペックシステム向けの高度なグラフィックス設定"
+        "id": "低スペックシステム向けの高度なグラフィック設定",
+        "text": "低スペックシステム向けの高度なグラフィック設定"
       },
       {
-        "id": "技術的な視点でリインカーネーションループを理解する",
-        "text": "技術的な視点でリインカーネーションループを理解する"
+        "id": "技術的視点からの転生ループの理解",
+        "text": "技術的視点からの転生ループの理解"
       },
       {
         "id": "よくある質問",
@@ -7910,16 +7910,16 @@
     ],
     "platforms:ja:beast-of-reincarnation-fps-optimization": [
       {
-        "id": "反応の良い戦闘のためにパフォーマンスを優先する",
-        "text": "反応の良い戦闘のためにパフォーマンスを優先する"
+        "id": "応答性の高い戦闘のためのパフォーマンス優先化",
+        "text": "応答性の高い戦闘のためのパフォーマンス優先化"
       },
       {
-        "id": "4kと高解像度のテクニックをマスターする",
-        "text": "4Kと高解像度のテクニックをマスターする"
+        "id": "4kと高解像度戦術の習得",
+        "text": "4Kと高解像度戦術の習得"
       },
       {
-        "id": "ウルトラワイドとアスペクト比サポートを有効にする",
-        "text": "ウルトラワイドとアスペクト比サポートを有効にする"
+        "id": "ウルトラワイドとアスペクト比サポートの有効化",
+        "text": "ウルトラワイドとアスペクト比サポートの有効化"
       },
       {
         "id": "gpu設定とバックグラウンドプロセスの微調整",
@@ -7932,24 +7932,24 @@
     ],
     "platforms:ja:beast-of-reincarnation-pc-troubleshooting": [
       {
-        "id": "beast-of-reincarnation-のシステム要件を理解する",
-        "text": "Beast of Reincarnation のシステム要件を理解する"
+        "id": "beast-of-reincarnationシステム要件を理解する",
+        "text": "『Beast of Reincarnation』システム要件を理解する"
       },
       {
-        "id": "フレームレート問題の診断と修正",
-        "text": "フレームレート問題の診断と修正"
+        "id": "フレームレート問題を診断して修正する",
+        "text": "フレームレート問題を診断して修正する"
       },
       {
-        "id": "dlss-サポートの有効化と設定",
-        "text": "DLSS サポートの有効化と設定"
+        "id": "dlssサポートの有効化と設定",
+        "text": "DLSSサポートの有効化と設定"
       },
       {
-        "id": "最大の視覚的奥行きを得るための-hdr-設定",
-        "text": "最大の視覚的奥行きを得るための HDR 設定"
+        "id": "最大ビジュアル深度のためのhdrセットアップ",
+        "text": "最大ビジュアル深度のためのHDRセットアップ"
       },
       {
-        "id": "プリロードと発売日の準備",
-        "text": "プリロードと発売日の準備"
+        "id": "プリロードとローンチデーの準備",
+        "text": "プリロードとローンチデーの準備"
       },
       {
         "id": "よくある質問",
@@ -7970,12 +7970,12 @@
         "text": "Beast of Reincarnation PCパフォーマンスと推奨要件"
       },
       {
-        "id": "beast-of-reincarnation-ps5-vs-xbox-vs-pc究極のプラットフォームランキング",
-        "text": "Beast of Reincarnation PS5 vs Xbox vs PC：究極のプラットフォームランキング"
+        "id": "beast-of-reincarnation-ps5-vs-xbox-vs-pc決定的なプラットフォームランキング",
+        "text": "Beast of Reincarnation PS5 vs Xbox vs PC：決定的なプラットフォームランキング"
       },
       {
-        "id": "全プラットフォームで輪廻のループをマスターする",
-        "text": "全プラットフォームで輪廻のループをマスターする"
+        "id": "プラットフォーム全体でのreincarnation-loopのマスタリー",
+        "text": "プラットフォーム全体でのReincarnation Loopのマスタリー"
       },
       {
         "id": "よくある質問",
@@ -7984,20 +7984,20 @@
     ],
     "platforms:ja:beast-of-reincarnation-steam-deck": [
       {
-        "id": "beast-of-reincarnation-steam-deck-パフォーマンスの理解",
-        "text": "Beast of Reincarnation Steam Deck パフォーマンスの理解"
+        "id": "beast-of-reincarnation-steam-deckパフォーマンスの理解",
+        "text": "Beast of Reincarnation Steam Deckパフォーマンスの理解"
       },
       {
-        "id": "beast-of-reincarnation-ps5-pro-ガイドの習得",
-        "text": "Beast of Reincarnation PS5 Pro ガイドの習得"
+        "id": "beast-of-reincarnation-ps5-proガイドの習得",
+        "text": "Beast of Reincarnation PS5 Proガイドの習得"
       },
       {
-        "id": "beast-of-reincarnation-pc-コントローラー対応の設定",
-        "text": "Beast of Reincarnation PC コントローラー対応の設定"
+        "id": "beast-of-reincarnation-controller-support-pcの設定",
+        "text": "Beast of Reincarnation Controller Support PCの設定"
       },
       {
-        "id": "精度のための-beast-of-reincarnation-キーボードマウス-ガイド",
-        "text": "精度のための Beast of Reincarnation キーボードマウス ガイド"
+        "id": "精密なプレイのためのbeast-of-reincarnation-keyboard-mouse-guide",
+        "text": "精密なプレイのためのBeast of Reincarnation Keyboard Mouse Guide"
       },
       {
         "id": "よくある質問",
@@ -8006,20 +8006,20 @@
     ],
     "platforms:ja:beast-of-reincarnation-steam-guide": [
       {
-        "id": "beast-of-reincarnation-steamのパフォーマンスとインストールをマスターする",
-        "text": "Beast of Reincarnation Steamのパフォーマンスとインストールをマスターする"
+        "id": "beast-of-reincarnation-steamのパフォーマンスとインストールのマスター",
+        "text": "Beast of Reincarnation Steamのパフォーマンスとインストールのマスター"
       },
       {
-        "id": "スムーズな戦闘のためのグラフィック設定最適化",
-        "text": "スムーズな戦闘のためのグラフィック設定最適化"
+        "id": "スムーズな戦闘のためのグラフィック設定の最適化",
+        "text": "スムーズな戦闘のためのグラフィック設定の最適化"
       },
       {
-        "id": "pcに最適なコントローラーとキーボードセットアップ",
-        "text": "PCに最適なコントローラーとキーボードセットアップ"
+        "id": "pcに最適なコントローラーとキーボードのセットアップ",
+        "text": "PCに最適なコントローラーとキーボードのセットアップ"
       },
       {
-        "id": "beast-of-reincarnation-xboxガイドとコンソール比較",
-        "text": "Beast of Reincarnation Xboxガイドとコンソール比較"
+        "id": "beast-of-reincarnation-xboxガイドとコンソールの比較",
+        "text": "Beast of Reincarnation Xboxガイドとコンソールの比較"
       },
       {
         "id": "よくある質問",
@@ -8028,20 +8028,20 @@
     ],
     "platforms:ja:beast-of-reincarnation-system-requirements": [
       {
-        "id": "公式-beast-of-reincarnation-システム要件-pc-の分析",
-        "text": "公式 Beast of Reincarnation システム要件 PC の分析"
+        "id": "beast-of-reincarnation-システム要件-pc-の公式分析",
+        "text": "Beast of Reincarnation システム要件 PC の公式分析"
       },
       {
         "id": "プレイ可能なフレームレートのための-beast-of-reincarnation-最小スペックの解読",
         "text": "プレイ可能なフレームレートのための Beast of Reincarnation 最小スペックの解読"
       },
       {
-        "id": "高-fps-ビジュアルを実現するための-beast-of-reincarnation-最高設定ガイド",
-        "text": "高 FPS ビジュアルを実現するための Beast of Reincarnation 最高設定ガイド"
+        "id": "高-fps-ビジュアルを実現するための-beast-of-reincarnation-おすすめ設定ガイド",
+        "text": "高 FPS ビジュアルを実現するための Beast of Reincarnation おすすめ設定ガイド"
       },
       {
-        "id": "最大の視認性のためのディスプレイとアップスケールの調整",
-        "text": "最大の視認性のためのディスプレイとアップスケールの調整"
+        "id": "最大視認性のためのディスプレイとアップスケールの調整",
+        "text": "最大視認性のためのディスプレイとアップスケールの調整"
       },
       {
         "id": "よくある質問",
@@ -8050,20 +8050,20 @@
     ],
     "story:ja:beast-of-reincarnation-all-endings": [
       {
-        "id": "beast-of-reincarnation-のエンディングシステムの解読",
-        "text": "Beast of Reincarnation のエンディングシステムの解読"
+        "id": "転生の獣エンディングシステムの解読",
+        "text": "転生の獣エンディングシステムの解読"
       },
       {
-        "id": "beast-of-reincarnation-のエマの物語と彼女の運命",
-        "text": "Beast of Reincarnation のエマの物語と彼女の運命"
+        "id": "転生の獣におけるエマの物語と彼女の結末",
+        "text": "転生の獣におけるエマの物語と彼女の結末"
       },
       {
-        "id": "beast-of-reincarnation-真エンディングガイドのマスター",
-        "text": "Beast of Reincarnation 真エンディングガイドのマスター"
+        "id": "転生の獣-トゥルーエンディング攻略を極める",
+        "text": "転生の獣 トゥルーエンディング攻略を極める"
       },
       {
-        "id": "beast-of-reincarnation-シークレットエンディングと絡み合う運命",
-        "text": "Beast of Reincarnation シークレットエンディングと絡み合う運命"
+        "id": "転生の獣-シークレットエンディングと交差する宿命",
+        "text": "転生の獣 シークレットエンディングと交差する宿命"
       },
       {
         "id": "よくある質問",
@@ -8072,16 +8072,16 @@
     ],
     "story:ja:beast-of-reincarnation-beast-explained": [
       {
-        "id": "beast-of-reincarnation-の物語サイクルの解体",
-        "text": "Beast of Reincarnation の物語サイクルの解体"
+        "id": "beast-of-reincarnation-の物語サイクルの解読",
+        "text": "Beast of Reincarnation の物語サイクルの解読"
       },
       {
-        "id": "beast-of-reincarnation-の主要-npc-ストーリーlines-の解明",
-        "text": "Beast of Reincarnation の主要 NPC ストーリーlines の解明"
+        "id": "beast-of-reincarnation-の主要な-npc-ストーリーラインの解明",
+        "text": "Beast of Reincarnation の主要な NPC ストーリーラインの解明"
       },
       {
-        "id": "beast-of-reincarnation-サイドストーリーガイドの習熟",
-        "text": "Beast of Reincarnation サイドストーリーガイドの習熟"
+        "id": "beast-of-reincarnation-サイドストーリーガイドの習得",
+        "text": "Beast of Reincarnation サイドストーリーガイドの習得"
       },
       {
         "id": "beast-of-reincarnation-の深遠な物語設計",
@@ -8094,20 +8094,20 @@
     ],
     "story:ja:beast-of-reincarnation-final-boss-story": [
       {
-        "id": "beast-of-reincarnation-ナラティブのテーマ的基礎",
-        "text": "Beast of Reincarnation ナラティブのテーマ的基礎"
+        "id": "beast-of-reincarnation-物語のテーマ的基盤",
+        "text": "Beast of Reincarnation 物語のテーマ的基盤"
       },
       {
-        "id": "beast-of-reincarnation-エマの運命の物語を解明する",
-        "text": "Beast of Reincarnation エマの運命の物語を解明する"
+        "id": "beast-of-reincarnation-エマの運命の物語の解明",
+        "text": "Beast of Reincarnation エマの運命の物語の解明"
       },
       {
-        "id": "悲嘆のサイクルにおけるキャラクターの動機",
-        "text": "悲嘆のサイクルにおけるキャラクターの動機"
+        "id": "悲しみの-cycle-におけるキャラクターの動機",
+        "text": "悲しみの cycle におけるキャラクターの動機"
       },
       {
-        "id": "複数のプレイスルーによる日本の伝承の進化",
-        "text": "複数のプレイスルーによる日本の伝承の進化"
+        "id": "複数の周回プレイを通じた日本の伝承の進化",
+        "text": "複数の周回プレイを通じた日本の伝承の進化"
       },
       {
         "id": "よくある質問",
@@ -8116,24 +8116,24 @@
     ],
     "story:ja:beast-of-reincarnation-japan-history-lore": [
       {
-        "id": "歴史的な日本における呪われた起源",
-        "text": "歴史的な日本における呪われた起源"
+        "id": "歴史的日本における呪われた起源",
+        "text": "歴史的日本における呪われた起源"
       },
       {
-        "id": "悲嘆の循環におけるキャラクターの動機",
-        "text": "悲嘆の循環におけるキャラクターの動機"
+        "id": "悲嘆のサイクルにおけるキャラクターの動機",
+        "text": "悲嘆のサイクルにおけるキャラクターの動機"
       },
       {
-        "id": "旅の終わりガイドのナビゲーション",
-        "text": "旅の終わりガイドのナビゲーション"
+        "id": "あなたの旅の終わりガイドをナビゲートする",
+        "text": "あなたの旅の終わりガイドをナビゲートする"
       },
       {
-        "id": "物語とゲームプレイ繊細な二項対立",
-        "text": "物語とゲームプレイ:繊細な二項対立"
+        "id": "ストーリー-vs-ゲームプレイ繊細な二項対立",
+        "text": "ストーリー vs ゲームプレイ:繊細な二項対立"
       },
       {
-        "id": "複数のプレイスルーによる日本の伝承の進化",
-        "text": "複数のプレイスルーによる日本の伝承の進化"
+        "id": "複数の周回による日本伝承の進化",
+        "text": "複数の周回による日本伝承の進化"
       },
       {
         "id": "よくある質問",
@@ -8142,24 +8142,24 @@
     ],
     "story:ja:beast-of-reincarnation-koo-story-arc": [
       {
-        "id": "クーの起源を知るためのbeast-of-reincarnationタイムラインの追跡",
-        "text": "クーの起源を知るための『Beast of Reincarnation』タイムラインの追跡"
+        "id": "クーの起源を探る-beast-of-reincarnation-のタイムラインの追跡",
+        "text": "クーの起源を探る Beast of Reincarnation のタイムラインの追跡"
       },
       {
-        "id": "beast-of-reincarnationの荒廃の物語を解読する",
-        "text": "『Beast of Reincarnation』の荒廃の物語を解読する"
+        "id": "beast-of-reincarnation-の災禍とは何かの物語を解体する",
+        "text": "Beast of Reincarnation の災禍とは何かの物語を解体する"
       },
       {
         "id": "絆の背後にある危険な真実の物語",
         "text": "絆の背後にある危険な真実の物語"
       },
       {
-        "id": "beast-of-reincarnationプロット要約におけるクーの物語上の役割",
-        "text": "『Beast of Reincarnation』プロット要約におけるクーの物語上の役割"
+        "id": "beast-of-reincarnation-プロット概要におけるクーの物語的な役割",
+        "text": "Beast of Reincarnation プロット概要におけるクーの物語的な役割"
       },
       {
-        "id": "旅のエンディングにおける物語の分岐をマスターする",
-        "text": "旅のエンディングにおける物語の分岐をマスターする"
+        "id": "旅の終わりの物語のブランチをマスターする",
+        "text": "旅の終わりの物語のブランチをマスターする"
       },
       {
         "id": "よくある質問",
@@ -8168,20 +8168,20 @@
     ],
     "story:ja:beast-of-reincarnation-lore-deep-dive": [
       {
-        "id": "破綻した時間の解読と腐食の真の起源",
-        "text": "破綻した時間の解読と『腐食』の真の起源"
+        "id": "断絶した時間軸と穢れの真の起源を解読する",
+        "text": "断絶した時間軸と穢れの真の起源を解読する"
       },
       {
-        "id": "エマの悲劇的な運命と仲間との絆の解明",
-        "text": "エマの悲劇的な運命と仲間との絆の解明"
+        "id": "エマの悲劇的な運命と仲間との絆を解き明かす",
+        "text": "エマの悲劇的な運命と仲間との絆を解き明かす"
       },
       {
-        "id": "beast-of-reincarnation-物語のテーマ的基盤",
-        "text": "Beast of Reincarnation 物語のテーマ的基盤"
+        "id": "beast-of-reincarnation物語のテーマ的基礎",
+        "text": "Beast of Reincarnation物語のテーマ的基礎"
       },
       {
-        "id": "複数の周回による日本ロアの進化",
-        "text": "複数の周回による日本ロアの進化"
+        "id": "複数の周回プレイを通じた日本のロアの進化",
+        "text": "複数の周回プレイを通じた日本のロアの進化"
       },
       {
         "id": "よくある質問",
@@ -8212,20 +8212,20 @@
     ],
     "world:ja:beast-of-reincarnation-all-locations": [
       {
-        "id": "砕かれた世界と中心地域のメカニクスのマッピング",
-        "text": "砕かれた世界と中心地域のメカニクスのマッピング"
+        "id": "断片化された世界と中核地域のメカニクスをマッピングする",
+        "text": "断片化された世界と中核地域のメカニクスをマッピングする"
       },
       {
-        "id": "ブライトの起源と環境への影響",
-        "text": "ブライトの起源と環境への影響"
+        "id": "荒廃の起源とそれが環境に与える影響",
+        "text": "荒廃の起源とそれが環境に与える影響"
       },
       {
-        "id": "荒廃した日本の舞台における秘密エリアと隠された場所",
-        "text": "荒廃した日本の舞台における秘密エリアと隠された場所"
+        "id": "荒廃した日本の舞台における秘密エリアと隠されたロケーション",
+        "text": "荒廃した日本の舞台における秘密エリアと隠されたロケーション"
       },
       {
-        "id": "環境危険のための探索ルートの最適化",
-        "text": "環境危険のための探索ルートの最適化"
+        "id": "環境ハザードに対する探索ルートの最適化",
+        "text": "環境ハザードに対する探索ルートの最適化"
       },
       {
         "id": "よくある質問",
@@ -8234,24 +8234,24 @@
     ],
     "world:ja:beast-of-reincarnation-blight-mechanics": [
       {
-        "id": "動的な瘴気のサイクルと環境の衰退",
-        "text": "動的な瘴気のサイクルと環境の衰退"
+        "id": "動的な荒廃サイクルと環境の衰退",
+        "text": "動的な荒廃サイクルと環境の衰退"
       },
       {
-        "id": "森の再生と風景変化の-mastering",
-        "text": "森の再生と風景変化の mastering"
+        "id": "森の再生と景色の変化をマスターする",
+        "text": "森の再生と景色の変化をマスターする"
       },
       {
-        "id": "遺跡のためのクー探索能力のアンロック",
-        "text": "遺跡のためのクー探索能力のアンロック"
+        "id": "遺跡探索のためのクーの能力解放",
+        "text": "遺跡探索のためのクーの能力解放"
       },
       {
-        "id": "風景変化を利用したルートパスの最適化",
-        "text": "風景変化を利用したルートパスの最適化"
+        "id": "景色の変化を活用したルートパスの最適化",
+        "text": "景色の変化を活用したルートパスの最適化"
       },
       {
-        "id": "呪われた遺跡とエンドゲームの秘密の-mastering",
-        "text": "呪われた遺跡とエンドゲームの秘密の mastering"
+        "id": "荒廃した遺跡とエンドゲームの秘密をマスターする",
+        "text": "荒廃した遺跡とエンドゲームの秘密をマスターする"
       },
       {
         "id": "よくある質問",
@@ -8260,16 +8260,16 @@
     ],
     "world:ja:beast-of-reincarnation-hidden-items-world": [
       {
-        "id": "コアワールド踏破メカニズムの理解",
-        "text": "コアワールド踏破メカニズムの理解"
+        "id": "コアワールド踏破メカニクスの理解",
+        "text": "コアワールド踏破メカニクスの理解"
       },
       {
-        "id": "隠されたアイテムをメインストーリー進行にマッピングする",
-        "text": "隠されたアイテムをメインストーリー進行にマッピングする"
+        "id": "メインストーリー進行への隠されたアイテムのマッピング",
+        "text": "メインストーリー進行への隠されたアイテムのマッピング"
       },
       {
-        "id": "高度なファストトラベル活用法とショートカット",
-        "text": "高度なファストトラベル活用法とショートカット"
+        "id": "高度なファストトラベルの活用法とショートカット",
+        "text": "高度なファストトラベルの活用法とショートカット"
       },
       {
         "id": "環境伝承と隠された物語の深掘り",
@@ -8282,16 +8282,16 @@
     ],
     "world:ja:beast-of-reincarnation-landmark-locations": [
       {
-        "id": "極東の開始エリアとランドマークの解読",
-        "text": "極東の開始エリアとランドマークの解読"
+        "id": "極東の開始エリアとそのランドマークの解読",
+        "text": "極東の開始エリアとそのランドマークの解読"
       },
       {
-        "id": "ワールドマップ全体サイズと地域フローの理解",
-        "text": "ワールドマップ全体サイズと地域フローの理解"
+        "id": "ワールドマップ全体のサイズと地域の流れを理解する",
+        "text": "ワールドマップ全体のサイズと地域の流れを理解する"
       },
       {
-        "id": "上級ランドマークナビゲーションと隠しルート",
-        "text": "上級ランドマークナビゲーションと隠しルート"
+        "id": "高度なランドマークナビゲーションと隠しルート",
+        "text": "高度なランドマークナビゲーションと隠しルート"
       },
       {
         "id": "ランドマーク発見のための必須ツールとアイテム",
@@ -8304,12 +8304,12 @@
     ],
     "world:ja:beast-of-reincarnation-what-caused-blight": [
       {
-        "id": "beast-of-reincarnation--blightの原因とそれが世界をどう変えたか",
-        "text": "Beast of Reincarnation  blightの原因とそれが世界をどう変えたか"
+        "id": "beast-of-reincarnation-汚染の原因と世界が再構築された経緯",
+        "text": "Beast of Reincarnation 汚染の原因と世界が再構築された経緯"
       },
       {
-        "id": "beast-of-reincarnation-ワールド地域ガイドと環境メカニクス",
-        "text": "Beast of Reincarnation ワールド地域ガイドと環境メカニクス"
+        "id": "beast-of-reincarnation-世界地域ガイドと環境メカニクス",
+        "text": "Beast of Reincarnation 世界地域ガイドと環境メカニクス"
       },
       {
         "id": "beast-of-reincarnation-秘密の場所と隠されたエリア",
@@ -8320,8 +8320,8 @@
         "text": "Beast of Reincarnation 効率的な探索のための環境ガイド"
       },
       {
-        "id": "beast-of-reincarnation-地域リストとゾーン順の推奨事項",
-        "text": "Beast of Reincarnation 地域リストとゾーン順の推奨事項"
+        "id": "beast-of-reincarnation-地域一覧とゾーン順の推奨",
+        "text": "Beast of Reincarnation 地域一覧とゾーン順の推奨"
       },
       {
         "id": "よくある質問",
@@ -8330,24 +8330,24 @@
     ],
     "world:ja:beast-of-reincarnation-world-guide": [
       {
-        "id": "beast-of-reincarnation-終末日本伝承の解読",
-        "text": "Beast of Reincarnation 終末日本伝承の解読"
+        "id": "beast-of-reincarnation-黙示録的日本伝承の解読",
+        "text": "Beast of Reincarnation 黙示録的日本伝承の解読"
       },
       {
-        "id": "beast-of-reincarnation-マップとロケーションの攻略",
-        "text": "Beast of Reincarnation マップとロケーションの攻略"
+        "id": "beast-of-reincarnation-マップとロケーションの習得",
+        "text": "Beast of Reincarnation マップとロケーションの習得"
       },
       {
-        "id": "遺跡探検のためのクーの能力解放",
-        "text": "遺跡探検のためのクーの能力解放"
+        "id": "遺跡探索のための-koo-の能力の解放",
+        "text": "遺跡探索のための Koo の能力の解放"
       },
       {
-        "id": "景観変化を利用したルートパスの最適化",
-        "text": "景観変化を利用したルートパスの最適化"
+        "id": "景色変化を利用したルートパスの最適化",
+        "text": "景色変化を利用したルートパスの最適化"
       },
       {
-        "id": "ブライトされた遺跡とエンドゲームの秘密の攻略",
-        "text": "ブライトされた遺跡とエンドゲームの秘密の攻略"
+        "id": "blighted-ruins-とエンドゲームの秘密の習得",
+        "text": "Blighted Ruins とエンドゲームの秘密の習得"
       },
       {
         "id": "よくある質問",
@@ -8356,24 +8356,24 @@
     ],
     "world:ja:beast-of-reincarnation-year-4026": [
       {
-        "id": "転生獣-4026年設定の解読",
-        "text": "転生獣 4026年設定の解読"
+        "id": "beast-of-reincarnation-year-4026-設定の解読",
+        "text": "Beast of Reincarnation Year 4026 設定の解読"
       },
       {
-        "id": "転生獣-枯渇の森ガイド",
-        "text": "転生獣 枯渇の森ガイド"
+        "id": "beast-of-reincarnation-荒廃の森ガイド",
+        "text": "Beast of Reincarnation 荒廃の森ガイド"
       },
       {
-        "id": "転生獣-オープンワールドガイド断片化された大地の秘密",
-        "text": "転生獣 オープンワールドガイド：断片化された大地の秘密"
+        "id": "beast-of-reincarnation-オープンワールドガイド分裂した大地の秘密",
+        "text": "Beast of Reincarnation オープンワールドガイド:分裂した大地の秘密"
       },
       {
-        "id": "転生獣-探索ガイドの習得高度なテクニック",
-        "text": "転生獣 探索ガイドの習得：高度なテクニック"
+        "id": "beast-of-reincarnation-探索ガイドのマスタリング高度なテクニック",
+        "text": "Beast of Reincarnation 探索ガイドのマスタリング:高度なテクニック"
       },
       {
-        "id": "転生獣-クーによる隠しアイテム発見究極の-farming-ルート",
-        "text": "転生獣 クーによる隠しアイテム発見：究極の farming ルート"
+        "id": "beast-of-reincarnation-koo-による隠されたアイテムの発見究極の-farming-ルート",
+        "text": "Beast of Reincarnation Koo による隠されたアイテムの発見:究極の farming ルート"
       },
       {
         "id": "よくある質問",

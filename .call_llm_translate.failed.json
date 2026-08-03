@@ -1,0 +1,1474 @@
+{
+  "truncated_articles": [
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-All-Boss-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/bosses/Beast-Of-Reincarnation-All-Boss-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-All-Boss-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/bosses/Beast-Of-Reincarnation-All-Boss-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Boss-Attack-Patterns.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/bosses/Beast-Of-Reincarnation-Boss-Attack-Patterns.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Boss-Ranking.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/bosses/Beast-Of-Reincarnation-Boss-Ranking.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Boss-Ranking.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/bosses/Beast-Of-Reincarnation-Boss-Ranking.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Boss-Weaknesses.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/bosses/Beast-Of-Reincarnation-Boss-Weaknesses.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Defeat-Final-Boss.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/bosses/Beast-Of-Reincarnation-Defeat-Final-Boss.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Defeat-Final-Boss.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/bosses/Beast-Of-Reincarnation-Defeat-Final-Boss.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Emma-Boss-Fight.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/bosses/Beast-Of-Reincarnation-Emma-Boss-Fight.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-First-Boss.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/bosses/Beast-Of-Reincarnation-First-Boss.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Emma-Boss-Fight.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/bosses/Beast-Of-Reincarnation-Emma-Boss-Fight.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-First-Boss.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/bosses/Beast-Of-Reincarnation-First-Boss.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Best-Builds.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/builds/Beast-Of-Reincarnation-Best-Builds.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Best-Builds.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/builds/Beast-Of-Reincarnation-Best-Builds.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Best-Gear-Setup.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/builds/Beast-Of-Reincarnation-Best-Gear-Setup.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Best-Koo-Build.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/builds/Beast-Of-Reincarnation-Best-Koo-Build.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Best-Koo-Build.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/builds/Beast-Of-Reincarnation-Best-Koo-Build.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Hybrid-Build.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/builds/Beast-Of-Reincarnation-Hybrid-Build.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Ranged-Build.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/builds/Beast-Of-Reincarnation-Ranged-Build.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Late-Game-Build.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/builds/Beast-Of-Reincarnation-Late-Game-Build.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Ranged-Build.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/builds/Beast-Of-Reincarnation-Ranged-Build.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Skill-Tree-Explained.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/builds/Beast-Of-Reincarnation-Skill-Tree-Explained.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Character-Lore.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/characters/Beast-Of-Reincarnation-Character-Lore.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Character-Lore.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/characters/Beast-Of-Reincarnation-Character-Lore.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Emma-Character-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/characters/Beast-Of-Reincarnation-Emma-Character-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Character-Progression.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/characters/Beast-Of-Reincarnation-Character-Progression.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Emma-Character-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/characters/Beast-Of-Reincarnation-Emma-Character-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Emma-Development.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/characters/Beast-Of-Reincarnation-Emma-Development.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Emma-Vs-Koo.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/characters/Beast-Of-Reincarnation-Emma-Vs-Koo.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Emma-Development.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/characters/Beast-Of-Reincarnation-Emma-Development.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Koo-Backstory.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/characters/Beast-Of-Reincarnation-Koo-Backstory.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Koo-Backstory.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/characters/Beast-Of-Reincarnation-Koo-Backstory.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Female-Protagonist.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/characters/Beast-Of-Reincarnation-Female-Protagonist.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Action-Combat.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/combat/Beast-Of-Reincarnation-Action-Combat.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Best-Combat-Style.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/combat/Beast-Of-Reincarnation-Best-Combat-Style.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Best-Combat-Style.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/combat/Beast-Of-Reincarnation-Best-Combat-Style.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Boss-Fight-Strategies.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/combat/Beast-Of-Reincarnation-Boss-Fight-Strategies.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Boss-Fight-Strategies.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/combat/Beast-Of-Reincarnation-Boss-Fight-Strategies.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Dodge-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/combat/Beast-Of-Reincarnation-Dodge-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Combat-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/combat/Beast-Of-Reincarnation-Combat-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Dodge-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/combat/Beast-Of-Reincarnation-Dodge-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Combat-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/combat/Beast-Of-Reincarnation-Combat-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Emma-Skills.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/combat/Beast-Of-Reincarnation-Emma-Skills.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Beginner-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Beginner-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Beginner-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/guides/Beast-Of-Reincarnation-Beginner-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Ranged-Combat-Tips.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/combat/Beast-Of-Reincarnation-Ranged-Combat-Tips.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Ranged-Combat-Tips.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/combat/Beast-Of-Reincarnation-Ranged-Combat-Tips.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Does-It-Have-Easy-Mode.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/guides/Beast-Of-Reincarnation-Does-It-Have-Easy-Mode.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Game-Freak-Rpg.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/guides/Beast-Of-Reincarnation-Game-Freak-Rpg.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Chapter-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Chapter-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Does-It-Have-Easy-Mode.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Does-It-Have-Easy-Mode.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-How-Long-To-Beat.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/guides/Beast-Of-Reincarnation-How-Long-To-Beat.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Getting-Started.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Getting-Started.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Getting-Started.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/guides/Beast-Of-Reincarnation-Getting-Started.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-How-Long-To-Beat.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-How-Long-To-Beat.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-How-To-Play.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/guides/Beast-Of-Reincarnation-How-To-Play.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-How-To-Play.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-How-To-Play.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Game-Freak-Rpg.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Game-Freak-Rpg.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Is-It-Worth-Buying.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Is-It-Worth-Buying.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Patch-Notes-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/guides/Beast-Of-Reincarnation-Patch-Notes-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Patch-Notes-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Patch-Notes-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Save-Game-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/guides/Beast-Of-Reincarnation-Save-Game-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Story-Mode-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Story-Mode-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Things-To-Know.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Things-To-Know.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-All-Items-List.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/items/Beast-Of-Reincarnation-All-Items-List.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Equipment-Comparison.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/items/Beast-Of-Reincarnation-Equipment-Comparison.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Save-Game-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Save-Game-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Healing-Items.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/items/Beast-Of-Reincarnation-Healing-Items.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Healing-Items.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/items/Beast-Of-Reincarnation-Healing-Items.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Gear-Tier-List.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/items/Beast-Of-Reincarnation-Gear-Tier-List.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Weapon-Skills.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/items/Beast-Of-Reincarnation-Weapon-Skills.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Weapon-Skills.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/items/Beast-Of-Reincarnation-Weapon-Skills.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Weapon-Upgrade.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/items/Beast-Of-Reincarnation-Weapon-Upgrade.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Weapon-Upgrade.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/items/Beast-Of-Reincarnation-Weapon-Upgrade.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Weapons-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/items/Beast-Of-Reincarnation-Weapons-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Balance-Patch.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/news/Beast-Of-Reincarnation-Balance-Patch.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Game-Changes.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/news/Beast-Of-Reincarnation-Game-Changes.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Game-Changes.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/news/Beast-Of-Reincarnation-Game-Changes.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Weapons-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/items/Beast-Of-Reincarnation-Weapons-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Latest-Updates.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/news/Beast-Of-Reincarnation-Latest-Updates.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Latest-Updates.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/news/Beast-Of-Reincarnation-Latest-Updates.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Pc-Patch-Notes.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/news/Beast-Of-Reincarnation-Pc-Patch-Notes.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Pc-Patch-Notes.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/news/Beast-Of-Reincarnation-Pc-Patch-Notes.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Steam-Update.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/news/Beast-Of-Reincarnation-Steam-Update.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Steam-Update.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/news/Beast-Of-Reincarnation-Steam-Update.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Roadmap.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/news/Beast-Of-Reincarnation-Roadmap.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Update-History.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/news/Beast-Of-Reincarnation-Update-History.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Cross-Platform.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/platforms/Beast-Of-Reincarnation-Cross-Platform.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Fps-Optimization.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/platforms/Beast-Of-Reincarnation-Fps-Optimization.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Fps-Optimization.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/platforms/Beast-Of-Reincarnation-Fps-Optimization.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Pc-Troubleshooting.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/platforms/Beast-Of-Reincarnation-Pc-Troubleshooting.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Pc-Troubleshooting.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/platforms/Beast-Of-Reincarnation-Pc-Troubleshooting.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Cross-Platform.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/platforms/Beast-Of-Reincarnation-Cross-Platform.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Ps5-Performance.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/platforms/Beast-Of-Reincarnation-Ps5-Performance.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Steam-Deck.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/platforms/Beast-Of-Reincarnation-Steam-Deck.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Steam-Deck.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/platforms/Beast-Of-Reincarnation-Steam-Deck.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Steam-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/platforms/Beast-Of-Reincarnation-Steam-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-System-Requirements.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/platforms/Beast-Of-Reincarnation-System-Requirements.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-System-Requirements.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/platforms/Beast-Of-Reincarnation-System-Requirements.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Steam-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/platforms/Beast-Of-Reincarnation-Steam-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-All-Endings.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/story/Beast-Of-Reincarnation-All-Endings.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Beast-Explained.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/story/Beast-Of-Reincarnation-Beast-Explained.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Beast-Explained.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/story/Beast-Of-Reincarnation-Beast-Explained.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-All-Endings.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/story/Beast-Of-Reincarnation-All-Endings.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Final-Boss-Story.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/story/Beast-Of-Reincarnation-Final-Boss-Story.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Final-Boss-Story.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/story/Beast-Of-Reincarnation-Final-Boss-Story.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Koo-Story-Arc.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/story/Beast-Of-Reincarnation-Koo-Story-Arc.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Japan-History-Lore.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/story/Beast-Of-Reincarnation-Japan-History-Lore.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Japan-History-Lore.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/story/Beast-Of-Reincarnation-Japan-History-Lore.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Koo-Story-Arc.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/story/Beast-Of-Reincarnation-Koo-Story-Arc.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Lore-Deep-Dive.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/story/Beast-Of-Reincarnation-Lore-Deep-Dive.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Story-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/story/Beast-Of-Reincarnation-Story-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Lore-Deep-Dive.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/story/Beast-Of-Reincarnation-Lore-Deep-Dive.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-All-Locations.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/world/Beast-Of-Reincarnation-All-Locations.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-All-Locations.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/world/Beast-Of-Reincarnation-All-Locations.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Blight-Mechanics.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/world/Beast-Of-Reincarnation-Blight-Mechanics.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Blight-Mechanics.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/world/Beast-Of-Reincarnation-Blight-Mechanics.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Hidden-Items-World.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/world/Beast-Of-Reincarnation-Hidden-Items-World.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Hidden-Items-World.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/world/Beast-Of-Reincarnation-Hidden-Items-World.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Landmark-Locations.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/world/Beast-Of-Reincarnation-Landmark-Locations.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Landmark-Locations.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/world/Beast-Of-Reincarnation-Landmark-Locations.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-World-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/world/Beast-Of-Reincarnation-World-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-What-Caused-Blight.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/world/Beast-Of-Reincarnation-What-Caused-Blight.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Year-4026.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/world/Beast-Of-Reincarnation-Year-4026.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-World-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/world/Beast-Of-Reincarnation-World-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Year-4026.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/world/Beast-Of-Reincarnation-Year-4026.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-All-Boss-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/bosses/Beast-Of-Reincarnation-All-Boss-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-All-Boss-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/bosses/Beast-Of-Reincarnation-All-Boss-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Boss-Attack-Patterns.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/bosses/Beast-Of-Reincarnation-Boss-Attack-Patterns.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Boss-Ranking.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/bosses/Beast-Of-Reincarnation-Boss-Ranking.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Boss-Weaknesses.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/bosses/Beast-Of-Reincarnation-Boss-Weaknesses.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Boss-Ranking.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/bosses/Beast-Of-Reincarnation-Boss-Ranking.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Defeat-Final-Boss.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/bosses/Beast-Of-Reincarnation-Defeat-Final-Boss.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Defeat-Final-Boss.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/bosses/Beast-Of-Reincarnation-Defeat-Final-Boss.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Emma-Boss-Fight.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/bosses/Beast-Of-Reincarnation-Emma-Boss-Fight.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-First-Boss.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/bosses/Beast-Of-Reincarnation-First-Boss.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-First-Boss.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/bosses/Beast-Of-Reincarnation-First-Boss.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/bosses/Beast-Of-Reincarnation-Emma-Boss-Fight.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/bosses/Beast-Of-Reincarnation-Emma-Boss-Fight.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Best-Builds.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/builds/Beast-Of-Reincarnation-Best-Builds.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Best-Gear-Setup.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/builds/Beast-Of-Reincarnation-Best-Gear-Setup.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Best-Koo-Build.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/builds/Beast-Of-Reincarnation-Best-Koo-Build.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Hybrid-Build.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/builds/Beast-Of-Reincarnation-Hybrid-Build.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Ranged-Build.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/builds/Beast-Of-Reincarnation-Ranged-Build.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Late-Game-Build.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/builds/Beast-Of-Reincarnation-Late-Game-Build.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Ranged-Build.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/builds/Beast-Of-Reincarnation-Ranged-Build.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/builds/Beast-Of-Reincarnation-Skill-Tree-Explained.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/builds/Beast-Of-Reincarnation-Skill-Tree-Explained.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Character-Lore.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/characters/Beast-Of-Reincarnation-Character-Lore.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Emma-Character-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/characters/Beast-Of-Reincarnation-Emma-Character-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Character-Lore.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/characters/Beast-Of-Reincarnation-Character-Lore.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Character-Progression.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/characters/Beast-Of-Reincarnation-Character-Progression.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Emma-Development.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/characters/Beast-Of-Reincarnation-Emma-Development.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Emma-Character-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/characters/Beast-Of-Reincarnation-Emma-Character-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Emma-Vs-Koo.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/characters/Beast-Of-Reincarnation-Emma-Vs-Koo.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Emma-Development.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/characters/Beast-Of-Reincarnation-Emma-Development.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Koo-Backstory.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/characters/Beast-Of-Reincarnation-Koo-Backstory.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Koo-Backstory.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/characters/Beast-Of-Reincarnation-Koo-Backstory.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Action-Combat.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/combat/Beast-Of-Reincarnation-Action-Combat.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/characters/Beast-Of-Reincarnation-Female-Protagonist.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/characters/Beast-Of-Reincarnation-Female-Protagonist.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Best-Combat-Style.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/combat/Beast-Of-Reincarnation-Best-Combat-Style.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Boss-Fight-Strategies.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/combat/Beast-Of-Reincarnation-Boss-Fight-Strategies.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Boss-Fight-Strategies.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/combat/Beast-Of-Reincarnation-Boss-Fight-Strategies.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Dodge-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/combat/Beast-Of-Reincarnation-Dodge-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Combat-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/combat/Beast-Of-Reincarnation-Combat-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Emma-Skills.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/combat/Beast-Of-Reincarnation-Emma-Skills.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Combat-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/combat/Beast-Of-Reincarnation-Combat-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Dodge-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/combat/Beast-Of-Reincarnation-Dodge-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Ranged-Combat-Tips.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/combat/Beast-Of-Reincarnation-Ranged-Combat-Tips.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Beginner-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Beginner-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Beginner-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/guides/Beast-Of-Reincarnation-Beginner-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Does-It-Have-Easy-Mode.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/guides/Beast-Of-Reincarnation-Does-It-Have-Easy-Mode.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/combat/Beast-Of-Reincarnation-Ranged-Combat-Tips.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/combat/Beast-Of-Reincarnation-Ranged-Combat-Tips.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Chapter-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Chapter-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Does-It-Have-Easy-Mode.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Does-It-Have-Easy-Mode.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-How-Long-To-Beat.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/guides/Beast-Of-Reincarnation-How-Long-To-Beat.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Getting-Started.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Getting-Started.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Getting-Started.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/guides/Beast-Of-Reincarnation-Getting-Started.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-How-Long-To-Beat.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-How-Long-To-Beat.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-How-To-Play.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/guides/Beast-Of-Reincarnation-How-To-Play.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-How-To-Play.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-How-To-Play.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Game-Freak-Rpg.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Game-Freak-Rpg.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Patch-Notes-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/guides/Beast-Of-Reincarnation-Patch-Notes-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Patch-Notes-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Patch-Notes-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Story-Mode-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Story-Mode-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Is-It-Worth-Buying.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Is-It-Worth-Buying.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Things-To-Know.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Things-To-Know.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-All-Items-List.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/items/Beast-Of-Reincarnation-All-Items-List.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Healing-Items.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/items/Beast-Of-Reincarnation-Healing-Items.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/guides/Beast-Of-Reincarnation-Save-Game-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/guides/Beast-Of-Reincarnation-Save-Game-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Equipment-Comparison.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/items/Beast-Of-Reincarnation-Equipment-Comparison.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Healing-Items.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/items/Beast-Of-Reincarnation-Healing-Items.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Gear-Tier-List.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/items/Beast-Of-Reincarnation-Gear-Tier-List.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Weapon-Skills.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/items/Beast-Of-Reincarnation-Weapon-Skills.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Weapon-Upgrade.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/items/Beast-Of-Reincarnation-Weapon-Upgrade.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Weapon-Upgrade.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/items/Beast-Of-Reincarnation-Weapon-Upgrade.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Balance-Patch.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/news/Beast-Of-Reincarnation-Balance-Patch.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Weapons-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/items/Beast-Of-Reincarnation-Weapons-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Game-Changes.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/news/Beast-Of-Reincarnation-Game-Changes.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Game-Changes.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/news/Beast-Of-Reincarnation-Game-Changes.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Latest-Updates.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/news/Beast-Of-Reincarnation-Latest-Updates.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Pc-Patch-Notes.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/news/Beast-Of-Reincarnation-Pc-Patch-Notes.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/items/Beast-Of-Reincarnation-Weapons-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/items/Beast-Of-Reincarnation-Weapons-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Steam-Update.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/news/Beast-Of-Reincarnation-Steam-Update.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Pc-Patch-Notes.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/news/Beast-Of-Reincarnation-Pc-Patch-Notes.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Steam-Update.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/news/Beast-Of-Reincarnation-Steam-Update.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Roadmap.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/news/Beast-Of-Reincarnation-Roadmap.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/news/Beast-Of-Reincarnation-Update-History.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/news/Beast-Of-Reincarnation-Update-History.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Cross-Platform.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/platforms/Beast-Of-Reincarnation-Cross-Platform.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Fps-Optimization.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/platforms/Beast-Of-Reincarnation-Fps-Optimization.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Fps-Optimization.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/platforms/Beast-Of-Reincarnation-Fps-Optimization.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Pc-Troubleshooting.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/platforms/Beast-Of-Reincarnation-Pc-Troubleshooting.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Pc-Troubleshooting.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/platforms/Beast-Of-Reincarnation-Pc-Troubleshooting.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Ps5-Performance.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/platforms/Beast-Of-Reincarnation-Ps5-Performance.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Steam-Deck.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/platforms/Beast-Of-Reincarnation-Steam-Deck.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Cross-Platform.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/platforms/Beast-Of-Reincarnation-Cross-Platform.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Steam-Deck.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/platforms/Beast-Of-Reincarnation-Steam-Deck.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Steam-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/platforms/Beast-Of-Reincarnation-Steam-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-System-Requirements.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/platforms/Beast-Of-Reincarnation-System-Requirements.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-System-Requirements.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/platforms/Beast-Of-Reincarnation-System-Requirements.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-All-Endings.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/story/Beast-Of-Reincarnation-All-Endings.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/platforms/Beast-Of-Reincarnation-Steam-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/platforms/Beast-Of-Reincarnation-Steam-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Beast-Explained.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/story/Beast-Of-Reincarnation-Beast-Explained.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Beast-Explained.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/story/Beast-Of-Reincarnation-Beast-Explained.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Final-Boss-Story.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/story/Beast-Of-Reincarnation-Final-Boss-Story.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Final-Boss-Story.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/story/Beast-Of-Reincarnation-Final-Boss-Story.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Koo-Story-Arc.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/story/Beast-Of-Reincarnation-Koo-Story-Arc.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Japan-History-Lore.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/story/Beast-Of-Reincarnation-Japan-History-Lore.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Japan-History-Lore.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/story/Beast-Of-Reincarnation-Japan-History-Lore.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Koo-Story-Arc.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/story/Beast-Of-Reincarnation-Koo-Story-Arc.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-All-Endings.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/story/Beast-Of-Reincarnation-All-Endings.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Lore-Deep-Dive.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/story/Beast-Of-Reincarnation-Lore-Deep-Dive.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Story-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/story/Beast-Of-Reincarnation-Story-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/story/Beast-Of-Reincarnation-Lore-Deep-Dive.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/story/Beast-Of-Reincarnation-Lore-Deep-Dive.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Blight-Mechanics.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/world/Beast-Of-Reincarnation-Blight-Mechanics.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-All-Locations.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/world/Beast-Of-Reincarnation-All-Locations.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-All-Locations.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/world/Beast-Of-Reincarnation-All-Locations.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Blight-Mechanics.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/world/Beast-Of-Reincarnation-Blight-Mechanics.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Hidden-Items-World.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/world/Beast-Of-Reincarnation-Hidden-Items-World.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Hidden-Items-World.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/world/Beast-Of-Reincarnation-Hidden-Items-World.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Landmark-Locations.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/world/Beast-Of-Reincarnation-Landmark-Locations.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Landmark-Locations.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/world/Beast-Of-Reincarnation-Landmark-Locations.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-What-Caused-Blight.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/world/Beast-Of-Reincarnation-What-Caused-Blight.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Year-4026.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/world/Beast-Of-Reincarnation-Year-4026.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-World-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ja/world/Beast-Of-Reincarnation-World-Guide.mdx",
+      "locale": "ja",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-Year-4026.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/world/Beast-Of-Reincarnation-Year-4026.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    },
+    {
+      "source": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/en/world/Beast-Of-Reincarnation-World-Guide.mdx",
+      "output": "/Users/jinwei/Desktop/code/beast-of-reincarnation/content/ko/world/Beast-Of-Reincarnation-World-Guide.mdx",
+      "locale": "ko",
+      "reason": "word_ratio_below_threshold"
+    }
+  ]
+}

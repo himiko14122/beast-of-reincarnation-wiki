@@ -40,7 +40,7 @@ export interface HeroCtaConfig {
 
 export const HOME_CONFIG = {
   hero: {
-    videoId: 'bvqGAuu-ZIM',
+    videoId: 'H0r-Kap8kWI',
     badgeKeys: [
       'home_hero_badge_release',
       'home_hero_badge_price',
